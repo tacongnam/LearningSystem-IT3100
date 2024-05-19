@@ -1,0 +1,1524 @@
+[
+  {
+    "ID": 0,
+    "Name": "(NB)",
+    "CategoryID": 1,
+    "Content": "Phát biểu nào sau đây là đúng?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Chiết suất tỉ đối của môi trường chiết quang nhiều so với môi trường chiết quang ít thì nhỏ hơn 1.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Môi trường chiết quang kém có chiết suất tuyệt đối nhỏ hơn 1.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Chiết suất tỉ đối của môi trường 2 so với môi trường 1 bằng tỉ số chiết suất tuyệt đối n2 của môi trường 2 với chiết suất tuyệt đối n1 của môi trường 1.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Chiết suất tỉ đối của hai môi trường luôn lớn hơn 1 vì vận tốc ánh sáng trong chân không là vận tốc lớn nhất.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 1,
+    "Name": "(TH)",
+    "CategoryID": 1,
+    "Content": "Với một tia sáng đơn sắc, chiết suất tuyệt đối của nước là n1, của thuỷ tinh là n2. Chiết suất tỉ đối khi tia sáng đó truyền từ nước sang thuỷ tinh là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. n21 = n1/n2",
+        "mark": 1
+      },
+      {
+        "choice": "B. n21 = n2/n1",
+        "mark": 0
+      },
+      {
+        "choice": "C. n21 = n2 – n1",
+        "mark": 0
+      },
+      {
+        "choice": "D. n12 = n1 – n2",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 2,
+    "Name": "(VD)",
+    "CategoryID": 1,
+    "Content": "Chọn câu trả lời đúng. Trong hiện tượng khúc xạ ánh sáng:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. góc khúc xạ luôn bé hơn góc tới.",
+        "mark": 1
+      },
+      {
+        "choice": "B. góc khúc xạ luôn lớn hơn góc tới.",
+        "mark": 0
+      },
+      {
+        "choice": "C. góc khúc xạ tỉ lệ thuận với góc tới.",
+        "mark": 0
+      },
+      {
+        "choice": "D. khi góc tới tăng dần thì góc khúc xạ cũng tăng dần.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 3,
+    "Name": "(VDC)",
+    "CategoryID": 1,
+    "Content": "Chiết suất tỉ đối giữa môi trường khúc xạ với môi trường tới",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. luôn lớn hơn 1.",
+        "mark": 1
+      },
+      {
+        "choice": "B. luôn nhỏ hơn 1.",
+        "mark": 0
+      },
+      {
+        "choice": "C. bằng tỉ số giữa chiết suất tuyệt đối của môi trường khúc xạ và chiết suất tuyệt đối của môi trường tới.",
+        "mark": 0
+      },
+      {
+        "choice": "D. bằng hiệu số giữa chiết suất tuyệt đối của môi trường khúc xạ và chiết suất tuyệt đối của môi trường tới.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Name": "(NB)",
+    "CategoryID": 1,
+    "Content": "Chọn câu đúng nhất. Khi tia sáng đi từ môi trường trong suốt n1 tới mặt phân cách với môi trường trong suốt n2 (với n2 > n1), tia sáng không vuông góc với mặt phân cách thì",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. tia sáng bị gãy khúc khi đi qua mặt phân cách giữa hai môi trường.",
+        "mark": 1
+      },
+      {
+        "choice": "B. tất cả các tia sáng đều bị khúc xạ và đi vào môi trường n2.",
+        "mark": 0
+      },
+      {
+        "choice": "C. tất cả các tia sáng đều phản xạ trở lại môi trường n1.",
+        "mark": 0
+      },
+      {
+        "choice": "D. một phần tia sáng bị khúc xạ, một phần bị phản xạ.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Name": "(TH)",
+    "CategoryID": 2,
+    "Content": "Chiết suất tuyệt đối của một môi trường truyền ánh sáng",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. luôn lớn hơn 1.",
+        "mark": 1
+      },
+      {
+        "choice": "B. luôn nhỏ hơn 1.",
+        "mark": 0
+      },
+      {
+        "choice": "C. luôn bằng 1.",
+        "mark": 0
+      },
+      {
+        "choice": "D. luôn lớn hơn 0.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Name": "(VD)",
+    "CategoryID": 2,
+    "Content": "Chiếu một tia sáng đơn sắc đi từ không khí vào môi trường có chiết suất n, sao cho tia phản xạ vuông góc với tia khúc xạ. Khi đó góc tới i được tính theo công thức",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. sin(i) = n",
+        "mark": 1
+      },
+      {
+        "choice": "B. sin(i) = 1/n",
+        "mark": 0
+      },
+      {
+        "choice": "C. tan(i) = n",
+        "mark": 0
+      },
+      {
+        "choice": "D. tan(i) = 1/n",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "Name": "(VDC)",
+    "CategoryID": 2,
+    "Content": "Một bể chứa nước có thành cao 80 (cm) và đáy phẳng dài 120 (cm) và độ cao mực nước trong bể là 60 (cm), chiết suất của nước là 4/3. ánh nắng chiếu theo phương nghiêng góc 30o so với phương ngang. Độ dài bóng đen tạo thành trên mặt nước là",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 11,5 (cm)",
+        "mark": 1
+      },
+      {
+        "choice": "B. 34,6 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "C. 63,7 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "D. 44,4 (cm)",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "Name": "(NB)",
+    "CategoryID": 2,
+    "Content": "Một bể chứa nước có thành cao 80 (cm) và đáy phẳng dài 120 (cm) và độ cao mực nước trong bể là 60 (cm), chiết suất của nước là 4/3. ánh nắng chiếu theo phương nghiêng góc 30o so với phương ngang. Độ dài bóng đen tạo thành trên đáy bể là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 11,5 (cm)",
+        "mark": 1
+      },
+      {
+        "choice": "B. 34,6 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "C. 51,6 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "D. 85,9 (cm)",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "Name": "(TH)",
+    "CategoryID": 2,
+    "Content": "Một điểm sáng S nằm trong chất lỏng (chiết suất n), cách mặt chất lỏng một khoảng 12 (cm), phát ra chùm sáng hẹp đến gặp mặt phân cách tại điểm I với góc tới rất nhỏ, tia ló truyền theo phương IR. Đặt mắt trên phương IR nhìn thấy ảnh ảo S’ của S dường như cách mặt chất lỏng một khoảng 10 (cm). Chiết suất của chất lỏng đó là",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. n = 1,12",
+        "mark": 1
+      },
+      {
+        "choice": "B. n = 1,20",
+        "mark": 0
+      },
+      {
+        "choice": "C. n = 1,33",
+        "mark": 0
+      },
+      {
+        "choice": "D. n = 1,40",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 10,
+    "Name": "(VD)",
+    "CategoryID": 2,
+    "Content": "Cho chiết suất của nước n = 4/3. Một người nhìn một hòn sỏi nhỏ S mằn ở đáy một bể nước sâu 1,2 (m) theo phương gần vuông góc với mặt nước, thấy ảnh S’ nằm cách mặt nước một khoảng bằng",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 1,5 (m)",
+        "mark": 1
+      },
+      {
+        "choice": "B. 80 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "C. 90 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "D. 1 (m)",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "Name": "(VDC)",
+    "CategoryID": 3,
+    "Content": "Một người nhìn hòn sỏi dưới đáy một bể nước thấy ảnh của nó dường như cách mặt nước một khoảng 1,2 (m), chiết suất của nước là n = 4/3. Độ sâu của bể là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. h = 90 (cm)",
+        "mark": 1
+      },
+      {
+        "choice": "B. h = 10 (dm)",
+        "mark": 0
+      },
+      {
+        "choice": "C. h = 16 (dm)",
+        "mark": 0
+      },
+      {
+        "choice": "D. h = 1,8 (m)",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 12,
+    "Name": "(NB)",
+    "CategoryID": 3,
+    "Content": "Một người nhìn xuống đáy một chậu nước (n = 4/3). Chiều cao của lớp nước trong chậu là 20 (cm). Người đó thấy đáy chậu dường như cách mặt nước một khoảng bằng",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 10 (cm)",
+        "mark": 1
+      },
+      {
+        "choice": "B. 15 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "C. 20 (cm)",
+        "mark": 0
+      },
+      {
+        "choice": "D. 25 (cm)",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 13,
+    "Name": "(TH)",
+    "CategoryID": 3,
+    "Content": "Một bản mặt song song có bề dày 10 (cm), chiết suất n = 1,5 được đặt trong không khí. Chiếu tới bản một tia sáng SI có góc tới 45o khi đó tia ló khỏi bản sẽ",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. hợp với tia tới một góc 45o.",
+        "mark": 1
+      },
+      {
+        "choice": "B. vuông góc với tia tới.",
+        "mark": 0
+      },
+      {
+        "choice": "C. song song với tia tới.",
+        "mark": 0
+      },
+      {
+        "choice": "D. vuông góc với bản mặt song song.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 14,
+    "Name": "(VD)",
+    "CategoryID": 3,
+    "Content": "Một bản mặt song song có bề dày 10 (cm), chiết suất n = 1,5 được đặt trong không khí. Chiếu tới bản một tia sáng SI có góc tới 45o. Khoảng cách giữa giá của tia tới và tia ló là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. a = 3,3 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. a = 4,15 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. a = 3,25 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. a = 2,86 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 15,
+    "Name": "(VDC)",
+    "CategoryID": 3,
+    "Content": "Một bản hai mặt song song có bề dày 6 (cm), chiết suất n = 1,5 được đặt trong không khí. Điểm sáng S cách bản 20 (cm). ảnh S’ của S qua bản hai mặt song song cách S một khoảng",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 1 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. 2 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. 3 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. 4 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 16,
+    "Name": "(NB)",
+    "CategoryID": 4,
+    "Content": "Một bản hai mặt song song có bề dày 6 (cm), chiết suất n = 1,5 được đặt trong không khí. Điểm sáng S cách bản 20 (cm). ảnh S’ của S qua bản hai mặt song song cách bản hai mặt song song một khoảng",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 10 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. 14 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. 18 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. 22(cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 17,
+    "Name": "(TH)",
+    "CategoryID": 4,
+    "Content": "Phát biểu nào sau đây là không đúng?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Khi có phản xạ toàn phần thì toàn bộ ánh sáng phản xạ trở lại môi trường ban đầu chứa chùm tia sáng tới.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Phản xạ toàn phần chỉ xảy ra khi ánh sáng đi từ môi trường chiết quang sang môi trường kém chết quang hơn.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Phản xạ toàn phần xảy ra khi góc tới lớn hơn góc giới hạn phản xạ toàn phần igh",
+        "mark": 0
+      },
+      {
+        "choice": "D. Góc giới hạn phản xạ toàn phần được xác định bằng tỉ số giữa chiết suất của môi trường kém chiết quang với môi trường chiết quang hơn.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 18,
+    "Name": "(VD)",
+    "CategoryID": 4,
+    "Content": "Khi một chùm tia sáng phản xạ toàn phần tại mặt phân cách giữa hai môi trường thì",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. cường độ sáng của chùm khúc xạ bằng cường độ sáng của chùm tới.",
+        "mark": 1
+      },
+      {
+        "choice": "B. cường độ sáng của chùm phản xạ bằng cường độ sáng của chùm tới.",
+        "mark": 0
+      },
+      {
+        "choice": "C. cường độ sáng của chùm khúc xạ bị triệt tiêu.",
+        "mark": 0
+      },
+      {
+        "choice": "D. cả B và C đều đúng.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 19,
+    "Name": "(VDC)",
+    "CategoryID": 4,
+    "Content": "Phát biểu nào sau đây là đúng?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Ta luôn có tia phản xạ khi tia sáng đi từ môi trường có chiết suất nhỏ sang môi trường có chiết suất lớn hơn.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Ta luôn có tia phản xạ khi tia sáng đi từ môi trường có chiết suất lớn sang môi trường có chiết suất nhỏ hơn.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Khi chùm tia sáng phản xạ toàn phần thì không có chùm tia khúc xạ.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Khi có sự phản xạ toàn phần, cường độ sáng của chùm phản xạ gần như bằng cường độ sáng của chùm sáng tới.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 20,
+    "Name": "(NB)",
+    "CategoryID": 4,
+    "Content": "Khi ánh sáng đi từ nước (n = 4/3) sang không khí, góc giới hạn phản xạ toàn phần có giá trị là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. igh = 41o48’.",
+        "mark": 1
+      },
+      {
+        "choice": "B. igh = 48o35’.",
+        "mark": 0
+      },
+      {
+        "choice": "C. igh = 62o44’.",
+        "mark": 0
+      },
+      {
+        "choice": "D. igh = 38o26’.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 21,
+    "Name": "(TH)",
+    "CategoryID": 4,
+    "Content": "Tia sáng đi từ thuỷ tinh (n1 = 1,5) đến mặt phân cách với nước (n2 = 4/3). Điều kiện của góc tới i để không có tia khúc xạ trong nước là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. i ≥ 62o44’.",
+        "mark": 1
+      },
+      {
+        "choice": "B. i < 62o44’.",
+        "mark": 0
+      },
+      {
+        "choice": "C. i < 41o48’.",
+        "mark": 0
+      },
+      {
+        "choice": "D. i < 48o35’.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 22,
+    "Name": "(VD)",
+    "CategoryID": 4,
+    "Content": "Cho một tia sáng đi từ nước (n = 4/3) ra không khí. Sự phản xạ toàn phần xảy ra khi góc tới:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. i < 49o.",
+        "mark": 1
+      },
+      {
+        "choice": "B. i > 42o.",
+        "mark": 0
+      },
+      {
+        "choice": "C. i > 49o.",
+        "mark": 0
+      },
+      {
+        "choice": "D. i > 43o.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 23,
+    "Name": "(VDC)",
+    "CategoryID": 4,
+    "Content": "Một miếng gỗ hình tròn, bán kính 4 (cm). ở tâm O, cắm thẳng góc một đinh OA. Thả miếng gỗ nổi trong một chậu nước có chiết suất n = 1,33. Đinh OA ở trong nước, cho OA = 6 (cm). Mắt đặt trong không khí sẽ thấy đầu A cách mặt nước một khoảng lớn nhất là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. OA’ = 3,64 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. OA’ = 4,39 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. OA’ = 6,00 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. OA’ = 8,74 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 24,
+    "Name": "(NB)",
+    "CategoryID": 4,
+    "Content": "Một miếng gỗ hình tròn, bán kính 4 (cm). ở tâm O, cắm thẳng góc một đinh OA. Thả miếng gỗ nổi trong một chậu nước có chiết suất n = 1,33. Đinh OA ở trong nước. Mắt đặt trong không khí, chiều dài lớn nhất của OA để mắt không thấy đầu A là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. OA = 3,25 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. OA = 3,53 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. OA = 4,54 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. OA = 5,37 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 25,
+    "Name": "(TH)",
+    "CategoryID": 4,
+    "Content": "Một ngọn đèn nhỏ S đặt ở đáy một bể nước (n = 4/3), độ cao mực nước h = 60 (cm). Bán kính r bé nhất của tấm gỗ tròn nổi trên mặt nước sao cho không một tia sáng nào từ S lọt ra ngoài không khí là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. r = 49 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. r = 68 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. r = 55 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. r = 51 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 26,
+    "Name": "(VD)",
+    "CategoryID": 4,
+    "Content": "Chiếu một chùm tia sáng song song trong không khí tới mặt nước ( n = 4/3) với góc tới là 45o. Góc hợp bởi tia khúc xạ và tia tới là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. D = 70o32’.",
+        "mark": 1
+      },
+      {
+        "choice": "B. D = 45o.",
+        "mark": 0
+      },
+      {
+        "choice": "C. D = 25o32’.",
+        "mark": 0
+      },
+      {
+        "choice": "D. D = 12o58’.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 27,
+    "Name": "(VDC)",
+    "CategoryID": 4,
+    "Content": "Một chậu nước chứa một lớp nước dày 24 (cm), chiết suất của nước là n = 4/3. Mắt đặt trong không khí, nhìn gần như vuông góc với mặt nước sẽ thấy đáy chậu dường như cách mặt nước một đoạn bằng",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 6 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. 8 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. 18 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. 23 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 28,
+    "Name": "(NB)",
+    "CategoryID": 4,
+    "Content": "Một cái chậu đặt trên một mặt phẳng nằm ngang, chứa một lớp nước dày 20 (cm), chiết suất n = 4/3. Đáy chậu là một gương phẳng. Mắt M cách mặt nước 30 (cm), nhìn gần như vuông góc với mặt nước. Khoảng cách từ ảnh của mắt tới mặt nước là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. 30 (cm).",
+        "mark": 1
+      },
+      {
+        "choice": "B. 45 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "C. 60 (cm).",
+        "mark": 0
+      },
+      {
+        "choice": "D. 70 (cm).",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 29,
+    "Name": "(TH)",
+    "CategoryID": 5,
+    "Content": "Hãy nêu mâu thuẫn cơ bản của xã hội Việt Nam sau chiến tranh thế giới lần thứ nhất ?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. giữa dân tộc Việt Nam với thực dân Pháp.",
+        "mark": 1
+      },
+      {
+        "choice": "B. giữa giai cấp tư sản với giai cấp vô sản.",
+        "mark": 0
+      },
+      {
+        "choice": "C. giữa  giai cấp nông dân với phong kiến.",
+        "mark": 0
+      },
+      {
+        "choice": "D. giữa giai cấp nông dân với tư sản.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 30,
+    "Name": "(VD)",
+    "CategoryID": 5,
+    "Content": "Sau chiến tranh thế giới thứ nhất xã hội Việt Nam bị phân hóa như thế nào?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Phân hóa sâu sắc bên cạnh giai cấp cũ: phong kiến, nông dân.Xuất hiện giai cấp mói: tư sản, tiểu tư sản, vô sản.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Phân hóa sâu sắc xuất hiện các giai cấp mới: tư sản, vô sản, phong kiến, nông dân, tiểu tư sản.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Phân hóa sâu sắc trong đó 2 giai cấp mới xuất hiện:  vô sản và nông dân là lực lương quan trọng của cách mạng.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Phân hóa sâu sắc giai cấp vô sản mới ra đời đã vươn lên giành quyền lãnh đạo cách mạng đi đến thắng lợi.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 31,
+    "Name": "(VDC)",
+    "CategoryID": 5,
+    "Content": "Tại sao vào ngày 12/3/1945 Đảng ta lại ra chỉ thị “Nhật –Pháp bắn nhau và hành động của ta”",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Mâu thuẩn Pháp –Nhật trở nên gay gắt.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Nhật đảo chính Pháp.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Nhật đầu hàng Đồng minh.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Pháp –Nhật cùng nhau bóc lột nhân dân ta.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 32,
+    "Name": "(NB)",
+    "CategoryID": 5,
+    "Content": "Ý nghĩa to lớn của cách mạng tháng Tám 1945 là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Chấm dứt sự thống trị của thực dân Pháp và phát xít Nhật đối với nước ta.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Người dân Việt Nam từ thân phận nô lệ trở thành người làm chủ đất nước.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Đem lại độc lập tự do cho dân tộc và cổ vũ cho phong trào cách mạng thế giới.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Lật đổ ngai vàng phong kiến đã ngự trị hàng chục thế kỉ trên đất nước ta.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 33,
+    "Name": "(TH)",
+    "CategoryID": 5,
+    "Content": "Vì sao ta phát động kháng chiến toàn quốc vào ngày 19/12/1946?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Pháp vi phạm hiệp đĩnh sơ bộ.",
+        "mark": 1
+      },
+      {
+        "choice": "B. ta không thể hòa được nữa.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Pháp gửi tối hậu thư cho ta.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Pháp bội ước tấn công ta.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 34,
+    "Name": "(VD)",
+    "CategoryID": 6,
+    "Content": "Nội dung nào sau đây không nằm trong nghị quyết Hội nghị Trung ương Đảng lần 6 (11/1939)?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Dùng bạo lực cách mạng để giành chính quyền.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Tạm gác nhiệm vụ cách mạng ruộng đất.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Đưa vấn đề giải phóng dân tộc lên hàng đầu.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Nhật là kẻ thù chủ yếu.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 35,
+    "Name": "(VDC)",
+    "CategoryID": 6,
+    "Content": "Tháng 3 - 1947, Pháp tấn công lên Việt Bắc chủ trương của ta là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Tiêu diệt toàn bộ quân địch.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Phải phá tan cuộc tấn công mùa đông của giặc Pháp.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Kiên quyết đánh bại Pháp. ",
+        "mark": 0
+      },
+      {
+        "choice": "D. Tránh đối đầu cùng lúc với nhiều kẻ thù, hòa để tiến.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 36,
+    "Name": "(NB)",
+    "CategoryID": 6,
+    "Content": "Nha bình dân học vụ là cơ quan chuyên trách về chống:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. nội phản.",
+        "mark": 1
+      },
+      {
+        "choice": "B. giặc dốt.",
+        "mark": 0
+      },
+      {
+        "choice": "C. ngoại xâm.",
+        "mark": 0
+      },
+      {
+        "choice": "D. giặc đói.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 37,
+    "Name": "(TH)",
+    "CategoryID": 6,
+    "Content": "“ Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững  quyền tự do độc lập ấy.” Đó là nội dung của:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Tuyên ngôn độc lập.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Lời kêu gọi nhân ngày thành lập Đảng.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Lời  kêu gọi toàn quốc kháng chiến.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Tuyên ngôn của Mặt trận Việt Minh.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 38,
+    "Name": "(VD)",
+    "CategoryID": 6,
+    "Content": "Nội dung nào sau đây không thuộc Nghị quyết Hội nghị trung ương Đảng lần 8 (5/1941)?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Kẻ thù của cách mạng là đế quốc Pháp và phát xít Nhật.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Nhiệm vụ cách mạng chủ yếu là đấu tranh giai cấp.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Giải phóng dân tộc.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Tạm gác cách mạng ruộng đất.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 39,
+    "Name": "(VDC)",
+    "CategoryID": 6,
+    "Content": "Nội dung nào sau đây không thuộc Hiệp định sơ bộ?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Hai bên ngừng mọi xung đột  ở Nam Bộ..",
+        "mark": 1
+      },
+      {
+        "choice": "B. Pháp công nhận Việt Nam là một quốc gia tự do.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Ta đồng ý cho 15000 quân Pháp ra miền Bắc thay thế cho quân Tưởng.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Nhượng cho Pháp một số quyền lợi kinh tế, văn hoá ở Việt Nam.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 40,
+    "Name": "(NB)",
+    "CategoryID": 7,
+    "Content": "Hãy kể tên hai đảng ở Việt Nam là tay sai của quân Tưởng?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Thanh Niên Cao Vọng, Tân Việt.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Việt Quốc, Việt Cách.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Đảng Tân Việt, Phục Việt.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Đại Việt, Việt Quốc.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 41,
+    "Name": "(TH)",
+    "CategoryID": 7,
+    "Content": "Nội dung nào sau đây không phải là ý nghĩa của cách mạng tháng Tám 1945?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Phá tan xiềng xích nô lệ của Pháp - Nhật và phong kiến, đem lại độc lập tự do cho dân tộc.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Buộc Pháp công nhận độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Việt Nam.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Mở ra một kỉ nguyên mới trong lịch sử dân tộc: độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Góp phần chiến thắng phát xít,cổ vũ các dân tộc thuộc địa đấu tranh tự giải phóng.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 42,
+    "Name": "(VD)",
+    "CategoryID": 7,
+    "Content": "Năm 1929 ba tổ chức cộng sản lần lượt ra đời theo thứ tự:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Đông Dương cộng sản liên đoàn, Đông Dương cộng sản đảng, An Nam cộng sản đảng.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Đông Dương cộng sản đảng, Đông dương cộng sản liên đoàn, An Nam cộng sản đảng.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Đông Dương cộng sản đảng, An Nam cộng sản đảng, Đông dương cộng sản liên đoàn.",
+        "mark": 0
+      },
+      {
+        "choice": "D. An Nam cộng sản đảng, Đông Dương cộng sản đảng, Đông dương cộng sản liên đoàn.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 43,
+    "Name": "(VDC)",
+    "CategoryID": 7,
+    "Content": "Đường lối kháng chiến của Đảng ta là gì?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Phải liên kết với cuộc kháng chiến của Lào và Campuchia.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Kháng chiến dựa vào sức mình và tranh thủ ủng hộ từ bên ngoài.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Kháng chiến toàn diện.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Toàn dân, toàn diện, trường kỳ tự lực cánh sinh và tranh thủ sự ủng hộ của quốc tế.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 44,
+    "Name": "(NB)",
+    "CategoryID": 7,
+    "Content": "Nguyên nhân cơ bản quyết định sự thắng lợi của cách mạng tháng Tám 1945 là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Truyền thống yêu nước, tinh thần đấu tranh kiên cường bất khuất của nhân dân ta.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Phát xít Nhật bị  Liên Xô và phe đồng minh đánh bại, kẻ thù chính của  ta gục ngã.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Sự lãnh đạo của Đảng cộng sản Đông Dương, đứng đầu là Chủ tịch Hồ Chí Minh.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Liên minh công nông vững chắc,đoàn kết các giai cấp đấu tranh vũ trang.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 45,
+    "Name": "(TH)",
+    "CategoryID": 8,
+    "Content": "Nước ta năm đầu tiên sau cách mạng tháng Tám ở vào tình thế:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Vô cùng khó khăn như “ngàn cân treo sợi tóc”.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Bị các nước đế quốc bao vây và cấm vận.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Khủng hoảng nghiêm trọng do hậu quả của chế độ thực dân.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Được sự giúp đỡ của Liên Xô và các nước xã hội chủ nghĩa.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 46,
+    "Name": "(VD)",
+    "CategoryID": 8,
+    "Content": "Để tạm thời giải quyết nạn đói Hồ Chủ Tịch đã kêu gọi:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Nhường cơm sẻ áo.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Kêu gọi sự cứu trợ của thế giới.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Mở kho phát gạo cho nhân dân.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Tăng gia sản xuất.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 47,
+    "Name": "(VDC)",
+    "CategoryID": 8,
+    "Content": "Để khắc phục tình trạng trống rỗng về ngân sách , nhân dân ta đã hưởng ứng phong trào:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. “Quỹ độc lập”.",
+        "mark": 1
+      },
+      {
+        "choice": "B. “Tăng gia sản xuất”.",
+        "mark": 0
+      },
+      {
+        "choice": "C. “Ngày đồng tâm”.",
+        "mark": 0
+      },
+      {
+        "choice": "D. “Không một tấc đất bỏ hoang”.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 48,
+    "Name": "(NB)",
+    "CategoryID": 8,
+    "Content": "Tư tưởng cốt lõi trong cương lĩnh chính trị của Nguyễn Aí quốc soạn thảo là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Đoàn kết quốc tế.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Bình đẳng, bác ái.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Độc lập, chủ quyền.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Độc lập, tự do.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 49,
+    "Name": "(TH)",
+    "CategoryID": 8,
+    "Content": "Trong đợt khai thác thuộc địa lần 2 Pháp tập trung vào ngành:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. khai khoáng,công nghiệp.",
+        "mark": 1
+      },
+      {
+        "choice": "B. nông nghiệp,khai khoáng.",
+        "mark": 0
+      },
+      {
+        "choice": "C. thủ công nghiệp,ngoại thương.",
+        "mark": 0
+      },
+      {
+        "choice": "D. luyên kim,giao thông vận tải..",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 50,
+    "Name": "(VD)",
+    "CategoryID": 8,
+    "Content": "Hội Việt Nam cách mạng thanh niên ra đời nhằm mục đích ?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. đấu tranh đòi dân sinh dân chủ.",
+        "mark": 1
+      },
+      {
+        "choice": "B. chuẩn bị lực lượng cho tổn khởi nghĩa.",
+        "mark": 0
+      },
+      {
+        "choice": "C. hạn chế sự chia rẽ trong các tổ chức cộng sản.",
+        "mark": 0
+      },
+      {
+        "choice": "D. tổ chức lãnh đạo quần chúng đấu tranh.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 51,
+    "Name": "(VDC)",
+    "CategoryID": 8,
+    "Content": "Tại Hội nghị TW Đảng lần thứ 8 (5/1941), Nguyễn Ái Quốc chủ trương thành lập mặt trận nào?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Mặt trận Việt Minh. ",
+        "mark": 1
+      },
+      {
+        "choice": "B. Mặt trận dân chủ Đông Dương.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Mặt trận Đồng Minh.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Mặt trận Liên Việt.                       ",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 52,
+    "Name": "(NB)",
+    "CategoryID": 8,
+    "Content": "Thắng lợi quan trọng của ta trong chiến dịch Việt Bắc – thu đông 1947 là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Buộc địch co cụm về thế phòng ngự bị động.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Làm lung lay ý chí xâm lược của thực dân Pháp.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Làm thay đổi cục diện chiến tranh, Pháp phải rút chạy.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Cơ quan đầu não kháng chiến được bảo toàn.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 53,
+    "Name": "(TH)",
+    "CategoryID": 8,
+    "Content": "Kẻ thù vào nước ta từ vĩ tuyến 16 ra Bắc nhằm giải giáp quân nhật là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. quân Anh.",
+        "mark": 1
+      },
+      {
+        "choice": "B. quân Nhật.",
+        "mark": 0
+      },
+      {
+        "choice": "C. quân Tưởng.",
+        "mark": 0
+      },
+      {
+        "choice": "D. quân Pháp.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 54,
+    "Name": "(VD)",
+    "CategoryID": 8,
+    "Content": "Phong trào đấu tranh lần đầu tiên dưới sự lãnh đạo của Đảng:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. phong trào 1936-1939. ",
+        "mark": 1
+      },
+      {
+        "choice": "B. phong trào 1939-1945.",
+        "mark": 0
+      },
+      {
+        "choice": "C. phong trào 1930-1931.",
+        "mark": 0
+      },
+      {
+        "choice": "D. phong trào 1925-1930.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 55,
+    "Name": "(VDC)",
+    "CategoryID": 8,
+    "Content": "Việc kí kết Hiệp định sơ bộ tạm hoà với Pháp, chứng tỏ:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Sự thắng lợi của Pháp trên mặt trận ngoại giao.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Sự thoả hiệp của Đảng và chính phủ ta.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Chủ trương đúng đắn và kịp thời của Đảng .",
+        "mark": 0
+      },
+      {
+        "choice": "D. Sự suy yếu của lực lượng cách mạng.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 56,
+    "Name": "(NB)",
+    "CategoryID": 8,
+    "Content": "Hãy xác định hình thức và phương pháp đấu tranh trong thời kì 1936 - 1939?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Đấu tranh nghị trường là chủ yếu.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Bí mật, bất hợp pháp.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Hợp pháp và nửa hợp pháp, công khai và nửa công khai.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Đấu tranh chính trị kết hợp với đấu tranh vũ trang.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 57,
+    "Name": "(TH)",
+    "CategoryID": 8,
+    "Content": "Biện pháp ta đối phó với tay sai của Tưởng là:",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. thõa hiệp để giữ chính quyền. ",
+        "mark": 1
+      },
+      {
+        "choice": "B. cho chúng nhiều quyền lợi về kinh tế chính trị.",
+        "mark": 0
+      },
+      {
+        "choice": "C. trấn áp trừng trị theo pháp luật. ",
+        "mark": 0
+      },
+      {
+        "choice": "D. nhân nhượng thõa mãn các yêu sách.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 58,
+    "Name": "(VD)",
+    "CategoryID": 8,
+    "Content": "Trong các nguyên nhân sau đây, nguyên nhân nào là cơ bản nhất, quyết định sự bùng nổ phong trào cách mạng 1930- 1931?",
+    "DefaultMark": 1,
+    "Choice": [
+      {
+        "choice": "A. Thực dân Pháp tiến hành khủng bố trắng sau khởi nghĩa Yên Bái.",
+        "mark": 1
+      },
+      {
+        "choice": "B. Đảng Cộng sản Việt Nam ra đời, kịp thời lãnh đạo đấu tranh.",
+        "mark": 0
+      },
+      {
+        "choice": "C. Địa chủ phong kiến tay sai của thực dân Pháp tăng cường bóc lột nhân dân Việt Nam.",
+        "mark": 0
+      },
+      {
+        "choice": "D. Ảnh hưởng cuộc khủng hoảng kinh tế 1929- 1933 làm cho đời sống nhân dân cơ cực.",
+        "mark": 0
+      }
+    ]
+  },
+  {
+    "ID": 59,
+    "Name": "asfav",
+    "CategoryID": 8,
+    "Content": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Segoe UI;}{\\f1\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs20 awffwarq2erq\\f1\\par\r\n}\r\n",              
+    "DefaultMark": 1.0,
+    "Choice": [
+      {
+        "choice": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Segoe UI;}{\\f1\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs20 wqdacs\\f1\\par\r\n}\r\n",
+        "mark": 0.0
+      },
+      {
+        "choice": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Segoe UI;}{\\f1\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs20 asfdawf\\f1\\par\r\n}\r\n",
+        "mark": 0.0
+      }
+    ]
+  },
+  {
+    "ID": 60,
+    "Name": "awrawr",
+    "CategoryID": 8,
+    "Content": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs20{\\pict{\\*\\picprop{\\sp{\\sn wzDescription}{\\sv avatar.jpg}}{\\sp{\\sn posv}{\\sv 1}}\r\n}\\jpegblip\\picw9836\\pich10000\\picwgoal5576\\pichgoal5669 \r\nffd8ffe000104a46494600010101006000600000ffdb004300090607080706090808080a0a090b\r\n0e170f0e0d0d0e1c14151117221e2323211e2020252a352d2527322820202e3f2f3237393c3c3c\r\n242d4246413a46353b3c39ffdb0043010a0a0a0e0c0e1b0f0f1b39262026393939393939393939\r\n393939393939393939393939393939393939393939393939393939393939393939393939393939\r\n3939ffc000110802dc02d003012200021101031101ffc4001f0000010501010101010100000000\r\n000000000102030405060708090a0bffc400b5100002010303020403050504040000017d010203\r\n00041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718\r\n191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a\r\n737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6\r\nb7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7\r\nf8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400\r\nb51100020102040403040705040400010277000102031104052131061241510761711322328108\r\n144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a4344\r\n45464748494a535455565758595a636465666768696a737475767778797a82838485868788898a\r\n92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4\r\nd5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffda000c03010002110311003f00ed\r\n68a28af68f9f0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2\r\n800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28\r\na2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a29296800a28a2800a28a\r\n7ffc01dea6538aea69c8fb0ca2a5d8dff3ed5226ff00e3b447fee5652af15d471a6fb15a8ab9b1\r\nff00e7c528f27fe9d1ea3eb5134f6253a4ab91db23eff9268e9ff614fe09a8fadc05f57914296a\r\ncfd825fefa535ecee3fb9571c441f5265464ba105143a3a515af3aee472bec145145527722d60a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2\r\n800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28\r\na2800a28a3e5a0028a7f92cff729953ed115ca1454b1db4aff00f2c5ea4fb04ffdcace55a0ba97\r\necdf62b51567ec33ff00b14dfb0cff00dca5f58a7dc3d8cfb105152fd9ae3fb9516c74fe07aa8d\r\n687717b37d828a7c692bfdc47a992c5ff8dea658882ea38d194ba156a64b695eaeecf253fd16db\r\ncc7a8dd354fe3b9b6b5ff806eae49e36fb1d74f09dc3fb3bfbf3549f618ab1eeae6c21f927f135\r\nceff00ee4159f25cf871ff00d75c6ad3bff7dddab9a5889bea75470abb1d6c70c49fc094edebfd\r\nf4ae16e9fc3cfb12d52f2ab27f60ff00d45bff001dace4e4fa9b4682ec7a2d0f5c0a5b583ffa84\r\nd5bfefb8aa277bcb6ff517daac7fec3ed6ac64e4ba95f573d068af3c8f5fd5a1fb9abbbffb13c1\r\n53a78bb564fbf0c3ff000382a39d8feaecefa8ae3a1f1b7fcfd58ffdf0f5a56be2ed266f92679a\r\nd7fdf8e8e617b26ba1bf4da821beb39a3df05ddb489fefd4f1ec7fb8e9250a5222507d829be4c5\r\nfdc4a9363ff728ad63566ba91c8bb103d9c4ff00c1549ed9d3efa56a515ad3c64e261530e99894\r\n3d6cc888f503d8c4f5dd4f1aa5b9cd2c2b3368a9e4b3953fdb4a82bb235232ea612a6e3d028a28\r\nad8c828a28a900a4a5a28284a5a3f8e9280168a28a090a28a2800a28a2800a28a2800a28a2800a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a8dd37a6cdef1d0049\r\n455492ce5fe0be9d2a37b9d4adbe79a18674fefa7cb53cd6368d3e62fd159d06b561347febb67f\r\nbf44dad59a7dcdf27fc028f6887ec65d11a9bdd3ee5491de4a9585fdaf2bff00a8d3a6a3fb46f7\r\nfe817ff8fd6329419ac70f33a88ef126fe3a9eb90fed1bcffa077fe44ab29abde429ff001e3357\r\n056a4a5b33aa9c24b747514dac487c5161ff002fbbed5ffdca964f12e9089bfed35c72a7247472\r\nbec6b513cc90c7be77d89fdf7ae56ebc61fc1656ff00f037ac29ff00b4b527df36f9eaa309f72a\r\n344ebaebc51610becb549ae9ff00d8ac7baf12ea9fc090daff00e3d59b069d79b363ca90254e9a\r\n5d9a7fafb9792b4e566b1a714567d6b549befdfcd553fe3e5fe79669eb613ec70fdcb74a24d45f\r\nf83652e52f42941676ff00c7697b3d5b4b347fb9a5c307fd769ea392fa5fefd5692f1ffbf47b36\r\n1cc5ff00ece8bfb96c9ff00a3ecd669ff3c7fef8ac992e5e8f39aabd98739adf66d25fefdba7fd\r\nf1b6a74d3bc3c9f7229a3ac2dfed46f7a9961cae73a8d9e1e7fbf66956e09b4b85365afc9ff036\r\nae43ce6a3ceacfeae57b43a6992ce67f92d2c24ff81b2d50bab1fee58cdff0078a5acdf3aa74b9\r\n74fb8f53ec03da19b74966926c9ec3fe07b36d548de249b7c2efff007dedae963d525fe3d92559\r\nfb659cdff1f36707fdf147b368b8ca265e9dabdc7fcfcea5ff00007f37ff001d6addb5d75ffe82\r\n5613ff00b1323412d65cda2e9b33f996b72f6af552ea1d4ac366fd97d07fb9baa6444a9c59dac1\r\naa3bfdfb19bfdf4fdea7fe3b53c17d6b37c892a6ff00fbe6b818757b547ff8f39aca7fefdabeda\r\ndbb5d7259a344f3adb54ff006264f2a5a9339513aca2b2f4ed46c1e4f251de09ff00e78cd5a552\r\n734a361d504d0a4df7d2a5a756f1a928f5319479ba19325b4be67dca6c88e95b14d9111d363d76\r\nd3c77739a58631a8a9e7b6787fe9a2541f7237af469d6535739254da6436afbfcdfefa48c95355\r\n2d3a6f3aeaf1ff00bfe5bfe7576b58cae2946c4b6a9be78929b37fae7ff7a9d69feba2a2e9365d\r\n4b58f37be55b422a28a2ba0c428a28a900a28a2800a28a2800a28a2800a28a2800a28a2800a28a\r\n2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a2\r\n8a2800a28a2800a28a2800a28a2800a28a2800a28a280237495d3e49bcbff6f66ea83fb2ed7efc\r\nfe64effdf99eadd147295193454934eb09a3d9f664ff0080550934bbab3f9f4f97cc4ff9e2f5b5\r\n456538236a75e499cf7f6a3a49b2ea2781eaca5ca3ecd9715b1258dadcc7e65e5c3f909ff014ae\r\n6b587d1924dfa63cd1cfff008e579b276933d9a32bc752fd1ff03ac7fed4b8f2f66c8eab3ccf34\r\n9bdde47ab2cda79ad5fefec7aa93c36b33ef4df54129dbfda8e50e63411e287ee4291d125cbd67\r\nf9d479d47287316e4b9a8e4b9aa9bde9b47288b0f33d47e6d474ca3945cc4bbfda9b4ca2aa3117\r\n30fa44a6d14587cc4b45454fa0ae624a2a24a7d4873126ff006a746f51d153ca049baa547a829f\r\n44a20588deadc772e95995324d59ca995191767f22f1365cc2925509f45dff00f1ed37fc01eacf\r\n9b4ede958ca99b464624cf709fb899e6f93f81eb7744f144b6703c37aeee9fc0ff007b653a4fb3\r\ndca6c9d3ccaa53e9c96dfbcf2a4bab2ffbe654ac651b0ed191d1e9de2bb79be4bc4f23e6f9264f\r\nf555d147b1e3de9f3a7f7d2bcea7d21fecbf6cd32e3ed707f73f8d29ba2ebb79a3fc9febed7fe7\r\n8d49954a3d8f49a2a9697a8daea56ab35abffbe9fdcab7458e59479475529ecf7c9be0ff00be2a\r\ned09febd2b7a759c0ce54d48e1fc34ff00e9d7e9fdcaddae6bc35ff21bb84ff9ecb2574b5ebe16\r\na73a387174f95a25b4ff005d1549a8ff00c7d54769feba2a9b51ff005c9feed1276aa919c57b85\r\n3a5a28aea39c28a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028\r\na28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a00\r\n28a28a0028a28a0028a28a0028a28a2f629094527fc0eb1354b99e6b5499f7dadabffa94ff0096\r\nb35633ac91b53a2e6695d6a36b67f7e5f31ffb8958b75afdd3ff00a9fdc2564d32b9e551ccf469\r\ne1a301d24cf349f3ccf25377fb514dacf94e9d87514da2a89b8edfed4fa8a9d400514515201451\r\n4daa0b8ea29b45003a9b45140053a9b4ea0028a28a0a0a7d328a9025a37fb54545004f45368a0a\r\n1d45368a0092377ab31cc954a9dbeb3944225ea920b974fe3aa31beca96b3940ae636ac6f911e9\r\nf7da75bde42fb13fdf4fee7fb4b58892ecabf637ce8e9b1fcb7ae7953368d431dd2ff41d451e17\r\nf2ff00b937f04d5de683ad45ac41ff003cee93efc3504e96bade9df669be4fee3ff72b8574bcd1\r\n753fbfe4dcc3fc758a1548291eab427fac4acdd07548b58b2f3d1363a7c93256947feb2838f96d\r\n23cffc29ff00232dbffbd715d65d5b6cf9ff0082b87d12e5e1d7ad67fefcec95e95fc6f5d346b7\r\nb264e2a9f32466d97faf5a9f51ff005713d4905b2433ef4a2fbfe3d6ba557e7aa8e274f960ccca\r\n5a28af591c21451450485145140051451400514514005145140051451400514514005145140051\r\n451400514514005145140051451400514514005145140051451400514514009452d1415ca2514b\r\n452e68f71d84a2968a7742b094b495620b395eb3955847a9518397420a4abe9629fc6f4e79acec\r\n13e7b9820ae5a98d5f64e88e15b2b259caff00c145d7d96c2179ee77d569fc57a6c3f71e79eb9c\r\nd635d9f55d89b3641fdcae6956a933b29e112dcbf37895e1f9e144dffc09fc10ff00f155cf5d5e\r\n4f793bcf752c923d40fda9b5518bea74a518ec87514515a8829b45154014514500145145001451\r\n450014514500145145001451450014514500145145003a8a28a900a28a282ae145145003e8a651\r\n5203e9d51514013d491bd56df52a54c8a896e8a893bd3eb328bf6378e9f25686a9629addaa7cfe\r\n5dd22fc8ff00dfff0065ab0ab534fb9f9f6573d4a7d4d23231b47beb8d0754def0bff72686bd06\r\n0d460b9d39ef2d9fcc4f2d9ff2ae6fc45a77dbed7edb07fc7d42bff7dad63c32cb6da44f7b672f\r\nc973badee21fee31ae72a74ef629489e4c3a6cff00df8fed3f9cb5ea5f7f63d79e6a16d179f791\r\nff00ac4b6d36344ff785775a5bbbe976aeff00f3c16832ad1d0b7553517fdc55ba8dd1268f63d6\r\n9465cb34ce2947993464468eff0072a74b197f8f64756e6df6d1a6c86a83bbbfdf7af62355ced6\r\n3cea94d4077ee93fbef43bc5ff003caa2a2baa3130b87fb9451455121451450014514500145145\r\n001451450014514500145145001451450014514500145145001451450014514500145145001451\r\n4500145473dcdbc3b3ce9523dff729a9736aff0072e21a9e64ba9a7b37d896ad4372889b1e2aa9\r\nbd7fbe947fc0d2a24d4ba9718497435a3489fe7d894ffb3c5fdc4acd86e5e1abb25e4091ef9ee5\r\n23af2eb29c1fbaceca7052e8125b5bff007128fb0c559775e28b34f92d927ba7acd9f5ad6ee7fd\r\n44305aa5671a957b9bc70ebb1d448f6f669be674813fbef58b75e2bb3ff57670cd74f5853d9fda\r\n64f3ef6e5ee9ea4f39218ff7688957184a5bb358d34ba12dd6a9acde7fcb64b283fb8959af0c09\r\nf3cdfbf7fefbd3a7b97fe0aa526f4f9deb48d348bd826747a8e99bf7d09dea903903f6a287ed45\r\n6848da28a2a8028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002\r\n8a28a0028a28a0028a28a0075145152110a28a282828a28a0029f4ca2a409e37a9a37aa8952a56\r\n6e25464594a923de926fa813bd4a9dea2451d469173bf6573de25d21edb507f27e482e959d3fde\r\n1fc356f489b65d256ef8874e7d574b4485fcb9e16df0ff00bc2bcfa9a33aa32d8e6637fb668bab\r\neaaff7eeb6c35d6477167a568f6bf6ab948d1235ae05ccba74ccb35bec4ddbfca9bfbc2ab47b26\r\nba8bedb33a41fdf4fe0a7126a4398eaaf7c6f127fc7959bbff00b73d4b6b73e28d6214d9b34e83\r\nfe7b6cad4d134ed2218526d3d219ff00e9b3fccf5adf7e838e5eef43013c34ff00f2df5ad4e4ff\r\n0081d3bfb0af21ff008f5d5dff00dcba4dd5bb455c6b4e3b3309a52e86047f6a5dc9756c903a7f\r\n1a3ee47a7d6c4f0a4c9b1eb36785a17af630f89534ae79d5a8db622a28a2bbce50a28a2a4028a2\r\n8a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028\r\na28a0028a28a0a284fa45bbfdc7782b0b54b196da7f9f6488fff002dabaca6cf0acd1ba3a7988f\r\n58d4a573a28d7b6e8e564d2ef1366c8bcc47fe347a1348baf3d37fc89fefd5b9e1bcd137ecf9ec\r\nbff40a9e0bc8ae7ee4d5c4f9a27af09426b619f61f25ff00d1aee683ff001ea3ecd6a8fe64ff00\r\nbf7ff6e9ef55a77a57b8f952267bc44f912abc973503f6a89fb5004b24cef5151b3dea7b1b6f3a\r\n74aa2875adb3ecdef54351de8fbff82ba69f6227fb0958da8c3e74355ca49929527dcab305b7d9\r\n91de7fb8954bed3e73efa92475363496892f9137d45f697a00b3e4bd47223a53526a73d0014254\r\n1bf7d3a1aa025a28a2a8028a28a0028a28a0028a28a0028a29d400da29d4500368a28a0028a28a\r\n00751451520369d45154014514548051451400514514141451450014fa6515204e95652aa277a7\r\n23ba4959ca251ad63f2488f5d341aa2570ff00697fefd4f1de3ff7eb9ea51e6368d4b1d8f93617\r\n97a97337cee8bb111fee2567eafe14b7b9f9ec9fc87fee7f03d63c37cffdfad8b1d69d3e47fde2\r\n572ca94a2691a899cacf6daa68936ff9ed7fdb4fb8f5d3683e2bfb4ba5aea6e91bff0004d5bffe\r\n8ba95aba6c49e07fbe95c2f887407d2bfd26dbf7965ffa054c65dc254d48f45a2b85f0d7895ece\r\n45b0bc7f32d7f826fee66bbaa0e3a94f942a39e149a3d95251574a4e2cc251e64623a3ac9455ed\r\n411fefd50afa0a3539e28f2ead3e562d14515b9805145140051451400514514005145140051451\r\n400514514009452d14009452d14009452d14009452d14009452d14009452d1400948fb5e9d4500\r\n43f66fee4ae9fec7f05625d787ee137cd03a49fec7ddae868acea514ce8a7887038ef3a585fcbb\r\n947a9d2e607fe3aea268526ff5d12495427d0ac1ff0081d2b95e199dd0c6a7b98db13fbf448956\r\ndfc3bfdcb9ff00beea87ef524744749d11ab3945c4ea8d453d876cfe0adbd3d1e1b274f93f7d58\r\n90bffcf447abf3df25b5aefdf444a25bd992b2e4b9f3b66cff0081bd66dd6a3f6c4d89ff0003a8\r\n3ed3b20d8954e4492ea979e76c812a95496b0eff009deacec5a928a5b6a6486a7d8b4ea091a89b\r\n289137d3a8a006c6889453a8aa01b453a8d9ef40051451405828a28a0028a28a02c14da751400d\r\na75145001451450161b451450014514550053a8a2a4028a28a0a0a28a2800a28a2800a28a2800a\r\n28a2800a7d329c95204b45369d5250ea9d1ea04a7d44a3705234f4fd45ed9f7a575b6b7305fc1f\r\nfa1a570157acafa5b39f7a57254a3d8e88d42b7893427d2a6df0fcf6af5b7e0dd69e68d34cba7f\r\n9d3fe3ddeb52dae6df5bb596d66fe35ae2eeada7f0deb513ff0071b7c4ff00dfae75743a91e647\r\na65155ac6f22bfb18af61fb8eb566a8e0947946d64dd27933ecad8aad7b0f9c9feda576612b72c\r\n92396bd3baba3328a5a2bdc4efa9e6dac2514b450489452d14009452d14009452d14009452d140\r\n09452d140051451400514514005145140051451400514514005145140051451400514514005145\r\n65eaf7cfff001e56dfebdfefbff72a252e535a54dcd90eb17de73bd85abffd767acbff00613ee5\r\n3b62226c4a8a4f9237ae294b999ecd3a7ecd0dbdbcf253e47f9eb1dde599fe777a9a4f9de88d2a\r\n4a1f6b0a533ecd53d14143bee25369f4500328a7d32800a28a2800a29f4e4ff728288a9f4ea282\r\n48a8a968d9ef40115153fd99e8fb32251cc87620a7d4dfe8f4e8d11fee24d53cc3e52bd32b4bec\r\n6fff003ca6a6c96375fc16cef4bda07299f455978654fbf6ce94d8d37bfc9b29fb441ca41454f3\r\n432c3f7d29a888f47313cac8a8ab3e4d37caa77020a2a5d9ef4dabe62465145152505145154014\r\n51450014514500145145001451450014277a28a00b2f0ca91c4f242e8937dc7a6d377b3c689bdf\r\n627dca75480e4a7d3129f59942a77a37fb525152068e8f79f66ba89eba8d6b4b8b58b2f23fe071\r\n4dfdcae313bd763a0de7da6c767f72b8ebc6da9d14e5739bf085f4ba6eaefa6dcfc88edb1ffde1\r\n5dc572fe32d2fce87fb4a14fdfc3f7eb53c35aa7f6ae9fbddff7f0fc93563195d19d5a66b51451\r\n4d3b3472b5d0cbbd87c99bfd87a82b52e937c0f5955eee0eb73ab1e5e229f2b168a28aec39428a\r\n28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002\r\n8a28a0028a28a0028a2a37744a1e85c23cc41aa5f2585aeffe37fb895cf46ee88ff3ef9dfefbd3\r\na7b94bc9df50b974d89f24294e86d9ee607bcbafdc5942bbd13fbf5c3524d9eb51a6a0910fdffe\r\n3a8aeb624752d97fc7ad41749f72b13ae452a9113651b37d4b5448da29d450161b45494501623a\r\n2a4a36501622d94fa924f93fdfa9366ca9e62b94869d5251473011d489de8a237df26cb687cf7a\r\n9948ae5254869bbd3ccf2204f3deb5ac7c3b3dcc9bef5fe4fee2574d65a75bd9a6c82148eb3954\r\n348d33908342d52e7efec812b6ed7c2f669febf7cf5bf1a253ab1e634e5467a697670c7f25ba55\r\nc4b3813fe58a54f452b80cf262fee253be4fee52d145c05f93fb894c9ec6d6e5313dbc327fc029\r\nd4a9de8e60b1973786b4b93fe5dbcbff0071eaa4de0fb071f25c4d5d1514f9993ca7133783ef13\r\nfe3dae607acbbad2f54b4199ad18d7a551beabda0bd99e4dbffbe947c8f5e977ba5d85ff00fc7d\r\n5a2495857be0c81ffe3cee1e0ff7fe6ad23508f66723b29b5a975e1dd52c3fe5dfcf4fefc159af\r\nf23ec74d8fff007cd691a84ca2474ca9e9b55cc47291514ed94b5484328a28aa00a28a2800a28a\r\n2800a28a2a407d3a9b45048ea29b4e4ef4151917644d9517dcab907fa4c1b3f8d2a9ba3a3d6373\r\n42cc15b3a2bbc375593a5bc497489749f23d7616b636f6db3c9ae5c448da8c4bce88e9b2bcf219\r\n5bc37e287ff9e1bb63ff00d7335e875c778f2c7e4b7bcff803d70d396a6b289d8fc9ff00007fb9\r\n4eac2f06df25e68e88effbfb5dc8f5bb5b48f3e51b3615977b0ec9b7ff0003d6a541749e741b2b\r\nab0b5b92491c988a7ce8cba29296be813bab9e53560a28a2810514514005145140051451400514\r\n51400514514005145140051451400514514005145140051451400514547757315b40d3ccf4151d\r\n477dcf9eb1357d512e636b2b2deef37df7a1deff0058f9113ecb6b5a565630587fa84ff81d6326\r\ne67445aa7a9434bd09218d1ee537ba7dc869de28b9d90c56bfdf6deff856c572b74ef7fac6ff00\r\ne0ddff008e8acaa7b88e8c3c9d495c76cd91a25569f63d5c9dd2a8bd7323d223a29d45500da969\r\n53bd3e8023a296a3926fee5672958718924694f8e68124ab36ba15e5ca79d36f8ffb89fc6f54e7\r\n8bc9d96689fbff00bf37ff001359fb4b97ca4b0a7fcb6fe37a73d4f226cfddd36a90320a1dd61a\r\n6cf73b1f643fbc77adad1fc2ef37fa4ea7f73fe78d4ca4118993a769d79aac9f2279707f7ebb3d\r\n3b4bb7b08f622568428891a6c5f9129d58ca57378c46c68894ea28a91853e99552eb54b3b3ff00\r\n5f2d005ea2b9dff84c74eff9e33d489e2bd21ff8e7ff00be28e524dea54ef5931ebf6137dcdf56\r\ne3d46ddd3e4df472816f67bd3eab7db13f8d1d2a64747fb8d4143e8a28a006514514123e99b3de\r\n9f45050554bdd3ad6f3fe3ead927ab74ca09b1cadef846dffe5cae5e0ff61eb9ebdd3af2c24ff4\r\n9b7f93fbf5e955149b1fe47fb95a467613a6798fdf4a367bd759ac78751e469ad62ffbe2b9a9a1\r\nb8b6dfbd3cc4ada350c254ca9b3dea2ab7f23c7f253644ad6e6656a2a5d9ef515300a28a2800a2\r\n8a2800a7d329f400527dca5a63f6a009e1b97864474ae99eda2d5747fb641febe1fbe95c955dd1\r\nf54974dbadff00c0ff0023a563389a4644b5d3787751df1fd9a6ae6f509911f7c3f71fe74aa105\r\ne4b0c9f23d632a7ce8a8cb959de6a9aa259cfe4d32778b5ed22e214fbfb6b8abdd465bc9f7bfdf\r\nad4f09df3db6a8a9fc13573cb0fca8d2352e66e83a8be95a82cdfc1fea6e2bd32b857d2ffe2a1d\r\n4b4f74f92f2091e1addf06df7db348f226ff005f6adb1eb333ad1ea6fd14514d68ce37a9977c9b\r\n27a82af6a29fc7546be830b539a08f2eb46cc28a28ae939c28a28a0028a28a0028a28a0028a28a\r\n0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a00289111fefa2494514141451451b0\r\n5efa15b51992daca57ff00802573da5a6cb579ff00bff2255bf145cfef2283fe0751c1f269f157\r\n9f5e5767b184a7cb1b904d55ea67ed503d66740b5222508952d0544654523eca6cf72957b4bd2e\r\neb527ff9e307f1cd59ca4691894ed6dae2fe6f2614f3dfff001c4aeb74bd16decf63bec9e7feff\r\n00ff0013576cacedec20f22d53fdf7a74ee90c7bf7d63291bc6361b7b72f6d657173fdc5ae3ac7\r\ne47b58ddde47b966b97adff165cecd2d20fe3ba936567787a1777ba79fefa2ac34447222912a93\r\nbcf793fd8ec91e4abf379baadf7f67e99f713efcd5d5691a5dbe93079702f3fc52d12919f21434\r\n1d022d37f7d37ef2eab6e9df728acd9a0514536801d45377d1be801b3429343b1ddd3fdc7acd8f\r\nc3ba4ff1db3c9fefbb356a509b9e8033ff00b0b4bff9f14a3fb0349ff9f14ad44b667a9bec8bfd\r\nfa7a93cc8c54d0b484ff00971869b2681a33ff00cb9a57431db449d29de4aff72993ce731ff08b\r\ne9bfc097307fb93541ff0008bba7fa9be7ff00b6f06eaec767bd155ca4f31c5c9a1ead00cc1f66\r\n907b3b41511b8f115a82248aebf0459d6bb9a28b05ce263f12de47ccd630c9fdfd876bd5e87c51\r\na6cdf7de683fdf4ae964822987efa247aa8fa4583c7b1ed23a3943988d2649ff00d4ca8ffee3d4\r\n9ff00aa4fe17b04ff8f6df03d59862bfb6382b1cd09fee54f287b41cff0025377aff007ea486fa\r\ncee64f277f973ff71fe57ab3f664a0a8d4450deb479c956fec89fdf7a6fd853fbf415ed1106f5f\r\nefd52d474bb7bf8ffe79bff7eb47ec2dfdfa3ec2f4445292679ddf584b6d75f65bdd904fff002c\r\n66fefd53fef79e8f1ba37cf5e8babe8c9a9e9ef6afff00007af3aba49eda7d93a7cf0fc9f956d1\r\n9194911c8951bf6ab6fb1e3aad5d113120a2a5a8a800a28a2a8028a28a007d3aa2a96a4a884895\r\n154b4ea901bf3bc1fee545b5eaca53ea7940a6fda9d03f93323a7f035599137d57ace5a82d0efd\r\n638f568eceed5824b6f26e473deb16c5d74df1c5c409f24375567c1b73bd25868f195b227d8afd\r\n1be7864af39e92b1d325cd03a8a29b1ba4c9bd1fe47a75338251b0d7f9eb2eea1f25ff00d8ad6a\r\n82e937c15d984ace1251b9cd5a9dd3665d14515ef2d4f2d85145140828a28a0028a28a0028a28a\r\n0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a29b23ec8ddffb8b4a\r\n7b1708de48e57587fb4eb12a27fb2957e74d89b2a868ff00bed511dffda7abf755e5bd64cf7a11\r\ne582283f6a1137d3b654bf7299632ab4f33ccfe4c353dadb4baacfb137a415d5697a44567bf7a2\r\n563291b469993a3f8753e49ef2ba67f2ada0fe04812a0d46f22b0b279bfb9f712b97b5b3d4bc4f\r\n3efba95d2d52b1dcdb63664f1159bc9e45b433dd4ffdc4abb025fcdb27ba7483fd84f9aacd8d8d\r\nad847b2d62f2eacd481cbcebff001319ee7fe58694adff000394d67e90b2dc58dbe9b66713cdba\r\n6bb9bfb8b5ade224fb1f86ae3fdb9f7bfe2d5a1a0e9c9a6d9243ff002ddd77ccf5404fa758dbe9\r\nb6be4daa55da6d15203a8a234df5225bb3500da21a36355d4b654a9d635515467ed0cf4b667a9f\r\nec7fdf7ab60d14c97264296f1a7414fc53e9bbfda993cc3a8ae6a6f143dc5c8b2d0ed0ea130fbf\r\n2fdd892a7fecbd66e3fe3f35a78ffd8b54db551893737aab3dfd9a7dfbb847fc0eb38f8634e3fe\r\nb56e26ff007e6634bff08be83ff40bb5aae403452f2d666d89710bff00c0eac5624de14d11d3fe\r\n41d1a7fb94cb6d2351b07d967aa192d47fcb1ba8f77fe3d47281bd45625f6a3a95812f358fdaad\r\n8ff1dafde4ab5a66b561aae7ec9708ee9f791fe574a8e50e63468a28a450514514015350d3ad75\r\n28fcbb98524ac8f2358d2bfe3d9ffb42d7fe793ffad4ae8a8a09b18f6bafdadccde46c786ebfe7\r\n8cff002bd6c554d434eb5bf8f65d429356616bdd17fd63497b61fdff00f96b0d006f515146e92c\r\n6ae8dbd1feeb8a968282b92f18e9c853ed9b7e4fb92d75b515d42b730cb0bf28eb408f27d8f6df\r\n23fce8ff0072a29ab4af6cde19ee2c1fefc3f3a3ff00b359bf7eba2322244751d49513d6848da2\r\n8a2800a28a2a802a54ef51515204f45368a0a1df72a44a8e9c9598166aa4c9b24ab74d9ffbf59c\r\n8a2ef85dfc9d47fe035d36a8b15fd93473c4fe4a48bbeb92d2ff00d7d76364ff006986547fe35a\r\ne1ab1f78e8a6f432744b9fb05d4b66ff00c0db1fff006565aea2b837def64f75f3bdd5837d9ae3\r\nfdb5aebf47bcfb66976f37f7d683971112ed377a3c74d93e447aa3632ec7d9fc0f5d34695d731c\r\n352a7d965674d8ef455bd413f76936caa95ec61ea5e28f3ea46cc28a28adcc428a28a0028a28a0\r\n028a28a0028a4a280168a4a280168a4a280168a4a280168a4a280168a4a280168a4a28016aa6a8\r\nfe4e9f71feed5baa5abdb7da74f9537d6753666f43e3463f8793f7970ffececabb748e926c74f2\r\ndea0d13e4d3f7ff1bb54b7534b733ef9be77af2ee7bcb6441b29b6a897fa8c565fc155b50b9d9f\r\nb847ff007eacf8526487544ff6d6a652358c4ece0b68ada3fdca54b4eacdd6af92ce1747fe05de\r\nf589d17336ecff006eeae9609ff1e56cbbe5ae9a3d888889f222563785ed9e1b27b99ffd7dd36f\r\n7ad9a090a6d3a891d12a4a31bc576d2de691e5c3ff003d16b5e67486a2492795f642b8ab76ba72\r\n27faefde3d5112958853cd9bee7eeeaec369b2aca00b451ca652a8088a94ea6d3aa890a28a2800\r\na28a8a79a2b68da69dd12145f9dde8131b7773159c0f3dccbb2045f9deb9c8edee3c521e6bcf3a\r\n0d2ffe595ba7cad2d5882d25f10ce979a8204d3d3e6b7b6fefff00b4d5d125691890436b690594\r\n2b0db44b0a7a0ab14515a14828a28a0028a28a002b2b53d16cf51759a64293a7292c3f2cb5ab45\r\n160b183f6cbad2c6352fdf5aff000ddfff0014b5af1ba4c88e8dbd1ea575571b2b0c5a3691be6b\r\n04692d47ccf6de9fed4759ca206e51505adcc5790a4d0bef4a9eb32828a6d1400ea29b4500321b\r\n78a08f642888952d368a007514da280399f1ad8bbc29a943f7ed6b87be4d9224c9f71ebd764457\r\n4647fb95e617b62f677b75a53ffbf0d6919019bfedd3688ff8d28ada323323a29cfda9b5448532\r\n9f4500328a28aa01f4ea6d15203aa44a8e9d52516d3bd0fdaa24ef562b1944a449a77fac7adaf3\r\naebec2ef6aff00bf4ac9b5f937d5df3b658dc3ff00b2d5cf5226d121f0c5f44935c25cc5fb8bc6\r\n54abfa0bff00656af75a34ff0071db7db565dae852dce8297b6bff001f5fdcfefa8a27befb668f\r\n16a1feaf51d31977ff00bb52a244a57b9d8df3ec85eb36a59ae52f364c9f71d77a7e350d7b385a\r\n3681f3f8895e6cd181fed30ec7acf7f929f04cf0befa92f7fd73ff00b7f3a55538f248994ae882\r\n8a292ba4c05a2928a005a2928a005a2928a005a28a2800a28a2800a28a2800a28a2800a28a2800\r\na28a2800a28a2800aa5ac3ecd2ee3fddabb59baf7fc8227a8a9f09be1fe3450d3b7a69d1517d37\r\nd9a1f93efbfc89566d53f7117fbb589af4d2bc6f3a27ee11bc947af2fa9f41b451973dcefad2d2\r\n1de1bab77ff696b0eb4f4efbf17fd755a5208c8f57ff006eb8785e5f106afe4ffab83cf699ff00\r\ndd15d9dd3ac36570eff71216ac0f06db7fa2dc6a0ff7ee5ab9cdce928a1eb2f4fdfadc92cf32ef\r\nb2fb9143fdff00f69aaa311dec2cdaa17709616cf74ffdff00bb154b67a4ea328f32f2ff00fe01\r\n0a56dc16c88956eb4503294cce7d3df66c4bdb98ff0015aa32586bf1b7fa3ead0cc9fdcb9b6adf\r\na2ab94cf739a6d7aef4e61fdb1a73c29ff003f16df3455bd05cc57302cd6d2a4d1bfdc74f9aa59\r\n137a5608d0bec13c9369570d6dbbef5bff00cb2a9944937a8acdb1d492699ada65f26e53f82b4a\r\nb32905145141436b9a2afaf6badbc1feccb1ff00be666ab1e2cbe961822b3b5ff8fabc6d895ada\r\n759a58595bdb27dc856b48c4965ba28a2b400a28a2800a28a2800a28a2800a28a2800a28a28039\r\ned40ff0062df7f6942316b336dbb4ffd064adda49e24991d1d77a3aedfceb13439db4eba6d12e5\r\nff00dbb47fefad6728926f51451599a0514514005145140051451400572de37d39a6b44d420ff8\r\nf9b6aea6a2991264d8f4440f24bed8f225ca7dc996a1ad4d534e7b0bdb8d3ff81ff7d0d65a56d1\r\n913223a2a4a2b63323a29cfda9b400514532801f45329f400e4ef5225474e4a92896a44a82a44e\r\nf52c0bd03d3b549b6696ff00edd4107dfa357f9e6b586b9e46ab63b8d2e1f274bb38ff00b91ad6\r\n5f88ac521d9ab5ac29bd1592e21ff9ed11addf91234a7573f37bc7339599c6786a64f26e2cd1f7\r\na42df23ffb26b62b17ecdfd8fe24f27fe584df72b6abdec2cbdc47958b5ef051ff002cd128a2ba\r\n0e60a28a282428a28a0028a28a0028a28a004a2968a004a2968a004a2968a004a2968a004a2968\r\na004a2968a004a2968a60159de22ff00905ffbf22a568d52d513cefb141fdfb95acab6cce8c3e9\r\n34549b7c30450a7faf9be44a8b54b0f27c3b2c3fdc92b42d765cdedc6a1fc08de4dbff00ba2acd\r\nd43e758dc43fdf8eb9614746cefab88f7944f368d2a6837a3d35fefd4e9f2573c8ed8743d2e775\r\nbcd0657fefda353b4444b7d16c63f4855ab27c2773f69d16e2c9dfe787727fc04d6fe9f62c20b7\r\n47fb90c6a9f95739d3cd631f5e69ef9ed749b5e3ed5f7ffeb90aebad6dd2da048614f9117e5ac7\r\nd113ed3aa6a57eff00c127d9e2ff007456ed6d18994a571d451455121451450014dd8b4ea28031\r\n35dd09352db342ed0dea7dc968d3b566f92d750fdc5eff00e875b3595af692baadaecfb9729f34\r\n4ffdca99440d5a2b23c3da8bdfdabc7729e5dd5b36c992b5eb10394b2ddaa78c679cff00a8b05d\r\n895d6d72de04f9ed6fee7f8e6bb6aea6ba23b00514514005145140051451400514514005145140\r\n051451400560f8a2c659ac92e6d8ff00a559b79c95bd450054d3ef12fecadee61fb932d59ae634\r\nc2346d7a5d35dc7d9aff00f7b6f5d3d63204145145494145145001451450014514500733e38b1f\r\nb4e97f6a85733db5707f7d3ce4fef7f3af5f911664647fb8eb5e4ef68d67a9dd583ffb49551110\r\n3d369d07fabf2dff008296ba2241151b29d4daa246bf6a6d494da006d145140054951254b5203a\r\n9c951d4b53228bb6b4ed393fb4bc496ffdc46a8237d90cbfeed59f06c3ff0013e4ff006236ae69\r\nf52e5b1de514da24feff00f72b9e11e69a38e72d1985ac5b25feff00efa49bd1ea4a3efd15f454\r\n63cb14793525ccc4a2968ad4c84a2968a004a2968a004a2968a004a2968a0028a28a0028a28a00\r\n28a28a0028a28a0028a28a0028a28a0028a28a006ec4f337d56d477bc11243f7fcc54fceadd251\r\n28dcd232b0890a4289027dc45d94ea4a2972e960727cd7389d6edbec7a8ca9552ba3f1445be3b7\r\nbaff00803d7355e7548f2b67b5425cd0474be07defaf2c3fc0f136faf499bf751b49fdc5635e5b\r\ne18b9fb3ebb60ffed6cfcebd2f543b34ebc7fee46d5cbd4e8b947c1cfe668304dfdf667adcac5f\r\n06a6cf0dd80ffa675b55b44028a28a0028a28a0028a28a0029af4ea28039dd51ff00b2b58b7bff\r\n00f976badb6f71fec37f0b56ddd6e4b597fdd6a8f54b48b52d3e7b39bee4d1d63e85a835cf872e\r\n0dd63ed56ab25bcbf8566e248ef01ffc8b56ff00ef35743581e0aff917adeb7eb4450514514005\r\n14514005145140051451400514514005145140051451401cdf8d6ddbfb305f41febece459ab760\r\n9966862993ee3aabfe749776c9756d2db483e4963646fc6b07c15334ba47d9a6fbf67235bd6720\r\n3a4a28a2b32828a28a0028a28a0028a28a002bcffc776ff66d5edf50fefad7a056078d6c7ed9a2\r\nbbff001db7cf55124e0674d975fec3d0f4e93f7da7453ff1a515b442456a2a7a89fe4ad0cc8e9a\r\nfda9d4500369b5251b280224a969bb3de9d40054b4c4a913bd672289e4f92d5eb53c0df3dd5ebf\r\nfd33ac9bef92d513fbed5d37836cfc9d2e5bafe3b993ff001d15cb50a96c6fd56d45f641b2acd6\r\n7ea3febaab094f9a68f3f112b22ad2d1457bcb43cb0a28a282428a28a0028a28a0028a28a0028a\r\n28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a008\r\n6fad92f2d6582b8374785f63d7a1572be28b644bede89f7d6b97111ea7a184a9d0cb81f66c74fe\r\n0657fcbe6af57d42e52e74195e37ff008f981b67fdf35e490becaee741d47fe29864fe3b09177f\r\nfbb5e7b3d489bfe0d7dfe1bb03fec56dd733e036ff00892bc3ff003c666ae9aae250514514c028\r\na28a0028a28a0028a28a006d707752ff0063f8a35480bec82fe167ff00811aef85725e3fb44934\r\nc5b9f2bf7f0c9947a1a035fc2f1243e1eb309ff3cab5ab1fc26fbfc3d65ff5cab62800a28a2800\r\na28a6d003a8a37fb51400514514005145140051451400514514005727a5ffa378d757b33f72e55\r\n66aeb2b93f113fd83c57a35e7f03ee85ea6407554514562505145140051451400514514005453c\r\n7e740f0ff7d7654b45049e496b0b2497564ffc1bbf4a741ff1eb155dbd5fb3f8aef13fbecd50c2\r\n9feb53fb92356d125903d47f7eadf935048f127df7aa26c547de9454923a3d47b3deab98028a76\r\nda5a008a8a753e8286254e951d69e9d0a6c79dff00816b394ac544a1a8a3cd7d6f669feca27e35\r\ne8f04296c91409f721554fcab83f0a279de2289ffb8ad357795cb50cea487563ccfbe677ad1ba7\r\nd903d65d7a181a7f68f2f152e81451457a47085145140051451400514514005145140051451400\r\n514514005145140051451400514514005145140051451400514514005145140051451400563f89\r\n6d9e6d3bcc4fbf0b56c51f23c6f1ff0003fc95138f3266d465cb3479c27facadbd2ef3c94bc83f\r\n82e6d992b3f50b67b3ba74fee36ca20fb95e64a3ca7bb4e5cc8eff00e1cffc82ee3febbd75d5c9\r\nfc3dff00905ceffdf96baca225851451400514514005145140051451400566ebd6df6cd22ea0fe\r\nfc6d5a54d7daff00250060780df7f86ad6ba1ae5bc143eceb7fa73f5b5b8c0aea6800a28a6d003\r\n2695638dddfe4445ae1afbc6d3bdce2c121483fbef5a5f10ee5a1d2e2813fe5b495e7f52d823b7\r\nd3fc60fbf66a5126cfefa57611ba4d1ac88c1d3f85c578e3cceffee5765e01d5c7fc82a6edf3c5\r\n4260ceda8a6d3aa8028a28a0028a28a0028a28a002b99f1da2ff00664137f1a4cb5d35733e3cff\r\n00902aff00d765a240745f7e3a7566a6b5a5a46bbf50b6fbabff002d2a09bc45a4a7fabbcf3bfd\r\n8811a5ff00d06b9c2e6cd15cbdd78ced6dbfe61d7fff00038f6d54ff0084c352b9ff008f3d0a79\r\n2803b3a2b8efedff0012bffabd02a292ff00c68ff734e8d2a80eda8ae1dd7c6937f7a3ff00be29\r\na34df14b7dfbbbff00fbed7ff8ba91dceea8db5c741a1ea5fc735cff00c0dfff00b3ad6874597f\r\n8ee24ffbedbff8ba0672be2e5fb3f8ad27fefac74df2767da9ff00d5a248d5378e2c5967d3a08f\r\ne79e5592ae69f6c9af4d6bff003e491acd71ff004da5ad39893374fd2eff005bf9e0fdc5aff7ff\r\n00bf5ad0f83367f1d75e88889b1169d53cc071d3785e5fee23d615f6972db7df47d9fdff00ee57\r\na754535ba4d1ec75a3980f29f9d1fc99ff0076ff00c0ff00dfa6ba576bac78692646f22b90f265\r\n86696ceebf773a5691912e256a2a7d946caa02344ab37573e4e9ef07fcf66a62554be7df3fc9fe\r\ne2256750a89d1781adbf797575ff006c52bacaa5a3d8ff0066e9d6f6dff037ff007aaccf37928f\r\n5828f3cac7354972dca3a8cdbe4d9fc0955a8a2bdca31e58a478f525ccd8514515a99051451400\r\n514514005145140051451400514514009452d14009452d14009452d14009452d14009452d14009\r\n452d14009452d14009452d14009452d140094b45140181e28b64fdd5cffc01eb0ad7fd66c4aeda\r\nf6dbed9632c0ff00c6b5c641be1ba4ff00c7ebcfc442ccf630752eac757f0ea6892eaf21fe3995\r\n5d6bbfaf34f0a4cb6daf5aff00b6cd0d7a5d6313b828a28a0028a28a0028a28a00cad7b544d2b4\r\nb96e7fe00895e771ebfab349bdf519aba7f891ff001eb63ff5d5ab87f9fcc4fefd4b76089ddf86\r\nfc4ff69996ceff00fd7ff04b5d6d78bc8eff00f03fbe8f5eabe1ed446a7a441727effdc7ff0078\r\n511900d82dbc9f104b75ff003f302eefc2b5eb1357b9fb36afa463ee4d23435b75401451450070\r\n7f127fd7e9ff00f02ac5f0bd8c5a96b514337dc45677ae9fe215bb49a7dacdff003c66ae4fc377\r\ndfd9dad4131eff0023d481b1e35d0e2b0d97f66a890bfc8e95cd5adcbd9dd45730fdf85b7a57a8\r\n78a122fec1ba47feed796ec953efa3d4951573d8a0992e208a64fb92aabfe7562b9df03ccd3787\r\n2dc77859a2fcaba2ad11214514500145145001451450015cbf8fff00e41100fefdcad7515cbf89\r\nd12ff58d274aff00a69f687fc28901bf0db4488bb21851f6ff0072a7a28ae701bb3de9d4514141\r\n4da751400da29d4500369d451401c878e37ff6a686e89f3f9f5d3da59c1631ecb75089b99ff3ac\r\ned52dda7d6b489917fd4c926ff00fbe6b6682428a28a0a0a28a2801b5cd78d74bfb4e9ff006c81\r\n3fd26dba574f4dfbfba803cc7e49a18a74fe35a6d5b82d12d350d4b4d1d216de94d786b68c892b\r\n49fb94ff00816c4a93c37a77db358deff72d5b7bd433dcf9324bfdf4fdcc3fef1aeb341d3bfb37\r\n4fd8ff00ebdfe77ac6a48996869566dd4de749fec255bbd7d907fbed5995d984a3f68f271557a0\r\n514b457a47089452d14009452d14009452d14009452d14009452d14009452d1400514514005145\r\n140051451400514514005145140051451400514514005145140051451400514514005735e22b6f\r\n26e92e7f826ae96a3ba852e6d65866acea53e6474e1ea723472be73db409749f7d245747fa57ac\r\n5b4a9736b14e9f71d15ebcda1b67482eb46d9e7ceecbb1ff00d9aea3c077de768ef6cedf3db36c\r\naf35ab3b1ed465cc933a8a28a282c28a28a0028a28a00e43e2327fc4aed5ff00b93560782511fc\r\n436ffec46d5d9f8bacfed9a0dc27f1a2ef5af3ff000bde259eb76737f07f8d4c83a1ade38d2e2b\r\n0ba8af614d8973f7ff00dead0f87371fb9bcb6fee32bd69f8d6ddef34278e14defb95eb9cf026e\r\n875d96191191de13521caed7367c7fba1d3ace78fefc372ae95d0e9f70979656f749f726457ac8\r\nf1adbf9fa4451ff7ee63aa9e0dbbfb37da34497fd7db336cabb81d6d14514c0a7a8d8a5fd95c5a\r\n49f7265af278ed1e19a586e7e49e1f91ff000af62ae3fc55e1fb8b8b91a9582e64e934559d42a9\r\nb5cdef14ad6fb51b88235bcba8fc9ab5750c57304a8ffddac98751b5f2f63fee1d3efa3d4d0dbd\r\ne6ba3ecd6cb3476bfc772ff2d73479db3d097b38c343a3f0226cf0dc0ffdf667ae8aaada5b4567\r\n6b15b423e4855512ad576c4f3428a28a0028a28a0028a28a002b96474b8f1f4bb7fe5ced3f9d6d\r\nea378961a7cf7937dc85735ce780ede4737fa94e7f79349b6a64c0ebe8a28ac4a0a28a2800a28a\r\n2800a28a2800a28a2800a28a2800a6d3ab1bc4faba68fa7ef4ff005eff0024494016b50d52d6c0\r\n20b9946f7fb917de67ab4b32b8e2b97d234efb07fa4dcfcfa8cdfeba67ad78e67a9b971a66a8a5\r\na8207df53d5112d0e1fc51fe81ac5bdfff0003ee85ea958a5c4c8f3cc9e5ef6de895bbe35851e3\r\nb574fbe926fae7bc45a8ec91ecacbf78eff7dd2a968493785ec7ed9a8dc6a73fdc8646f27fdb6a\r\neb6a0b2b64b3b2b7b6fee46a94dbe7748ea22bda4d2392b54b2654ba9b7cd5151457b94e3ca923\r\nc69cb9a41451455921451450014514500145145001451450014514500145145002514514005145\r\n14005145140051451400514514005145140051451400514514005145140052d251400b45251414\r\n8c8d6ee65b6ba89e17d8ef1b43bfeb5752d97c31e21b3d8db2cae62d92bbd54d7b67976bff005d\r\nd6babd56ca2d5f4c6b47ff007a27fee30af2abe933dcc2eb046d53ab9df0a6aff6fb5fb34cfbee\r\na18d77d745491d0145145001451450031d37fc8fca3d7976afa77f65ea97166e9fb87f9e1af54a\r\ncad6f488b54b6d9f7264ff00552ff72a648a84acf5398d3de5853c89ae6792ad68d179be2e69fb\r\n5b5a62aa3daeaa932c3fd932c8ff00dfcfeeaba2f0ee90fa724f35cba3dd4cdf3ba561084afa9d\r\n356a41c2d119e321bf4394ff007248deb1bc588da74d6baac3f7e165df5b9e2c1bf4b487fbf3c6\r\n95a53db45730b43345bd2b5671c58b6b7315e5b4773036f495729562b98d1d5b42bd3a64cec6ca\r\n57dd64f9e9fecd74f57163414da7514f702a4da759ccfbdeda177ab2836d3a8a394350a28a2800\r\na28a2800a28a2800a6d3ab96f10ea3717b76da26947fd25ffe3e26ff009e2b40106a7712ebba89\r\nb0b0f2de1b3f9e597fe9a5747a758a69d65059c7f7215a8b44d2edf4ab25b687fe06ff00df6ad0\r\nac64c10514515250514514005145140051451400514514005145140114f325b40d3ccdb111773d\r\n7236962fac4edacea49f23fc96f0ff00716bb19115d363d56bd44a023b9cce95732dbdd4ba55d3\r\nef78537c32ff007d6b513bd6278893c9bdd2ef13eff9fb3fe026b6ff00bd52755cd0b6ab82aad9\r\n27c956ea8e693394f1adcadb1b37fefac89587e0db17b9bafed09d3e487ee56b78f13ed336976d\r\nfdf92b5ad6ce2b3812da04f2d12a672d0ca52b13d66ea2fbe7ff00716af4efb137d6457560a8dd\r\nf31e5e2aa740a4a5a2bd63cf128a5a280128a5a280128a5a280128a5a280128a5a280128a5a280\r\n128a5a2800a28a288cae6d568ce93d505145141885145140051451400514514005145140051451\r\n4005145140051451400514514005145140197e21877e9fe67fcf1657aeab4c9927b7826fefaabd\r\n606a88efa75c7c9fc3573c2173e7697127fcf193657978bf88f77012f70e6e17bad2b54babc4ff\r\n00516776c937fbaf5e9a8e93223a7dc75df58b63636f7367743f82e66937d41e1ebcfecdba7d0e\r\nf1fee7fc7bbff7d6b1848e9674d45369d5a0051451400514514005145413ccb0c32c937dc45df4\r\n019777baef5ab587a259fef9eb66b17c370cbe4cf7f37faebc937e3fb8b5b558c81104f6d15cc3\r\nb264492b16eefaf743b95fb67eff004c7ff978fe286ba1a6ba24c8c8ebbd1e852062432a4d1abc\r\n2eae9eb52d71b368ba8e85235ce8771e641fc568f57b4ff15413bf91a82369f75fdc7ad1480e92\r\n8a62e1fe74a7d50051451400514514000a2b3f51d52cf4d1fe933203fdcfe26ac6297fe20fbe24\r\nd3f4cfee7fcb59a93905c8b51d62f357ba6d3741edf24f77fddadcd274bb7d2ad7c887fe06ff00\r\nc4f566c6ce0b3b64b6b68961813f82a7aca5200a28a2a4a0a28a2800a28a2800a28a2800a28a28\r\n00a28a2800a28a2800aa77b572a29937ae28089c8cc9fda9e228913fe3db4cf9dffeba9ae8634a\r\n747629087f215137b6eab30c3b0549af3683e3f912a4a6d666bdaa268fa7bdce3e7fb8895462d9\r\n8373ff00135f196cff00961a7ad6ed66f876cdecf4ff00df7fc7d5d379d3559beb944f911fe7a5\r\n1a4e6ce3ad5394ad7b379d27fb95051457b5469f24523c8a92e761451456a66145145001451450\r\n01451450014514500145145001451450014514500252d14571c65ca7d4d4a6aa2d50514515d11a\r\n973c6c460dc2ee214514568705adb85145140828a28a0028a28a0028a28a0028a28a0028a28a00\r\n28a28a0028a28a004ae7ed7519744fed2861ae86b9ef12fc93c5b2dfcbff006ffbf5c38d8dd5cf\r\n4b0152cf94f40d06dfecda459c1e90ad41af68716b091fcef0dd43feaa6ad487e48e34ff006569\r\nf5e7c4f50e5b48d7e7b7b9fecdd713c9bafb8937f03d757baa95ed8dbea503c1749bd2b9429adf\r\n859dde1ff898699fdcee95a464077145739a778c34bbbc79cff659ff00b8f5bd0cc9326f85d5d2\r\nb4025a6d3aa09ee62b685a69d95113bd0067eafaafd89e1b6b78bcebdb9ff5517a7fb4d552e746\r\nd47508ff00d275a93fdc8635db55bc37729797b79a9bfdf9a4f261ff0062315d4d67290588add2\r\n548544d2f9cffdfd9b6a5a28acc1051451414159faa69165aac7e5de43e656851401cb47a2eada\r\n2aff00c4aae7ed501ff976ba356a1f122a111ea5617960fee8d2a7fdf4b5bf4569cd626c50b7d5\r\nec668b79b9d89eae8d17fe854c9b5dd2e1ff00597d0d695353e4a9e70b19f0eab2cc8ef1e9d79c\r\n7ddde9b77d413dbea9799dd71f6287fb90fcd2d6cd155cc16336c745b0b0ff00536ff3ff007dfe\r\n66ad2a28acc028a28a0a0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a\r\n6d3a8a006d14ea2815c2b8eb9ff8a87c42ff00f40bd33ff1f96adeb5abcb73e6d8692dfec5c5e7\r\nf043552044b6b18ace0ff5095b53a2e67256c4281a1757dbe47482a8d1457a74e8a823c8a955cd\r\n8514515a9905145140051451400514514005145140051451400514514005145140051451400514\r\n525709f602d1451544b8a61451456d4ea1e5e2b057d621451456c791384a2f541452514102d149\r\n45002d14945002d14945002d14945002d14945002d14945001595aa224dac6970bff001c8b5ad5\r\n8badccf0ea1673ff00cf1dafff008f572e2fe13bb03f19e93453637df4eaf2e27b414514550193\r\n7be1dd2ef3e79ed12b3a3f07a5bbefb0d46f2d6ba7a28e66498b1e97a94322bff6ccd37fb0e953\r\nff0066f9d3acd7f2898af29163e44ad3a6d1ccc0e6e3b396c1e5ff00ae8d323fd6ba1b57f32047\r\na7c888f426c415254a571d45145001451450014514500145145001451450014514500145145001\r\n4514500145145001451450014514500145145001451450014514500145433a4af0b2412f92ff00\r\nc2fb37572fab6b9ade908a2e6ded24dff72686826e75d4579d7fc26da97f72daa95d78a356bcff\r\n00978d89fdc8680d8f42d5356b2d3537dd4bff0000ae727d52ff005efefe9da7ff00e3f3567e9d\r\na16cd975ab3f993bfdcb6ffe2ab51dddebaa8d1bee70d7c472ec3634892048215f2e04fe0a7514\r\n57a718a89e5ca6e4c28a4a29998b45251400b45251400b45251400b45251400b45251400b45251\r\n400b45251400b45251400b45251400b4514573ca99ef61f1aa5a4828a28ac4f422d4b60a28a2a8\r\na0a28a2b48d4b1c788c2aa8828a28ada32e63c4ad41d27b0514515473051451400514514005145\r\n14005145140051451400958de244fdddbbff00bc95b55435a87ceb177fe385b7d73e2a3781d984\r\n95a68eb3c352f9da0d849ff4c56b4ab9ef03beff000f449fdc9192ba1af2627b41451450505145\r\n140051451400514514005145140051451400514514005145140051451400514514005145140051\r\n451400514514005145140051451400514514005145140051451400daf3cf1dcdbf5a487f8218ab\r\nb3d7b548b47d39ee9faff027f7dab85d3f459f55b5babfbafbf337c945c9e6b1971bcb790dbdaa\r\n43bdf737dc4f9ebabd17404d37fd32f3fd7ff027f72ade97a741a25aff00cf49dff8e89e6799f7\r\nbd6f469b9d8e2c4626d71b23ef777fefb6fa651457ad18f2d8f2673e60a28a2990145145001451\r\n450014514500145145001451450014514500145145001451450014514500145145001451451b96\r\n145145672a677e1716e1eec828a28ae59be5dd9ed53a8aa6c1451b1e9fb1ab2f6f4fb9af2cbb0c\r\na29fb1a8d8d4a38a847a99d4c373ad50ca29f22532bae9e2a12ea78b8ac0ca1ac5051452574a69\r\nec79ed35b8b45145040514514005145140051451400537623c6e8ffc6bb29d45294799345425cb\r\n24c8fc0971f669ef34d7fbfbb7a57667a579e6a3bec2fadf5687f81be7aefa1992685274fb8ebb\r\nebc5a91e49347bf467cf14c968a6d3aa0dc28a28a0028a28a0028a28a0028a28a0028a28a0028a\r\n28a0028a28a0028a29b400ea2b0ef75fb786fa2b083e7b999ba56e500145145001451450014514\r\n500145145001451450014514500145145001515d5c456d6b2cf3379688bbdde891d1119ddfcb44\r\nfbef5c06a77b75e29d412cecf7258237268258c8127f166aef7373ff001e30d75f23a431fdcf91\r\n17e44a8ad6da2b3b54820f9112aa5d5cf9cffec55d1a6ea3387115adb11ccef33ef7a651457b10\r\n828a3ca9cf9828a28ab2028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002\r\n8a28a0028a28a0028a28a0028a28a0028a28a4da8ee5a57d84a9111ddea686cddff78f56d3627d\r\ncaf3711984617e53b68e11cacd95d2cd3f8de9cf6dff003c6acd15e2d6c54ea9ec61e2a919f413\r\n56e6851ffdfaad20657e6b8db9773d3a75131b453a8a9bbee6a347d28a751551ab28f522508cb4\r\n686ec57a6bdb3a53aa48e674f92bd0c3e633a76e63cdc465d09fc254a2adbdb4537dcaaf223a57\r\nbd87c6c2a9f3f5b0b3a57d06514515da72051451520145145001451450047326f8193f82acf82b\r\n514f2e5d31dbe785be4a8ab2754b67b69e2d4ed5f66c6f9eb87134efa9e9612b25ee9e874eaad6\r\n3729756b14c92a3ef5fbe9566bcfd8f513b851451414145145001451450014514500145368a007\r\n514df9698f32226f775d94012d15952eb76ec316eb35e38ff9f64dd8aa260f115f9613ddc3a7c3\r\nfdc806e96a89b9ada86a967a5c6d25edc2475ca5d6b9aa6bcff66d26dde083f8e6adab2f0a69d6\r\n8fe7bc4f7573fdfba7dd5b89b112a41189e1ef0ec1a4a6f7fdfdd3fdf96b768a282828a28a0028\r\na28a0028a28a0028a28a0028a28a0028a28a0029aee889bde891f626fae035dd52ebc477a9a6e9\r\nbff1edde824b3ab6a32f89eebfb334cff8f24ff8f8b9ad9b1b3b5d2ad764294db5b6b7d2b4f8ad\r\n60fb89ff008fd569e6699eb5a345cd9c35ebf2dd5c74d72f348ffdca828a2bd6a7494363cc94f9\r\n828a28ab320a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28\r\na2800a28a2800a28a2800a28a2800abd0db227dffbf45ac3e4ff00bf566bc1c66379bdd833dac3\r\n60f97590514515e436dee7a095b60a28a291414c7daf4fa2a4719729464474a6d685569e1fee54\r\nca275d3ab722a29b4ea9374ee145145031a9f2559de9347b1d2a0a68ad69d59536ac7356a0aaa7\r\na11cf0ba3d32adfc8e9b1eab3a6c7afa6c1631545cacf9ac6e09d2774368a28af44f344a2968a0\r\n04a2968a004a2968a4e3cc5465cacc5b2bbb8f0dea0f027cf6aedfea7fbf5e8705ca5c409342c1\r\ne375dc1eb8bd52c7edf6bb3ee4e9f3c4f50786fc432d8deb586a40244dd2bccaf4accf670d594d\r\n1e8345353bd3ab94ed0a28a2800a28a2802a4f7d6b6dfebae112b3e7f12e9a9f225ca3bd4b3687\r\n6b732379e9bd29d0e81a5c29f25a2500534f10c53fc90a48effdc44dd4be76b372709631c09fdf\r\n9e4ffe26b6a1b68ad93643122254b405cc25d335697fd7ea889ff5c61ab11e8163bf7cde65d3ff\r\n00d3d3f9b5ab45048d08a89b29d451414145145001451450014514500145145001451450014514\r\n50014514da007556bdbcb7b081e6b97d89581ad78b6decdde0b2ff004abaff00c712b85bdbbbcd\r\n466dd732bcd33b7c895449bbaa6bb75af4df62b65f91ff0082ba4d2f4e834db5f2604ffaecff00\r\ndfa8341d2ffb36d537c49f6a7fbf5a558735e46352466deffaef2ffb95054b75f3cd2d455ee61e\r\n36823c4afb89452d15b9909452d14009452d14009452d14009452d14009452d14009452d140094\r\n52d14009452d14009452d14009452d14009452d14009452d14009452d1401af451457c49f58145\r\n1450014514500145145001451450044f16faa9223a568531f63fdfa9e536a75ac52a7539e174ff\r\n00729a6a0eb8cf9828a28a458da6bfce952536b7a159d29230ad455556657a2a493fbf51d7d561\r\nf10aac533e67158274dbb2168a28aeb3ccb35b85145140051451400552d534e4bf87f83cff00e0\r\n7abb4544e1cc6b0a8e1b193e1fd7eeb449bec57eaef6dff8fa57a0413457302cd0ca9340ff0071\r\nd2b8ad434e82f13e7fbffdf4ac7d9a8f871d66b6b8fddbd79f52835a9eb51c429f53d4a8ae674a\r\nf1859ddec8eebfd167ff00c72ba4ae7b1d69dc7514515050514514005145140051451400514514\r\n0051451400514514005145140051451400514514005159daa6ad6ba543bee65ff713f89eb82d5f\r\nc51a8ea523a412fd960aa05a9da6b1e22b1d2b11b9f3ee7f86de1ae4354bebfbcff90cddfd860f\r\ne0b383e696b2f4eb6bc9a47fb1efdeff007e6adfb2d02dedbe79bf7f3d4971a662488ff6596ead\r\n6dbecb649fc6ff0034af56fc230c536b7f3a7fa98d9eacf8ae6d9636f07f7e4a3c0d0efbaba9bf\r\nb8bb2a7989ad1e53b1a6d3a8ac2f695ce2665dd5b793f3ff007daa0ad4ba4df03d65d7b984a9cf\r\n1b1e6e22366145145759ca14514500145145001451450014514500145145001451450014514500\r\n1451450014514500145145001451450014514500145145006bd14515f127d60514514005145140\r\n0514514005145140051451400da8a4b6fe34a9e8a96546a3899f4eab32428f55a44647a9b1db4e\r\na7305369d4549a8d93e74a82acd5693fd657af9756b7ba73568290514515eed3a87898ac0df588\r\n514515d17b9e44a9b87c41452514190b45251400b4d7daf4b4516b95193898da8e869327996bff\r\n007c556d335cd47457f2f9783fe78cd5d1d56beb3b7bf8f64eb5cb530d7d51dd47176f88dbd2fc\r\n57a5df6d477fb2cffdc7adbaf2dbad0a787ee7efd28d3f5ad5347fb92becfee4f5c12a5289e8d3\r\na8a7b33d528ae6f4ff001869b730ff00a4cbf627fee3d6fc0eb347bd1d1d1ff8d2b23525a28a28\r\n2828a28a0028a28a0028a28a0028a28a0028a6d364744a00929b583aa78af4eb0dc9bfce9bfb89\r\n5cb5ef8a356d49f659ef813fe98d01cb23bcd4357b3d37fe3e6e511ffb95c96b7e336ff57a6a22\r\n3ff7eb2ec7c35757323cfa83f97ff8f4af5bf6ba45859ffa9b64dffdf7a398d2347b9c679379a9\r\n4fbf64d3bff1bd6ee97a06c911ef614ae929b53cc6d1a76228f6247f226c4a753e99526a8e47c5\r\n1323ea3e4ff723a7697a8de6956b14c9b3ecb7373f7ffdca9134e4d63c51710ffcb046df33d5ef\r\n195b450c16a896e8903b356dcbee9c55b56759f2d1593e1abefb7e9117f7e1f91eb5ab8e51b1c7\r\n288563cc9b2674ad8acbd43fe3e9ebd0c0cb538f14b420a2928af60f345a2928a005a2928a005a\r\n2928a005a2928a005a2928a005a2928a005a2928a005a2928a005a2928a005a2928a005a2928a0\r\n05a2928a005a2928a00d8a28a2be24fac0a28a2800a28a2800a28a2800a28a2800a28a2800a28a\r\n2800a63ec78e9f4548e32e528bc5b29b5a150496dfdca9e53ae9d6e856a8e6a929b3fdcaeac1ca\r\nd346953e121a5a28afa24718514515a4656392b615540a28a2ba232b9e1d7c3ca93d828a28aa39\r\n828a28a0028a28a002aa5ed8dbdcfcee9e5bff007d2add14a518cba1ac6a4a3b339cbed0a54f9e\r\n0747aa965777fa24dfb996687fd8fe07aebaa3786278f63c49b2b9aa6153d8eda78dfe61748f1b\r\n4537c9a945e47fb69f72bad86e62987ee65492bcfef742826ff8f57f21eb1e4b7bfd29f7a6f4ff\r\n006e1ae2961e48eda78884fa9eb74eaf2887c4bacc43e4be692b493c67ab42ea24860ac796c6fb\r\nec7a2d15c3a78dafe6d89069b0bbbffd34aa975e2ad79ed5a6f261860ddb37a53b06a7a1d44ee8\r\n9feb1d2bcd2f6f35e9a74826be7777fe081e9d068175729fbfb87df537348d3677975aee9b671e\r\nf9eee1ac2bef1cd9a7c96d0bcf542d7c2f610ec79dde7ad6b5d3acedbfd45b254f31a46898926a\r\nfe23d4bfe3cadbeca943e81a95e7fc7e6a95d2514731a46999b6ba169b6c9b3ecc927fb6f5a5f2\r\n226c4448e8a2a4a8c48e8a73fc94da0a1c94ea8e9d52086d27f769f489feb1282a472be1bb9787\r\nc4b2c1fc172cc8f5d47896c5a6d06ebfd8f9eb97f0dc2efe2877fee333d7a2df45f68b19e1fefc\r\n6d5d91f84e1a9b9e7fe07b9ff4ab883f8268f7d7635c2f837e4d6fcbfee46c95de57155396a6e1\r\n59f7d0bffafad0a6d5e1ea72339eac79918d454b750f933eca8abdfa52e689e5ce3ca145145599\r\n851451400514514005145140051451400514514005145140051451400514514005145140051451\r\n4005145140051451401af451457c49f58145145001451450014514500145145001451450014514\r\n50014514500368a75140114f0a3ffbf5527de91d685417dfea2b7c2c6f51152c47227733e8a28a\r\nfa3e5e544d3ad19ec1451450681451451197299d4a51a8b50a28a2ba2352e78d89c1726b10a28a\r\n2b43ceb5b70a28a282428a28a0028a28a0028a2928d0b4fb19faa7d8ed9229eeacfcf4dcdf227c\r\nbbea8e8ba2beabfe9574ef1daeef912a3f145cbf9eb6dfdc5aeced61486d6dd13ee246b5e7d48a\r\n7267b787bf22b989ac59d9db489324305aec859d1d3fbd5cf6970cb73be147f91e457992b5bc51\r\n0cb73aa59daa3ffaeaade17de9adca9ff4cdb7d72d53b299d15ad8a27f079695768a2b9cec0a28\r\na282828a28a0028a28a001e9bb1e9d4500368a753a8246d393bd11a559b6b7661413391caf86f6\r\n27887547fee7ff00155df579b5ef9ba3ebd7f0c7ff002f4d0fcffdcccb5e975d51d8e191e6baeb\r\ncba178ae5ba853e47aeb6c6e6def2049ed9f7a3d59d7b4e4d4b4fb885d3e7dbf23d703e13d45ec\r\n350fb2cfff001eb72db3fdc6ac2ad3ea44a373baa75369d5cbb1915af61f3a0ff6d2b36b6ea93d\r\n8fef1dd1ebd3c1e26da499c388a37d8a3453e44747d8f4caf56328cb638651710a28a299214514\r\n500145145001451450014514500145145001451450014514500145145001451450014514500145\r\n145006bd14515f127d605145140051451400514514005145140051451400514514005145140051\r\n451400556beff5689566b3ef9ff7f5e865f4ef34ce3c6cad020a28a2be8dc6e7914710e9b0a28a\r\n2b0953b1ed61f14aa05145256676851451409a4f7168a28ada353b9e6e23049de510a28a7ec67f\r\ne07ad7dac3b9e3ca94a3d0651528b69dff00829df619ff00b9532af05d43d9cbb105157a3b1fef\r\nbd4896d127f05652c641171c3c999b58f37882287f837bd6df8a2e12c345b8f93e79be44a8b45d\r\n020b0b189eea149ee9fe7acbeb3cfb1db470897c460683692eabaa25cce9e641f7ddebb591ff00\r\n76f2509b123d8888894b48ed4ada1ccc36df6cf10bdcbbfee268ff00d1dea9e9692d878a120b94\r\nff005db92b7757d2de693ed960fb2f51b7ecfe07ac5bad47edfabd94cfb207b69151e1fe345358\r\n5489b523aa4a28a2b90ee41451450505145140053a8a282428a7d3b63d04f30da7468ef53436fb\r\neaec76ea9daaa31339542bc36dfdfab74ec515473ca57383f1145f68f1c5ac3d9fcbaef8d707a5\r\n5c25c7c42b89bfde44aeeab681215e79e32f0eb59c92dfdb7fc7b3ff00adff0062bd01d5cba7cd\r\n4c9e149a07866f9d1d4a3a7ae69cb5039df0f6a3fda5a5a3bffaf4f926ad4ae066fb5785b57ba8\r\n616ea9ff007dad6a683e288a68d2db537f2e7ff9ed5c552363374efb1d5514dfe04fb9f3d1508c\r\nda09111fe47acf9acdd3f7895a5456f4f11287539ea51523128ad49ad966ff007ea84d6cf0d7ab\r\n4714aa1c3528b81151494574f347b9972bec2d1453fecd2ff71e97b58770e490ca28a2ad49488b\r\n5828a29280168a4a280168a4a280168a4a280168a4a280168a4a280168a4a280168a4a2803628a\r\n28af893eb028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a448564\r\n49f3c8ef57ae9f62551afa1cb28d9731e4e36a740a28a2bd63cb0a28a28b1709ca1f0b0a28a2b9\r\ne70b6a7af85c6f35a2c292a682cde6ff0072a479b4eb0ff5f730a3ff00b6f5c352ba81ea11a5b4\r\naffc156d2ce24fbff3d527f12e909fbbfb7a3d569fc5d610ff0004f257154c449ec06eec4a92b9\r\n393c7367ff003e73d40fe22d6ef3fe41fa5563ed67dcca54e32e87634d79a087efcd047ff03ae1\r\n7508b5b7fde6abaac16bfec3bffecab5853a44f26c82579deaaecce38747a4cdad6970fdfbe82b\r\n2eebc67610fc96d14d3bd7390e852ecf3ef3658daff7deb7f48d391ffe41f6df6583fe7e66f9a5\r\n7ff769c752fd8a8989ac6bb79a96cfb55b24088dbd12bafd061fb36976fbee3cf79be77fc6b1bc\r\n6496b0fd82dadbf81db7d4fe17ff00467bab0ba4d9750ffe835d94741337e9f4515d4e422c58c3\r\nbdf7d51f17686ba9593cf0affa6c2bf23d6e5ac3e4c7b2a6ac65ef01c0d8ebb2c33a596ab0ecfe\r\ne4dfdfaddad2d474bb5d4ad7c8ba85244ae2fed971e1ebd6b0bdf31ed7fe58cd5cf2a763a29d43\r\na2a29b1ccaf1ef47de8ff71ea4acce84ee368a28a00751f3bfc8945ac3f699bfd84ad8485528e5\r\n319542a4368dfc75663b644fe1a9c515a7298b936369d4514121514f32430bccff00c0acf52d61\r\nf8c6e7ec9e1eba3fdff92a9099cd781ede4bcd7ae350fe08777fdf4f5e87589e11d3bfb3745b78\r\n7f8dfe77adbad50828a28a60727e3cd2def34e4ba87fd7db579afdf8debdd1ebce2e740b0ff849\r\ne7d34ee81268b7c4f5cf5a25c256dca3a0dc6af6d0bbe9bfe956a8df3db575ba46bb67a97c88fe\r\n45d27df867ae75fc2bace9b75f69d36e51dd2a86a97974ff003eb3a5fefd3ee5ca26d7ae50953e\r\n63d168ae1f48f15bdb6c86f26f3e0fefff001a57691ba4d0a4f03ef81fee3d1639a54da1d43ec7\r\n8dd1ea092f2d53efde43ff007dd4126b5a5c3f7f52b6aa8371d89e4e6e84f1db5ba7f054fb17fb\r\n8958d278af484ff96b3ffdf156ec75ad36ff00fe3daf137ff71fe5ad255a6fa93f57f22f7dca75\r\n14547b47dc3912e840f0a4df7d2aa4d62e9f72b4a8ada9e29c2da994e8c5f431363ff71e8ad99f\r\n7f97f23796f597379be67eff00efd7a94714a67154a3c84545145759ca14514500145145001451\r\n45001451450014514500145145006bd14c8fe78f7a53ebe2651944faa0a28a282828a28a0028a2\r\n8a0028a28a0028a28a0028a28a0028a28a0029b4eaa37536ff00912ba70b45d59ad0e5c456e444\r\n333f9d26fa651457d5528a84523c2a93e66d8514515664145159daa6af0587c9febe7fee544aa4\r\n61bb35a74a53d91a3552eb5ad374dfe3fb54ff00dc82b9cfb75e6ab3ecf2a6baff00a7687e54ae\r\n9ed7c2b14d22cd736cf1a7f737aaecff00be6bc8c4e3ba44f570f8251b499cf5ef89754bff0092\r\n0fdc23ff0004351c30dac29be6fecf8e7ff9f9d467dcff00f01896bba87c2fa3429b3ec31d584d\r\n16c22ff57a7da0ff00b675e5cab5cf48f3d36da3cd3fcf7d7f76ff00dcb2b2db5a6343b5b94c5b\r\n68daaa27f7e69962aee122648f626c4a3ecd53ed0673965669a5ef820d33ed4ffdf74554ff00be\r\naa6ba8f59b98ff00e3fa1b24fee429bab6feccf47d9aa7da08e4d3c2f61bf7cef733bff7ddeb5a\r\nd6c6decd3fd1a2482b5beccffdfa3ec955ed0ab992f636b34c9753c28f3a7dc77ab69deadfd93f\r\ndba6bc3b2aa3500e67c789fe856aff00dc9da8d53fd1a7d235f4fb8f1aa4d4ef1aff00c8222ffa\r\nef5a5650a5ff0087aded67fb93415e9d1d4c645b4f9ffd5d695b5a6c3bdfad617851d9627b6b9e\r\n6e6ce4f26ba7ad442d14514082b3b58d26d755b5fb3dca7fbaff00dcad1a28dc0f3474d4bc2b75\r\nb2e53cfb27ae8ecafa0bf83ceb67df5d1c88932323aaba7f71eb95bdf0a3dbcef79a3dc3c137fc\r\nf1fe0ac654cda9d4b17a9af546c751777fb35e45f65bdfee7f7ffddabd27fabacb94dfda5cd1d2\r\n21d96b5a1505affa95a9eae2724b70a28a2800a28a2800ae3357b9ff008487c45068f07fc7b5b3\r\n6fb8ad8f15ea9fd95a5bba7faf9be48aa9f81f4bfb1e9ff6c9bfd7dcd54493a7a751456c014514\r\n50015c778e08b4bbd2f52fee4b5d8d6078cadbed1e1ebaff0063e7a8a91ba0343e574574a49115\r\nd363aef4ac7f085dfdb34183fbf0fc95b66bcda9ee9bc7630353f0a69779f3a27d967fefc35c86\r\nb5a36ada5c3e5cd33cfa77f7d2bd3a9df7d2b2f6823cbedbc2b757f0fda74db9b3ba80d0fa2eb7\r\n67f7f4849ffe00b2d7616fe1f7d3b57fb6e95288609bfe3e2ddeba1a3db091e3f35cff00cf6d2e\r\nda0ff803455041e55cce89e6c3027f7debd9234444d8889b2a8dee85a5de0d93da43446a8ee703\r\n0eb57fa249b21d461d460ff7f7574d6be2ed226851e797ecaffc68f542fbc19756d279da55c7fc\r\n01eb9dd4ed25b6ff008fcb77b5baff00c71eb68c932654d33beb2d6b4dbf9f65adf4323ff72b42\r\nb85d22fb49bf9e24d4ecd2d6f7f82e60f977d77154734a361d4d78526f91e8a2aa9c9c5ee73ce3\r\ncc64cd0bc32532acc9f23bc137dca8644d926caf7e8d4e68a3cca91e56c6514515b98851451400\r\n514514005145140051451400514514012c1379357d1f7fcf59752c133c3fee57978bc0a9abc4f4\r\nf0d8cb69234a8a623ef8f7a53ebc09d39537667ab19a9ec14514541a0514514005145140051451\r\n4121451450505369d54e6b9fbf1c15bd1c3caab5a1cd5ab28750bab944f912aa5252d7d261f0ea\r\n9247895ab3a8c28a28aeb39c28a6c8ea88eeff00bb445ae5f54d765bcff46b5478d1ff00f1fac2\r\nb6215347551c3baa59d635d95e6fb1e99f7ffbff00dfff0076afe91e0977fdf6aaff00f004ad4f\r\n08f87574a83ed3729fe9afff008e574d5f3b8ac5b9bdcf668d154d15ecad2d6ca0d96d0ac29562\r\n8a2b85bb9d0828a28a818514514005145140051451400546fdaa4a6bd5c40e57c729ff001288bf\r\nebbd5fd1ff00e41165ff005cd6aa78f3fe40917fd775ab7a27fc81ecbfeb9ad7b38597ba6731ba\r\n88fb0dd41aaa0f93fe3deed3fd9adcb69bfe59eecfcbbd1ffbeb4ffb3a496be43ff1ad60224ba2\r\ndd476bb81b27e2dffe98d741275145416b73f688fd1ea54a007514514005145140152f6c6d6fe0\r\nd9729beb9ed526b3d1f625e4d36f75fdd4c895d6571baedf4573e24b3d376c32245bb7effef1a9\r\n9046e50b6f18258f950daa3cf6c8bf397aed34ebe82fed62b9b6fb8f581369d6733c5bed93e4fe\r\nb47839d6d7ed9a53ff00af864dff00efa9ac4a944eaa8a28a0029923a2465ddb627dedf4fae57c\r\n71aa7d9acbec1b7fe3ea36f9e824cffb3cfe2abbb8d493fe3d91becf6fff00b3357710a2242889\r\nf72b37c2ff00f22f69df2ecfdcad6a56d1880ea28a2a8028a28a002aadec7e75b4b0ff007e364a\r\nb54d4a00f3cf01dcecbabdb37feeef4aee12b83d17fd1bc6ce9fed4895dd579b888ea6d125a5a8\r\nd3bd495c3200a28a2a40292968a004a8e7b68ae5364d123a54b4534ec0703e27f0ac16d6af7961\r\nbb627df86ab786bc44f66e96579ff1ebfc1357a2bff73a2579ff00f65c16daa5c6817bff001eb3\r\n7cf6937f718d74d2a97224ae7674eae6741b9b8d37517d02ff00fdfb79bfbeb5d3568734a3620b\r\nab64992a87fae8767f1a56a566dd27933fc95ea60eadf43cfc4532bd2d1457ac70f28514514121\r\n45145001451450014514500145145001494b45500f8ddd1f7a55b8ef11fefd51a2b8b11838553a\r\na8e2a54cd7a2b2d1dd3ee3d4d1de3ff1a5791532e92f84f469e393dcbd45564bc8aa4fb4c4ff00\r\nc75c92c1d48f43a238883ea4b45337aff7d28debfdf4acfd84fb15ed63dc7d1507da624fe3a81e\r\nf13f812b6a783a92e84cb154d752e531ee624fe3aa125ccaff00c74caf468e59fcc7155c77f292\r\ncf72f37fb095151457ab4e84292d11e754a929f50a28a2b5320a28aced6b544d360ff9e93bafc8\r\n95152a2a69b66d4a9b9bb2337c4ba8ef7fecf83fe069fdf6ad9f077869ece47bfbf8b13ffcb28a\r\nad7853408aded62bfbc4df7aff003d7515f338ac473b7a9efd1a7c91b0514515c06e1451454805\r\n1451400514514005145140051451400535e9d51bf6aa8844e7bc73ff002017ff00ae8b4784ee5e\r\ne7488bfd86d94ff17a6ff0fdc7fb0caf543c15ff001e5710ff00b4b357ad85d82476c9f3a566ea\r\n888f37fbeb576cbee517b6fe7c791f7d2bb118b32e37747de95b6877a6fac9fb3dc7f72b5205d9\r\n0ad00494514500145145004723f968effc08b5e79a0c315e5d5eead3247f3cedb2bb3f12bcb168\r\nb78f0fdff2eb97f0ea793a25aa7f7d77d67519a5389a8fdab2754b9fecad5ec353fe0ff53356b5\r\n64f8a13fe2512d626d289dd46eae894e3d6b96f026a7f6ad1d6176f9ed9b65753444e7b582b8df\r\n890abf62b37ffa6856bb2ae3be233ffa2d943fdf9aaa203ac7c61616d0416d3c5343b1561dff00\r\n4ae8ad754b5b98f7c1323a572fa3d9c4fa26cb9851fce669bf3acbbad0a5b391e7d3267ff72b48\r\nc8394f478dd1ea4af3ad3bc57716cfb35087fe0695d8e99abdadfc7982657ad221ca6a51451412\r\n14da751401e71ac7fa278ed1ff00e9b46ff9d76e7efd713f1055e2d76de74fe38c576eff007ebc\r\nfc49b531c95254629f5e7c8a614514b524894b451400547bfda9cf59f7573e4c96bff4da6d9551\r\n8817ab03c6da5bdfe97e743ff1f56df3a56fa77a77dfa232b30385b5497c49e1e49fceff0089bd\r\n9c9bd26ae8b47befed5d3edef766c775f9ff00eba8ae5207ff008463c56f6cff00f1eb755d3476\r\n32d9eaf2cd6c736b72dbe687fb8dfde5aed8ec73d489a5505d43e742f53d15a51972c91c9523cd\r\n73128a96e9364ef5157d153973451e54a3cad85145156661451450014514500145145001451450\r\n014514500145145001451455005145151cb17d0a5261451454fb28762f9e5dc28a28aa508a26e1\r\n4514532028a28a0028a28aa2915350bc4b0b57ba7f9dff00812b0b45d2db58d7764e59d21f9ee2\r\nadebd33db4e972e9f71765a27f7e535d5785f4bfecad31237ff8f99be794d78398d6d794f67054\r\necae6d52d2515e1dcf445a2ab5d5ca5b26f77aad0ea2cf26ca39581a545377d2d480b451450014\r\n514500145145500514514001a8de9cf4d35512914758557d2ef11ffe78b5731e097fde4a9ff4c5\r\n6baeba8bed36b3c3fdf564ae2bc128f0ea97b07f1a475e96108677564f898a7f7eafd65c7f2495\r\na95dc641451450014514500145155af6f20b385e6b9951234a00c4f1c4dff12936a9f7ee5b60aa\r\n1a5ffc82ed7feb9551bcbe97c4da87fa36f86cad95b2f5af0222408889f222ec4ae5a923a29966\r\nd537bd17b6315e432db4df71d6a78136254958f31a1c2f874cba2f8a1ac2e7fe5b2ecaf43826fe\r\n07ae17c790ba7d8f5087efa36caeb2c6f22bfb582ea1fb932efad2267289b35c2f8fbe7d5f4d87\r\nfbeb5d9c2f5c678d7fe464d0eab98c7a9b73ff001d54fb95b525b23d42f628f53ed2c69130b50b\r\n1b5bc4fdf45ff034ae66eb4ebcd29fcfb67f313fbe95dadd5a3a554ad2332b948fc3de2d47d96d\r\na9feedff00825aecebce354d0126f9ed5363ff007299e1ef125d68aff65bddef6bfdcfe386b48c\r\n8c6513d2a8a8ad668ae6149a17de8ebf2bd4f5a1270df12173fd9cfe95d49fbf5c7f8926f3a689\r\n1dbfe3db54ff00c74d762ff7ebcfc51ad31d4514579e58e4a753529d524851451400d7ac2d7dbe\r\n7d27febfe3adb7fb95cef887fd6691ff005feb5a446740952d44952d4f511c47c49b7cfd826f4d\r\nc95a1e14d47edfa226f7fdfc3f23d37e2145bf4849ff00e78cd5cf7826fbecdabbc2ff0072e976\r\n57653d8ce71ba3bea28a29a396c54d453f77bf6567d6bcdf3c32d6457b78295d1e5e2a36614514\r\n5771ca145145001451450014514500145145001451450014514500145145001451450014514500\r\n1451450014514500145145001494b5435bb9fb1e9770fbf63baec4a8a92e58b66f463cd348ada4\r\n27f6df8ade7fbf6b675de5737e10d3bfb374b8b7ff00af9be77adfaf93c554e79b3e8a9d3e58a4\r\n4b45369d5c86a737e327ff00895cb543c2f72f73a745bdfcc74dc95bbaf58fdbf4eba83fbeb585\r\ne10b6d9a5acdbffd7333d75c5ae428ec53fd5a54b55e0fb8952d73123e945474fa042d2514b408\r\n28a2a3a0076fa37d329282ac3a9b4515455812b8cd07e4f166a5ff0002aed05727629b3c6ba96c\r\nfee57a18496a6733a44ad0b5f9e1acdad2b5f9204af49989351451520029b59fabeb367a3c1e65\r\nd4db3fb89fc4f5c9bdc6b3e29fb9fe85a7d44a6a2095cdad4fc576b0c9f66b046bebafee2563be\r\n9779aacc93eb337fb96c9f712b674ed22df4d836409ff03fe3abbe525734f106d1a666c36c90c7\r\nb214d8953a5b3d5bd9ef4fae7954b9a446253e8a2a62518de28b3fb4e85750e7e7dbbd3f0aa9e0\r\na74fec14ff00ae8d5d0489bd193fbeacb5ca780dff00d06f2dbfe78cf5b440eba1b9ae67c458b8\r\nf18e8695bd589f7fc789fec5a5548ce513aadf45368ac640385549ecd26ab3454467628cb7b374\r\nacfd63454d4a1fee5d27dc7ae933513c2be95ac6b0ac70be1ed6ae342bd7b5b947f2377ce9fdca\r\nf498264b8856485d6447fe315ce6b5a141aac1fdcbafe09ab03c37aa5c683a9be9b7ff00242ed5\r\nd74ea5cc6511de274dbe2e487b5ccb0bd76a7efd735e25f97c6ba2bd74d5c98a9174c28a28ae13\r\n41d4edf51d1524f2926ea5a653e8018ff72b99f127fc7d68a9ff004f75d34df72b92d6df7f8a34\r\n586b4801d5a7dfa96aac1f7ead54c80c8f14db7da7c3d7e9ff004cf77e55e6ce8f0d9585fc1fc6\r\ncdff007d257ad5d429716b2c3fdf8d93f3af29f9ff00e11e96d9fefd9ddff3ada93251e936b73f\r\n6cb1b7baff009ed1abfe752d64f84e649b41b5ff00637256c56c71cb71b58dff002d1d2b6eb364\r\n8657ba7d895e8612af26e716229f310c70b3ff00723a63a3ac95a096317fcb4a74d6d14d5d9f5d\r\n57b183c33b1994b4f991e17d8f4caed8cb9a299cb28f28514514c90a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a29dca481137c9b2b1e387fb6f\r\nc4a89feb2cac1bff001eab7addf369ba736cff008fab9f912aff0086f4bfecad2d11ff00d7bfcf\r\n357898eafbc533dac161f691b352277a8d2a4af0647acc7d14ca7d49223fdcae4fc35fe8d75aa6\r\n9fff003c67de9fee9aea27ff00515c9dd3ad878bad66fe0bf8f63d7453d80eba1ff56b4fa647f7\r\n129f59f700a28a750025145152014514548094528a4aa880514515403a3ae5ec3e6f1aea5fee57\r\n4d5ca689736e9abeaf7f753797fbfd895dd84dccea1d2256946ff22d73b75a8dc6c79adad3627f\r\ncf6bd7f292b97bdb8bcd6a7f260b89ef7fdc4db6e95df2a8631573afd4fc51a5d87c9e6f9d3ff7\r\n21ae7bfe125d6f579becda6dbc70536cbc1eff00f2fb71ff00004aea2d6dadece1f26d51234ae6\r\na988b1a46999ba7f876085fed37f33ea175fdf7adaa4a2b8e559c8da31b0b4525159f314145145\r\n00329f55eeae12d609667fe0567ac0d3354f106a16a9750da59bc2ff00c1e656d1885ce9be44ae\r\n6748b76b0f176a90bfdcb98fed0952ea37d2de69f716775637964f32ff00ae48f7252c9793cd74\r\nb7361a2cd25cedf256e67f96ba2266e46f469fedd62d8a07f18ea337f05bdbc70d4653c55703ef\r\nd9d954fa568b75637af7336a6f3bbffad4a241b9b74514572ca450514515980514514003f6ac9f\r\n10e8c9aac1fdcba4fb8f5ad495a46a58394e274c9a7b8d5f48b0bd4fdfd948d5dbd66ea3a725d5\r\ncdadcfdc9ada457ad2a2acb9ac4c6214fa65158943e8a6515203e8a6514004ff0072b8fba7f3bc\r\n796a9fdc5aec1fb5711a11fb778baf6ebfb8ad5a53881dac356aaac353d672dc990faf37d42cf6\r\n78875cd3ff00e7ea06992bd16b94f13c296de22d2f52fe099becf2d5d391255f87f73bed6ead7f\r\nb8caf5b13eb5146ef0d9c335ecff00dc86b93f0d5e5be8375a84379fee51a86bf7f731ff00a2ba\r\n69d65fc089f7debacce54f999d669bac0bdb96b4b8b56b3bc5e90b9eb5a95e571bde7eeae77cdf\r\neb7c9499debacf0eea97f0ea2fa36a7f3cff00c0f4ee67528d8ea28a6d1beaa11e69239672b266\r\n5dd3ef9dea2a28afa2a51b411e44a576c28a28ab2028a28a0028a28a0028a28a0028a28a0028a2\r\n8a0028a28a0028a28a0028a28a0029bfdfdef4eacbf12dcbdb696e89f7e6f92b3a92e58366f469\r\nf34d22943abea97f752ff6658a4f025393c51ff3dec668ebaad22cd2cf4eb78113cbf955ff00e0\r\n5593e32b7d9a5b4907c9be65fb45788f1b2bbd4f7238285914b42b76d635797529d7f716dfea52\r\nbb115534b4b7874e823b3ff51b7e4ab75c156a39b677538a8ab21c952546952572c8720a28a2a4\r\n91b3fdcae47c729bf4849ff8e19ebb0ac5d7adbed3a3dec09ff3cd9d3f0ae8a606ad95c7daacad\r\ne7fefa86ab15cef81ee3ced0624fe385992b7ea64161f45145480ea4a4a2a5c405a28a2a400525\r\n28a4aa8805145154032674851a47fb88bbab90f0fcd79f6494d859a7daa6919def26ff00555d6c\r\ne89346c8e9bd1ea3d890a2a22a22256d4eb7213cb73206856f70e936a57336a137fb7f73fef9ad\r\n6444863548552344a7d144ab39752e30482a4a4a2a2f718b494b4520128a5a4a0028a2994018fe\r\n2ef93c3d7553785367f60d97fbb4788a2f3b41bc8ffe99d56f03cde768317fb0d5d119684c8e8a\r\n9dfefd51d46e67b5b526da1f3a6dcaaa9f5ac89ed3c471c666875649a51ff2cbc8e2b4f69a1274\r\n0ef4562e83aeaea4ef6b729e45ec3f7e1adaace522828a292b10168df4945050b451454922514b\r\n49414145145002d1451412145145001451450041a8cdf66b2b89bfb91b35723f0fd3e4bf9ff8dd\r\nab63c6b71f66d065ff006d952b3bc149e4c3749fecc6f5a2d80eb12a7ef5043538ac6401595e24\r\nb45bcd22e909fb8bbd1ffb8c2ad492d664f37f696a29609f72db6cd77ffb2ad118d896709f66ba\r\n9b54d975bfed4ff3bec4dcfcd747a7f8537fcf79fbb4fee6fdd2bffbcd46f487e22b6f7fbf1576\r\n35b4a5b01c078ddca5edbd84384b68635748aad783617bfd52eb56baff00712b2fc652eff10dc7\r\nfb0b1a5749e06474d11dff00bf3d6d1d88aaec8dfa82f9f64153d67ea2fbe4d9fdcaecc1c2f33c\r\nac44ac8ad451457bcbb1e485145140051451400514514005145140051451400514514005145140\r\n05145140051451400552d4367dbb4d47fe39eaed63f891fc94b29ffb93d73e2ff86cedc0cbf788\r\nebd3bd41a8c315cd94b05cfdc75a6d95cc5731a4f03ef826ab2e88f5f2d2f88fa6472de1a9a5d2\r\nf509f44b97ff006e1aeaeb235dd153558d2685bcbbb87fd54b562d2e5ffd45dffc7d246aefb3f8\r\ne9319a29525434eacc0928a28a9330aa93fdfab750dd7cf1d694c0e4bc1aff0063d5352d3dff00\r\nbdbd2bb3ae23517fecdf1759deff0005caec7aed52aaa44a1d4514566891f45328a2403e8a6515\r\n98125145140094514569101943f6a7d3280128a5a2a4a12968a4aa0168a4a2a805a2928a90194d\r\na7536a8a1248bce86547fe3564ae5bc00fb1efecbfb8d5d72571da3ffa278eef21ff009edbab45\r\nb19c8edab9ed235465babcd37529916e6190ec77f977c66b7ab3754d0ac358dbf6d87e74fe3a98\r\nc896737abdc5acde2ed366d35e379f77efabb6aced2f45b0d2b8b3b6d9fedd68d1295ca4149451\r\n525051452d0014514504851451400514514005145140051451400fa28a754f301c87c467ff0089\r\n75ac3fc6f2559d11366a9a943fdc5853ff001daa3af6cbef18e9b67fc10d6868fcf8935c4ff6a3\r\nadba126cdadcef9eea0ff9e2cbfaaeea75d4db2b3b4f957edbaccdff004f3b3f28a96eae62b68d\r\ne799f62256718ea112a6afa8bd8596f44f32ea66d96e9fed56868b63fd9b6488ff003ceff3caff\r\n00df63587e1e865d5f536d6665d96b0ee4b48ababaa901c9df597dafc65750ff00d3956ee8376d\r\n7fa744f27faf4f926ff78551b1ff0048f13dd5e2237930c2b0efac9d79af34ed467b6d3473aaaf\r\nfdf0d551d6c0626a7b752d5efee93e783ccd88ff005f96bd0ec6d92c2c6decd3fe58ad70de1dd3\r\na2ff00849521826f3ed6d7e777fefe2bd03efd6c73d7636a8df5b3ff00af4ff81d68536b7a15b9\r\n2470d4a7cc8c6a29f3a79336ca657d0425cd14cf2671e5614514559214514500145145002514b4\r\n5002514b45002514b45002514b45002514b45002514b45002573fe2eb94f22283fd64ff7eb7d09\r\nce33d16b9ed2218f50d5af5ee543b6dae2c6d4b46c7a380a7795c9b41bcfecabdb7b5dfe6595fa\r\nef85ff00b8d5db57974ced6e6648cfcb693e62cff0d7a7c3f3c6bbb9af9ea87d12d87567eab6cd\r\n3c7ba1f92e62f9e27ff6ab428aca2c666e9d7c9730ef4f91f76c787fb8d5a08e8f5cf5d1367e27\r\nb748784b88f7c8a7a135b119c363b1ab9203429375468c69c9585843ea37e8d52515486725e32b\r\n7dfa5a4ffc76d256f69737da6c6293fbf1ad67ebca1acaf54f4dad49e1362744b2ff0075ab797c\r\n20743452515ce48b451454c890a28a2a407d14ca2801f45328aa00a28a4a005a2928a0a16928a2\r\na8028a28a0a0a28a28019453e8a0044ae5f574fb1f8cb4db9fe0b9f92ba9ae73c703669d652af0\r\nf1dd2953e957166723a4a29b93b33dceda7520414520008663d473499dd1a9c004f3c5002d14b4\r\n941414b4514005145141214514500145145001451450014fa70a2b3b80da294566f892e64b0d2a\r\n5960c07f5233412ce7f4adb7fe2796fcff001ccc917fba957744ff0091b35cff00b674cd121486\r\nef4b890614593b8fa96aa10c8d1ebbe2865382b0715d315702de8f796e9a44b7f74fe5a4d7334d\r\nff008f55286daebc5574934ff26970b7c89fdfac6d23fe2617fa669f73f3dac71711f6af48b445\r\n546c0fb9d286ec51242890c6a889b11169d4532438e959ee02c8e89f7eb0bc496c9a8dacb1c7ff\r\n001f50af9d0bd5bb991a312c83048ec7a52787d7ccb1fb4392657fbcc7bd5ad00f3bd2351974eb\r\nd8af21af4ad3b51b7d4ac92ead7ee3d79df882de2b7d6af6189709bba56d780e790dc5dc3bbf76\r\ndd456f1d4c2b46e8ed68a28a4721535187f77bff00b959d5b4fca62b1c8c6f15ede0a6dc6c7998\r\n98ea368a296bbce4128a5a280128a5a2803fffd9\r\n}\\par\r\n}\r\n",
+    "DefaultMark": 1.0,
+    "Choice": [
+      {
+        "choice": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Segoe UI;}{\\f1\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs20 awrawrar\\f1\\par\r\n}\r\n",
+        "mark": 0.0
+      },
+      {
+        "choice": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Segoe UI;}{\\f1\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs20 asfawrjnawjfnk\\par\r\n\\f1{\\pict{\\*\\picprop{\\sp{\\sn wzDescription}{\\sv avatar.jpg}}{\\sp{\\sn posv}{\\sv 1}}\r\n}\\jpegblip\\picw9836\\pich10000\\picwgoal5576\\pichgoal5669 \r\nffd8ffe000104a46494600010101006000600000ffdb004300090607080706090808080a0a090b\r\n0e170f0e0d0d0e1c14151117221e2323211e2020252a352d2527322820202e3f2f3237393c3c3c\r\n242d4246413a46353b3c39ffdb0043010a0a0a0e0c0e1b0f0f1b39262026393939393939393939\r\n393939393939393939393939393939393939393939393939393939393939393939393939393939\r\n3939ffc000110802dc02d003012200021101031101ffc4001f0000010501010101010100000000\r\n000000000102030405060708090a0bffc400b5100002010303020403050504040000017d010203\r\n00041105122131410613516107227114328191a1082342b1c11552d1f02433627282090a161718\r\n191a25262728292a3435363738393a434445464748494a535455565758595a636465666768696a\r\n737475767778797a838485868788898a92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6\r\nb7b8b9bac2c3c4c5c6c7c8c9cad2d3d4d5d6d7d8d9dae1e2e3e4e5e6e7e8e9eaf1f2f3f4f5f6f7\r\nf8f9faffc4001f0100030101010101010101010000000000000102030405060708090a0bffc400\r\nb51100020102040403040705040400010277000102031104052131061241510761711322328108\r\n144291a1b1c109233352f0156272d10a162434e125f11718191a262728292a35363738393a4344\r\n45464748494a535455565758595a636465666768696a737475767778797a82838485868788898a\r\n92939495969798999aa2a3a4a5a6a7a8a9aab2b3b4b5b6b7b8b9bac2c3c4c5c6c7c8c9cad2d3d4\r\nd5d6d7d8d9dae2e3e4e5e6e7e8e9eaf2f3f4f5f6f7f8f9faffda000c03010002110311003f00ed\r\n68a28af68f9f0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2\r\n800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28\r\na2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a29296800a28a2800a28a\r\n7ffc01dea6538aea69c8fb0ca2a5d8dff3ed5226ff00e3b447fee5652af15d471a6fb15a8ab9b1\r\nff00e7c528f27fe9d1ea3eb5134f6253a4ab91db23eff9268e9ff614fe09a8fadc05f57914296a\r\ncfd825fefa535ecee3fb9571c441f5265464ba105143a3a515af3aee472bec145145527722d60a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2\r\n800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28\r\na2800a28a3e5a0028a7f92cff729953ed115ca1454b1db4aff00f2c5ea4fb04ffdcace55a0ba97\r\necdf62b51567ec33ff00b14dfb0cff00dca5f58a7dc3d8cfb105152fd9ae3fb9516c74fe07aa8d\r\n687717b37d828a7c692bfdc47a992c5ff8dea658882ea38d194ba156a64b695eaeecf253fd16db\r\ncc7a8dd354fe3b9b6b5ff806eae49e36fb1d74f09dc3fb3bfbf3549f618ab1eeae6c21f927f135\r\nceff00ee4159f25cf871ff00d75c6ad3bff7dddab9a5889bea75470abb1d6c70c49fc094edebfd\r\nf4ae16e9fc3cfb12d52f2ab27f60ff00d45bff001dace4e4fa9b4682ec7a2d0f5c0a5b583ffa84\r\nd5bfefb8aa277bcb6ff517daac7fec3ed6ac64e4ba95f573d068af3c8f5fd5a1fb9abbbffb13c1\r\n53a78bb564fbf0c3ff000382a39d8feaecefa8ae3a1f1b7fcfd58ffdf0f5a56be2ed266f92679a\r\nd7fdf8e8e617b26ba1bf4da821beb39a3df05ddb489fefd4f1ec7fb8e9250a5222507d829be4c5\r\nfdc4a9363ff728ad63566ba91c8bb103d9c4ff00c1549ed9d3efa56a515ad3c64e261530e99894\r\n3d6cc888f503d8c4f5dd4f1aa5b9cd2c2b3368a9e4b3953fdb4a82bb235232ea612a6e3d028a28\r\nad8c828a28a900a4a5a28284a5a3f8e9280168a28a090a28a2800a28a2800a28a2800a28a2800a\r\n28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a8dd37a6cdef1d0049\r\n455492ce5fe0be9d2a37b9d4adbe79a18674fefa7cb53cd6368d3e62fd159d06b561347febb67f\r\nbf44dad59a7dcdf27fc028f6887ec65d11a9bdd3ee5491de4a9585fdaf2bff00a8d3a6a3fb46f7\r\nfe817ff8fd6329419ac70f33a88ef126fe3a9eb90fed1bcffa077fe44ab29abde429ff001e3357\r\n056a4a5b33aa9c24b747514dac487c5161ff002fbbed5ffdca964f12e9089bfed35c72a7247472\r\nbec6b513cc90c7be77d89fdf7ae56ebc61fc1656ff00f037ac29ff00b4b527df36f9eaa309f72a\r\n344ebaebc51610becb549ae9ff00d8ac7baf12ea9fc090daff00e3d59b069d79b363ca90254e9a\r\n5d9a7fafb9792b4e566b1a714567d6b549befdfcd553fe3e5fe79669eb613ec70fdcb74a24d45f\r\nf83652e52f42941676ff00c7697b3d5b4b347fb9a5c307fd769ea392fa5fefd5692f1ffbf47b36\r\n1cc5ff00ece8bfb96c9ff00a3ecd669ff3c7fef8ac992e5e8f39aabd98739adf66d25fefdba7fd\r\nf1b6a74d3bc3c9f7229a3ac2dfed46f7a9961cae73a8d9e1e7fbf66956e09b4b85365afc9ff036\r\nae43ce6a3ceacfeae57b43a6992ce67f92d2c24ff81b2d50bab1fee58cdff0078a5acdf3aa74b9\r\n74fb8f53ec03da19b74966926c9ec3fe07b36d548de249b7c2efff007dedae963d525fe3d92559\r\nfb659cdff1f36707fdf147b368b8ca265e9dabdc7fcfcea5ff00007f37ff001d6addb5d75ffe82\r\n5613ff00b1323412d65cda2e9b33f996b72f6af552ea1d4ac366fd97d07fb9baa6444a9c59dac1\r\naa3bfdfb19bfdf4fdea7fe3b53c17d6b37c892a6ff00fbe6b818757b547ff8f39aca7fefdabeda\r\ndbb5d7259a344f3adb54ff006264f2a5a9339513aca2b2f4ed46c1e4f251de09ff00e78cd5a552\r\n734a361d504d0a4df7d2a5a756f1a928f5319479ba19325b4be67dca6c88e95b14d9111d363d76\r\nd3c77739a58631a8a9e7b6787fe9a2541f7237af469d6535739254da6436afbfcdfefa48c95355\r\n2d3a6f3aeaf1ff00bfe5bfe7576b58cae2946c4b6a9be78929b37fae7ff7a9d69feba2a2e9365d\r\n4b58f37be55b422a28a2ba0c428a28a900a28a2800a28a2800a28a2800a28a2800a28a2800a28a\r\n2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a2\r\n8a2800a28a2800a28a2800a28a2800a28a2800a28a280237495d3e49bcbff6f66ea83fb2ed7efc\r\nfe64effdf99eadd147295193454934eb09a3d9f664ff0080550934bbab3f9f4f97cc4ff9e2f5b5\r\n456538236a75e499cf7f6a3a49b2ea2781eaca5ca3ecd9715b1258dadcc7e65e5c3f909ff014ae\r\n6b587d1924dfa63cd1cfff008e579b276933d9a32bc752fd1ff03ac7fed4b8f2f66c8eab3ccf34\r\n9bdde47ab2cda79ad5fefec7aa93c36b33ef4df54129dbfda8e50e63411e287ee4291d125cbd67\r\nf9d479d47287316e4b9a8e4b9aa9bde9b47288b0f33d47e6d474ca3945cc4bbfda9b4ca2aa3117\r\n30fa44a6d14587cc4b45454fa0ae624a2a24a7d4873126ff006a746f51d153ca049baa547a829f\r\n44a20588deadc772e95995324d59ca995191767f22f1365cc2925509f45dff00f1ed37fc01eacf\r\n9b4ede958ca99b464624cf709fb899e6f93f81eb7744f144b6703c37aeee9fc0ff007b653a4fb3\r\ndca6c9d3ccaa53e9c96dfbcf2a4bab2ffbe654ac651b0ed191d1e9de2bb79be4bc4f23e6f9264f\r\nf555d147b1e3de9f3a7f7d2bcea7d21fecbf6cd32e3ed707f73f8d29ba2ebb79a3fc9febed7fe7\r\n8d49954a3d8f49a2a9697a8daea56ab35abffbe9fdcab7458e59479475529ecf7c9be0ff00be2a\r\ned09febd2b7a759c0ce54d48e1fc34ff00e9d7e9fdcaddae6bc35ff21bb84ff9ecb2574b5ebe16\r\na73a387174f95a25b4ff005d1549a8ff00c7d54769feba2a9b51ff005c9feed1276aa919c57b85\r\n3a5a28aea39c28a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028\r\na28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a00\r\n28a28a0028a28a0028a28a0028a28a2f629094527fc0eb1354b99e6b5499f7dadabffa94ff0096\r\nb35633ac91b53a2e6695d6a36b67f7e5f31ffb8958b75afdd3ff00a9fdc2564d32b9e551ccf469\r\ne1a301d24cf349f3ccf25377fb514dacf94e9d87514da2a89b8edfed4fa8a9d400514515201451\r\n4daa0b8ea29b45003a9b45140053a9b4ea0028a28a0a0a7d328a9025a37fb54545004f45368a0a\r\n1d45368a0092377ab31cc954a9dbeb3944225ea920b974fe3aa31beca96b3940ae636ac6f911e9\r\nf7da75bde42fb13fdf4fee7fb4b58892ecabf637ce8e9b1fcb7ae7953368d431dd2ff41d451e17\r\nf2ff00b937f04d5de683ad45ac41ff003cee93efc3504e96bade9df669be4fee3ff72b8574bcd1\r\n753fbfe4dcc3fc758a1548291eab427fac4acdd07548b58b2f3d1363a7c93256947feb2838f96d\r\n23cffc29ff00232dbffbd715d65d5b6cf9ff0082b87d12e5e1d7ad67fefcec95e95fc6f5d346b7\r\nb264e2a9f32466d97faf5a9f51ff005713d4905b2433ef4a2fbfe3d6ba557e7aa8e274f960ccca\r\n5a28af591c21451450485145140051451400514514005145140051451400514514005145140051\r\n451400514514005145140051451400514514005145140051451400514514009452d1415ca2514b\r\n452e68f71d84a2968a7742b094b495620b395eb3955847a9518397420a4abe9629fc6f4e79acec\r\n13e7b9820ae5a98d5f64e88e15b2b259caff00c145d7d96c2179ee77d569fc57a6c3f71e79eb9c\r\nd635d9f55d89b3641fdcae6956a933b29e112dcbf37895e1f9e144dffc09fc10ff00f155cf5d5e\r\n4f793bcf752c923d40fda9b5518bea74a518ec87514515a8829b45154014514500145145001451\r\n450014514500145145001451450014514500145145003a8a28a900a28a282ae145145003e8a651\r\n5203e9d51514013d491bd56df52a54c8a896e8a893bd3eb328bf6378e9f25686a9629addaa7cfe\r\n5dd22fc8ff00dfff0065ab0ab534fb9f9f6573d4a7d4d23231b47beb8d0754def0bff72686bd06\r\n0d460b9d39ef2d9fcc4f2d9ff2ae6fc45a77dbed7edb07fc7d42bff7dad63c32cb6da44f7b672f\r\nc973badee21fee31ae72a74ef629489e4c3a6cff00df8fed3f9cb5ea5f7f63d79e6a16d179f791\r\nff00ac4b6d36344ff785775a5bbbe976aeff00f3c16832ad1d0b7553517fdc55ba8dd1268f63d6\r\n9465cb34ce2947993464468eff0072a74b197f8f64756e6df6d1a6c86a83bbbfdf7af62355ced6\r\n3cea94d4077ee93fbef43bc5ff003caa2a2baa3130b87fb9451455121451450014514500145145\r\n001451450014514500145145001451450014514500145145001451450014514500145145001451\r\n4500145473dcdbc3b3ce9523dff729a9736aff0072e21a9e64ba9a7b37d896ad4372889b1e2aa9\r\nbd7fbe947fc0d2a24d4ba9718497435a3489fe7d894ffb3c5fdc4acd86e5e1abb25e4091ef9ee5\r\n23af2eb29c1fbaceca7052e8125b5bff007128fb0c559775e28b34f92d927ba7acd9f5ad6ee7fd\r\n44305aa5671a957b9bc70ebb1d448f6f669be674813fbef58b75e2bb3ff57670cd74f5853d9fda\r\n64f3ef6e5ee9ea4f39218ff7688957184a5bb358d34ba12dd6a9acde7fcb64b283fb8959af0c09\r\nf3cdfbf7fefbd3a7b97fe0aa526f4f9deb48d348bd826747a8e99bf7d09dea903903f6a287ed45\r\n6848da28a2a8028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002\r\n8a28a0028a28a0028a28a0075145152110a28a282828a28a0029f4ca2a409e37a9a37aa8952a56\r\n6e25464594a923de926fa813bd4a9dea2451d469173bf6573de25d21edb507f27e482e959d3fde\r\n1fc356f489b65d256ef8874e7d574b4485fcb9e16df0ff00bc2bcfa9a33aa32d8e6637fb668bab\r\neaaff7eeb6c35d6477167a568f6bf6ab948d1235ae05ccba74ccb35bec4ddbfca9bfbc2ab47b26\r\nba8bedb33a41fdf4fe0a7126a4398eaaf7c6f127fc7959bbff00b73d4b6b73e28d6214d9b34e83\r\nfe7b6cad4d134ed2218526d3d219ff00e9b3fccf5adf7e838e5eef43013c34ff00f2df5ad4e4ff\r\n0081d3bfb0af21ff008f5d5dff00dcba4dd5bb455c6b4e3b3309a52e86047f6a5dc9756c903a7f\r\n1a3ee47a7d6c4f0a4c9b1eb36785a17af630f89534ae79d5a8db622a28a2bbce50a28a2a4028a2\r\n8a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028\r\na28a0028a28a0a284fa45bbfdc7782b0b54b196da7f9f6488fff002dabaca6cf0acd1ba3a7988f\r\n58d4a573a28d7b6e8e564d2ef1366c8bcc47fe347a1348baf3d37fc89fefd5b9e1bcd137ecf9ec\r\nbff40a9e0bc8ae7ee4d5c4f9a27af09426b619f61f25ff00d1aee683ff001ea3ecd6a8fe64ff00\r\nbf7ff6e9ef55a77a57b8f952267bc44f912abc973503f6a89fb5004b24cef5151b3dea7b1b6f3a\r\n74aa2875adb3ecdef54351de8fbff82ba69f6227fb0958da8c3e74355ca49929527dcab305b7d9\r\n91de7fb8954bed3e73efa92475363496892f9137d45f697a00b3e4bd47223a53526a73d0014254\r\n1bf7d3a1aa025a28a2a8028a28a0028a28a0028a28a0028a29d400da29d4500368a28a0028a28a\r\n00751451520369d45154014514548051451400514514141451450014fa6515204e95652aa277a7\r\n23ba4959ca251ad63f2488f5d341aa2570ff00697fefd4f1de3ff7eb9ea51e6368d4b1d8f93617\r\n97a97337cee8bb111fee2567eafe14b7b9f9ec9fc87fee7f03d63c37cffdfad8b1d69d3e47fde2\r\n572ca94a2691a899cacf6daa68936ff9ed7fdb4fb8f5d3683e2bfb4ba5aea6e91bff0004d5bffe\r\n8ba95aba6c49e07fbe95c2f887407d2bfd26dbf7965ffa054c65dc254d48f45a2b85f0d7895ece\r\n45b0bc7f32d7f826fee66bbaa0e3a94f942a39e149a3d95251574a4e2cc251e64623a3ac9455ed\r\n411fefd50afa0a3539e28f2ead3e562d14515b9805145140051451400514514005145140051451\r\n400514514009452d14009452d14009452d14009452d14009452d14009452d1400948fb5e9d4500\r\n43f66fee4ae9fec7f05625d787ee137cd03a49fec7ddae868acea514ce8a7887038ef3a585fcbb\r\n947a9d2e607fe3aea268526ff5d12495427d0ac1ff0081d2b95e199dd0c6a7b98db13fbf448956\r\ndfc3bfdcb9ff00beea87ef524744749d11ab3945c4ea8d453d876cfe0adbd3d1e1b274f93f7d58\r\n90bffcf447abf3df25b5aefdf444a25bd992b2e4b9f3b66cff0081bd66dd6a3f6c4d89ff0003a8\r\n3ed3b20d8954e4492ea979e76c812a95496b0eff009deacec5a928a5b6a6486a7d8b4ea091a89b\r\n289137d3a8a006c6889453a8aa01b453a8d9ef40051451405828a28a0028a28a02c14da751400d\r\na75145001451450161b451450014514550053a8a2a4028a28a0a0a28a2800a28a2800a28a2800a\r\n28a2800a7d329c95204b45369d5250ea9d1ea04a7d44a3705234f4fd45ed9f7a575b6b7305fc1f\r\nfa1a570157acafa5b39f7a57254a3d8e88d42b7893427d2a6df0fcf6af5b7e0dd69e68d34cba7f\r\n9d3fe3ddeb52dae6df5bb596d66fe35ae2eeada7f0deb513ff0071b7c4ff00dfae75743a91e647\r\na65155ac6f22bfb18af61fb8eb566a8e0947946d64dd27933ecad8aad7b0f9c9feda576612b72c\r\n92396bd3baba3328a5a2bdc4efa9e6dac2514b450489452d14009452d14009452d14009452d140\r\n09452d140051451400514514005145140051451400514514005145140051451400514514005145\r\n65eaf7cfff001e56dfebdfefbff72a252e535a54dcd90eb17de73bd85abffd767acbff00613ee5\r\n3b62226c4a8a4f9237ae294b999ecd3a7ecd0dbdbcf253e47f9eb1dde599fe777a9a4f9de88d2a\r\n4a1f6b0a533ecd53d14143bee25369f4500328a7d32800a28a2800a29f4e4ff728288a9f4ea282\r\n48a8a968d9ef40115153fd99e8fb32251cc87620a7d4dfe8f4e8d11fee24d53cc3e52bd32b4bec\r\n6fff003ca6a6c96375fc16cef4bda07299f455978654fbf6ce94d8d37bfc9b29fb441ca41454f3\r\n432c3f7d29a888f47313cac8a8ab3e4d37caa77020a2a5d9ef4dabe62465145152505145154014\r\n51450014514500145145001451450014277a28a00b2f0ca91c4f242e8937dc7a6d377b3c689bdf\r\n627dca75480e4a7d3129f59942a77a37fb525152068e8f79f66ba89eba8d6b4b8b58b2f23fe071\r\n4dfdcae313bd763a0de7da6c767f72b8ebc6da9d14e5739bf085f4ba6eaefa6dcfc88edb1ffde1\r\n5dc572fe32d2fce87fb4a14fdfc3f7eb53c35aa7f6ae9fbddff7f0fc93563195d19d5a66b51451\r\n4d3b3472b5d0cbbd87c99bfd87a82b52e937c0f5955eee0eb73ab1e5e229f2b168a28aec39428a\r\n28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002\r\n8a28a0028a28a0028a2a37744a1e85c23cc41aa5f2585aeffe37fb895cf46ee88ff3ef9dfefbd3\r\na7b94bc9df50b974d89f24294e86d9ee607bcbafdc5942bbd13fbf5c3524d9eb51a6a0910fdffe\r\n3a8aeb624752d97fc7ad41749f72b13ae452a9113651b37d4b5448da29d450161b45494501623a\r\n2a4a36501622d94fa924f93fdfa9366ca9e62b94869d5251473011d489de8a237df26cb687cf7a\r\n9948ae5254869bbd3ccf2204f3deb5ac7c3b3dcc9bef5fe4fee2574d65a75bd9a6c82148eb3954\r\n348d33908342d52e7efec812b6ed7c2f669febf7cf5bf1a253ab1e634e5467a697670c7f25ba55\r\nc4b3813fe58a54f452b80cf262fee253be4fee52d145c05f93fb894c9ec6d6e5313dbc327fc029\r\nd4a9de8e60b1973786b4b93fe5dbcbff0071eaa4de0fb071f25c4d5d1514f9993ca7133783ef13\r\nfe3dae607acbbad2f54b4199ad18d7a551beabda0bd99e4dbffbe947c8f5e977ba5d85ff00fc7d\r\n5a2495857be0c81ffe3cee1e0ff7fe6ad23508f66723b29b5a975e1dd52c3fe5dfcf4fefc159af\r\nf23ec74d8fff007cd691a84ca2474ca9e9b55cc47291514ed94b5484328a28aa00a28a2800a28a\r\n2800a28a2a407d3a9b45048ea29b4e4ef4151917644d9517dcab907fa4c1b3f8d2a9ba3a3d6373\r\n42cc15b3a2bbc375593a5bc497489749f23d7616b636f6db3c9ae5c448da8c4bce88e9b2bcf219\r\n5bc37e287ff9e1bb63ff00d7335e875c778f2c7e4b7bcff803d70d396a6b289d8fc9ff00007fb9\r\n4eac2f06df25e68e88effbfb5dc8f5bb5b48f3e51b3615977b0ec9b7ff0003d6a541749e741b2b\r\nab0b5b92491c988a7ce8cba29296be813bab9e53560a28a2810514514005145140051451400514\r\n51400514514005145140051451400514514005145140051451400514547757315b40d3ccf4151d\r\n477dcf9eb1357d512e636b2b2deef37df7a1deff0058f9113ecb6b5a565630587fa84ff81d6326\r\ne67445aa7a9434bd09218d1ee537ba7dc869de28b9d90c56bfdf6deff856c572b74ef7fac6ff00\r\ne0ddff008e8acaa7b88e8c3c9d495c76cd91a25569f63d5c9dd2a8bd7323d223a29d45500da969\r\n53bd3e8023a296a3926fee5672958718924694f8e68124ab36ba15e5ca79d36f8ffb89fc6f54e7\r\n8bc9d96689fbff00bf37ff001359fb4b97ca4b0a7fcb6fe37a73d4f226cfddd36a90320a1dd61a\r\n6cf73b1f643fbc77adad1fc2ef37fa4ea7f73fe78d4ca4118993a769d79aac9f2279707f7ebb3d\r\n3b4bb7b08f622568428891a6c5f9129d58ca57378c46c68894ea28a91853e99552eb54b3b3ff00\r\n5f2d005ea2b9dff84c74eff9e33d489e2bd21ff8e7ff00be28e524dea54ef5931ebf6137dcdf56\r\ne3d46ddd3e4df472816f67bd3eab7db13f8d1d2a64747fb8d4143e8a28a006514514123e99b3de\r\n9f45050554bdd3ad6f3fe3ead927ab74ca09b1cadef846dffe5cae5e0ff61eb9ebdd3af2c24ff4\r\n9b7f93fbf5e955149b1fe47fb95a467613a6798fdf4a367bd759ac78751e469ad62ffbe2b9a9a1\r\nb8b6dfbd3cc4ada350c254ca9b3dea2ab7f23c7f253644ad6e6656a2a5d9ef515300a28a2800a2\r\n8a2800a7d329f400527dca5a63f6a009e1b97864474ae99eda2d5747fb641febe1fbe95c955dd1\r\nf54974dbadff00c0ff0023a563389a4644b5d3787751df1fd9a6ae6f509911f7c3f71fe74aa105\r\ne4b0c9f23d632a7ce8a8cb959de6a9aa259cfe4d32778b5ed22e214fbfb6b8abdd465bc9f7bfdf\r\nad4f09df3db6a8a9fc13573cb0fca8d2352e66e83a8be95a82cdfc1fea6e2bd32b857d2ffe2a1d\r\n4b4f74f92f2091e1addf06df7db348f226ff005f6adb1eb333ad1ea6fd14514d68ce37a9977c9b\r\n27a82af6a29fc7546be830b539a08f2eb46cc28a28ae939c28a28a0028a28a0028a28a0028a28a\r\n0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a00289111fefa2494514141451451b0\r\n5efa15b51992daca57ff00802573da5a6cb579ff00bff2255bf145cfef2283fe0751c1f269f157\r\n9f5e5767b184a7cb1b904d55ea67ed503d66740b5222508952d0544654523eca6cf72957b4bd2e\r\neb527ff9e307f1cd59ca4691894ed6dae2fe6f2614f3dfff001c4aeb74bd16decf63bec9e7feff\r\n00ff0013576cacedec20f22d53fdf7a74ee90c7bf7d63291bc6361b7b72f6d657173fdc5ae3ac7\r\ne47b58ddde47b966b97adff165cecd2d20fe3ba936567787a1777ba79fefa2ac34447222912a93\r\nbcf793fd8ec91e4abf379baadf7f67e99f713efcd5d5691a5dbe93079702f3fc52d12919f21434\r\n1d022d37f7d37ef2eab6e9df728acd9a0514536801d45377d1be801b3429343b1ddd3fdc7acd8f\r\nc3ba4ff1db3c9fefbb356a509b9e8033ff00b0b4bff9f14a3fb0349ff9f14ad44b667a9bec8bfd\r\nfa7a93cc8c54d0b484ff00971869b2681a33ff00cb9a57431db449d29de4aff72993ce731ff08b\r\ne9bfc097307fb93541ff0008bba7fa9be7ff00b6f06eaec767bd155ca4f31c5c9a1ead00cc1f66\r\n907b3b41511b8f115a82248aebf0459d6bb9a28b05ce263f12de47ccd630c9fdfd876bd5e87c51\r\na6cdf7de683fdf4ae964822987efa247aa8fa4583c7b1ed23a3943988d2649ff00d4ca8ffee3d4\r\n9ff00aa4fe17b04ff8f6df03d59862bfb6382b1cd09fee54f287b41cff0025377aff007ea486fa\r\ncee64f277f973ff71fe57ab3f664a0a8d4450deb479c956fec89fdf7a6fd853fbf415ed1106f5f\r\nefd52d474bb7bf8ffe79bff7eb47ec2dfdfa3ec2f4445292679ddf584b6d75f65bdd904fff002c\r\n66fefd53fef79e8f1ba37cf5e8babe8c9a9e9ef6afff00007af3aba49eda7d93a7cf0fc9f956d1\r\n9194911c8951bf6ab6fb1e3aad5d113120a2a5a8a800a28a2a8028a28a007d3aa2a96a4a884895\r\n154b4ea901bf3bc1fee545b5eaca53ea7940a6fda9d03f93323a7f035599137d57ace5a82d0efd\r\n638f568eceed5824b6f26e473deb16c5d74df1c5c409f24375567c1b73bd25868f195b227d8afd\r\n1be7864af39e92b1d325cd03a8a29b1ba4c9bd1fe47a75338251b0d7f9eb2eea1f25ff00d8ad6a\r\n82e937c15d984ace1251b9cd5a9dd3665d14515ef2d4f2d85145140828a28a0028a28a0028a28a\r\n0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a29b23ec8ddffb8b4a\r\n7b1708de48e57587fb4eb12a27fb2957e74d89b2a868ff00bed511dffda7abf755e5bd64cf7a11\r\ne582283f6a1137d3b654bf7299632ab4f33ccfe4c353dadb4baacfb137a415d5697a44567bf7a2\r\n563291b469993a3f8753e49ef2ba67f2ada0fe04812a0d46f22b0b279bfb9f712b97b5b3d4bc4f\r\n3efba95d2d52b1dcdb63664f1159bc9e45b433dd4ffdc4abb025fcdb27ba7483fd84f9aacd8d8d\r\nad847b2d62f2eacd481cbcebff001319ee7fe58694adff000394d67e90b2dc58dbe9b66713cdba\r\n6bb9bfb8b5ade224fb1f86ae3fdb9f7bfe2d5a1a0e9c9a6d9243ff002ddd77ccf5404fa758dbe9\r\nb6be4daa55da6d15203a8a234df5225bb3500da21a36355d4b654a9d635515467ed0cf4b667a9f\r\nec7fdf7ab60d14c97264296f1a7414fc53e9bbfda993cc3a8ae6a6f143dc5c8b2d0ed0ea130fbf\r\n2fdd892a7fecbd66e3fe3f35a78ffd8b54db551893737aab3dfd9a7dfbb847fc0eb38f8634e3fe\r\nb56e26ff007e6634bff08be83ff40bb5aae403452f2d666d89710bff00c0eac5624de14d11d3fe\r\n41d1a7fb94cb6d2351b07d967aa192d47fcb1ba8f77fe3d47281bd45625f6a3a95812f358fdaad\r\n8ff1dafde4ab5a66b561aae7ec9708ee9f791fe574a8e50e63468a28a450514514015350d3ad75\r\n28fcbb98524ac8f2358d2bfe3d9ffb42d7fe793ffad4ae8a8a09b18f6bafdadccde46c786ebfe7\r\n8cff002bd6c554d434eb5bf8f65d429356616bdd17fd63497b61fdff00f96b0d006f515146e92c\r\n6ae8dbd1feeb8a968282b92f18e9c853ed9b7e4fb92d75b515d42b730cb0bf28eb408f27d8f6df\r\n23fce8ff0072a29ab4af6cde19ee2c1fefc3f3a3ff00b359bf7eba2322244751d49513d6848da2\r\n8a2800a28a2a802a54ef51515204f45368a0a1df72a44a8e9c9598166aa4c9b24ab74d9ffbf59c\r\n8a2ef85dfc9d47fe035d36a8b15fd93473c4fe4a48bbeb92d2ff00d7d76364ff006986547fe35a\r\ne1ab1f78e8a6f432744b9fb05d4b66ff00c0db1fff006565aea2b837def64f75f3bdd5837d9ae3\r\nfdb5aebf47bcfb66976f37f7d683971112ed377a3c74d93e447aa3632ec7d9fc0f5d34695d731c\r\n352a7d965674d8ef455bd413f76936caa95ec61ea5e28f3ea46cc28a28adcc428a28a0028a28a0\r\n028a28a0028a4a280168a4a280168a4a280168a4a280168a4a280168a4a280168a4a28016aa6a8\r\nfe4e9f71feed5baa5abdb7da74f9537d6753666f43e3463f8793f7970ffececabb748e926c74f2\r\ndea0d13e4d3f7ff1bb54b7534b733ef9be77af2ee7bcb6441b29b6a897fa8c565fc155b50b9d9f\r\nb847ff007eacf8526487544ff6d6a652358c4ece0b68ada3fdca54b4eacdd6af92ce1747fe05de\r\nf589d17336ecff006eeae9609ff1e56cbbe5ae9a3d888889f222563785ed9e1b27b99ffd7dd36f\r\n7ad9a090a6d3a891d12a4a31bc576d2de691e5c3ff003d16b5e67486a2492795f642b8ab76ba72\r\n27faefde3d5112958853cd9bee7eeeaec369b2aca00b451ca652a8088a94ea6d3aa890a28a2800\r\na28a8a79a2b68da69dd12145f9dde8131b7773159c0f3dccbb2045f9deb9c8edee3c521e6bcf3a\r\n0d2ffe595ba7cad2d5882d25f10ce979a8204d3d3e6b7b6fefff00b4d5d125691890436b690594\r\n2b0db44b0a7a0ab14515a14828a28a0028a28a002b2b53d16cf51759a64293a7292c3f2cb5ab45\r\n160b183f6cbad2c6352fdf5aff000ddfff0014b5af1ba4c88e8dbd1ea575571b2b0c5a3691be6b\r\n04692d47ccf6de9fed4759ca206e51505adcc5790a4d0bef4a9eb32828a6d1400ea29b4500321b\r\n78a08f642888952d368a007514da280399f1ad8bbc29a943f7ed6b87be4d9224c9f71ebd764457\r\n4647fb95e617b62f677b75a53ffbf0d6919019bfedd3688ff8d28ada323323a29cfda9b5448532\r\n9f4500328a28aa01f4ea6d15203aa44a8e9d52516d3bd0fdaa24ef562b1944a449a77fac7adaf3\r\naebec2ef6aff00bf4ac9b5f937d5df3b658dc3ff00b2d5cf5226d121f0c5f44935c25cc5fb8bc6\r\n54abfa0bff00656af75a34ff0071db7db565dae852dce8297b6bff001f5fdcfefa8a27befb668f\r\n16a1feaf51d31977ff00bb52a244a57b9d8df3ec85eb36a59ae52f364c9f71d77a7e350d7b385a\r\n3681f3f8895e6cd181fed30ec7acf7f929f04cf0befa92f7fd73ff00b7f3a55538f248994ae882\r\n8a292ba4c05a2928a005a2928a005a2928a005a28a2800a28a2800a28a2800a28a2800a28a2800\r\na28a2800a28a2800aa5ac3ecd2ee3fddabb59baf7fc8227a8a9f09be1fe3450d3b7a69d1517d37\r\nd9a1f93efbfc89566d53f7117fbb589af4d2bc6f3a27ee11bc947af2fa9f41b451973dcefad2d2\r\n1de1bab77ff696b0eb4f4efbf17fd755a5208c8f57ff006eb8785e5f106afe4ffab83cf699ff00\r\ndd15d9dd3ac36570eff71216ac0f06db7fa2dc6a0ff7ee5ab9cdce928a1eb2f4fdfadc92cf32ef\r\nb2fb9143fdff00f69aaa311dec2cdaa17709616cf74ffdff00bb154b67a4ea328f32f2ff00fe01\r\n0a56dc16c88956eb4503294cce7d3df66c4bdb98ff0015aa32586bf1b7fa3ead0cc9fdcb9b6adf\r\na2ab94cf739a6d7aef4e61fdb1a73c29ff003f16df3455bd05cc57302cd6d2a4d1bfdc74f9aa59\r\n137a5608d0bec13c9369570d6dbbef5bff00cb2a9944937a8acdb1d492699ada65f26e53f82b4a\r\nb32905145141436b9a2afaf6badbc1feccb1ff00be666ab1e2cbe961822b3b5ff8fabc6d895ada\r\n759a58595bdb27dc856b48c4965ba28a2b400a28a2800a28a2800a28a2800a28a2800a28a28039\r\ned40ff0062df7f6942316b336dbb4ffd064adda49e24991d1d77a3aedfceb13439db4eba6d12e5\r\nff00dbb47fefad6728926f51451599a0514514005145140051451400572de37d39a6b44d420ff8\r\nf9b6aea6a2991264d8f4440f24bed8f225ca7dc996a1ad4d534e7b0bdb8d3ff81ff7d0d65a56d1\r\n913223a2a4a2b63323a29cfda9b400514532801f45329f400e4ef5225474e4a92896a44a82a44e\r\nf52c0bd03d3b549b6696ff00edd4107dfa357f9e6b586b9e46ab63b8d2e1f274bb38ff00b91ad6\r\n5f88ac521d9ab5ac29bd1592e21ff9ed11addf91234a7573f37bc7339599c6786a64f26e2cd1f7\r\na42df23ffb26b62b17ecdfd8fe24f27fe584df72b6abdec2cbdc47958b5ef051ff002cd128a2ba\r\n0e60a28a282428a28a0028a28a0028a28a004a2968a004a2968a004a2968a004a2968a004a2968\r\na004a2968a004a2968a60159de22ff00905ffbf22a568d52d513cefb141fdfb95acab6cce8c3e9\r\n34549b7c30450a7faf9be44a8b54b0f27c3b2c3fdc92b42d765cdedc6a1fc08de4dbff00ba2acd\r\nd43e758dc43fdf8eb9614746cefab88f7944f368d2a6837a3d35fefd4e9f2573c8ed8743d2e775\r\nbcd0657fefda353b4444b7d16c63f4855ab27c2773f69d16e2c9dfe787727fc04d6fe9f62c20b7\r\n47fb90c6a9f95739d3cd631f5e69ef9ed749b5e3ed5f7ffeb90aebad6dd2da048614f9117e5ac7\r\nd113ed3aa6a57eff00c127d9e2ff007456ed6d18994a571d451455121451450014dd8b4ea28031\r\n35dd09352db342ed0dea7dc968d3b566f92d750fdc5eff00e875b3595af692baadaecfb9729f34\r\n4ffdca99440d5a2b23c3da8bdfdabc7729e5dd5b36c992b5eb10394b2ddaa78c679cff00a8b05d\r\n895d6d72de04f9ed6fee7f8e6bb6aea6ba23b00514514005145140051451400514514005145140\r\n051451400560f8a2c659ac92e6d8ff00a559b79c95bd450054d3ef12fecadee61fb932d59ae634\r\nc2346d7a5d35dc7d9aff00f7b6f5d3d63204145145494145145001451450014514500733e38b1f\r\nb4e97f6a85733db5707f7d3ce4fef7f3af5f911664647fb8eb5e4ef68d67a9dd583ffb49551110\r\n3d369d07fabf2dff008296ba2241151b29d4daa246bf6a6d494da006d145140054951254b5203a\r\n9c951d4b53228bb6b4ed393fb4bc496ffdc46a8237d90cbfeed59f06c3ff0013e4ff006236ae69\r\nf52e5b1de514da24feff00f72b9e11e69a38e72d1985ac5b25feff00efa49bd1ea4a3efd15f454\r\n63cb14793525ccc4a2968ad4c84a2968a004a2968a004a2968a004a2968a0028a28a0028a28a00\r\n28a28a0028a28a0028a28a0028a28a0028a28a006ec4f337d56d477bc11243f7fcc54fceadd251\r\n28dcd232b0890a4289027dc45d94ea4a2972e960727cd7389d6edbec7a8ca9552ba3f1445be3b7\r\nbaff00803d7355e7548f2b67b5425cd0474be07defaf2c3fc0f136faf499bf751b49fdc5635e5b\r\ne18b9fb3ebb60ffed6cfcebd2f543b34ebc7fee46d5cbd4e8b947c1cfe668304dfdf667adcac5f\r\n06a6cf0dd80ffa675b55b44028a28a0028a28a0028a28a0029af4ea28039dd51ff00b2b58b7bff\r\n00f976badb6f71fec37f0b56ddd6e4b597fdd6a8f54b48b52d3e7b39bee4d1d63e85a835cf872e\r\n0dd63ed56ab25bcbf8566e248ef01ffc8b56ff00ef35743581e0aff917adeb7eb4450514514005\r\n14514005145140051451400514514005145140051451401cdf8d6ddbfb305f41febece459ab760\r\n9966862993ee3aabfe749776c9756d2db483e4963646fc6b07c15334ba47d9a6fbf67235bd6720\r\n3a4a28a2b32828a28a0028a28a0028a28a002bcffc776ff66d5edf50fefad7a056078d6c7ed9a2\r\nbbff001db7cf55124e0674d975fec3d0f4e93f7da7453ff1a515b442456a2a7a89fe4ad0cc8e9a\r\nfda9d4500369b5251b280224a969bb3de9d40054b4c4a913bd672289e4f92d5eb53c0df3dd5ebf\r\nfd33ac9bef92d513fbed5d37836cfc9d2e5bafe3b993ff001d15cb50a96c6fd56d45f641b2acd6\r\n7ea3febaab094f9a68f3f112b22ad2d1457bcb43cb0a28a282428a28a0028a28a0028a28a0028a\r\n28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a008\r\n6fad92f2d6582b8374785f63d7a1572be28b644bede89f7d6b97111ea7a184a9d0cb81f66c74fe\r\n0657fcbe6af57d42e52e74195e37ff008f981b67fdf35e490becaee741d47fe29864fe3b09177f\r\nfbb5e7b3d489bfe0d7dfe1bb03fec56dd733e036ff00892bc3ff003c666ae9aae250514514c028\r\na28a0028a28a0028a28a006d707752ff0063f8a35480bec82fe167ff00811aef85725e3fb44934\r\nc5b9f2bf7f0c9947a1a035fc2f1243e1eb309ff3cab5ab1fc26fbfc3d65ff5cab62800a28a2800\r\na28a6d003a8a37fb51400514514005145140051451400514514005727a5ffa378d757b33f72e55\r\n66aeb2b93f113fd83c57a35e7f03ee85ea6407554514562505145140051451400514514005453c\r\n7e740f0ff7d7654b45049e496b0b2497564ffc1bbf4a741ff1eb155dbd5fb3f8aef13fbecd50c2\r\n9feb53fb92356d125903d47f7eadf935048f127df7aa26c547de9454923a3d47b3deab98028a76\r\nda5a008a8a753e8286254e951d69e9d0a6c79dff00816b394ac544a1a8a3cd7d6f669feca27e35\r\ne8f04296c91409f721554fcab83f0a279de2289ffb8ad357795cb50cea487563ccfbe677ad1ba7\r\nd903d65d7a181a7f68f2f152e81451457a47085145140051451400514514005145140051451400\r\n514514005145140051451400514514005145140051451400514514005145140051451400563f89\r\n6d9e6d3bcc4fbf0b56c51f23c6f1ff0003fc95138f3266d465cb3479c27facadbd2ef3c94bc83f\r\n82e6d992b3f50b67b3ba74fee36ca20fb95e64a3ca7bb4e5cc8eff00e1cffc82ee3febbd75d5c9\r\nfc3dff00905ceffdf96baca225851451400514514005145140051451400566ebd6df6cd22ea0fe\r\nfc6d5a54d7daff00250060780df7f86ad6ba1ae5bc143eceb7fa73f5b5b8c0aea6800a28a6d003\r\n2695638dddfe4445ae1afbc6d3bdce2c121483fbef5a5f10ee5a1d2e2813fe5b495e7f52d823b7\r\nd3fc60fbf66a5126cfefa57611ba4d1ac88c1d3f85c578e3cceffee5765e01d5c7fc82a6edf3c5\r\n4260ceda8a6d3aa8028a28a0028a28a0028a28a002b99f1da2ff00664137f1a4cb5d35733e3cff\r\n00902aff00d765a240745f7e3a7566a6b5a5a46bbf50b6fbabff002d2a09bc45a4a7fabbcf3bfd\r\n8811a5ff00d06b9c2e6cd15cbdd78ced6dbfe61d7fff00038f6d54ff0084c352b9ff008f3d0a79\r\n2803b3a2b8efedff0012bffabd02a292ff00c68ff734e8d2a80eda8ae1dd7c6937f7a3ff00be29\r\na34df14b7dfbbbff00fbed7ff8ba91dceea8db5c741a1ea5fc735cff00c0dfff00b3ad6874597f\r\n8ee24ffbedbff8ba0672be2e5fb3f8ad27fefac74df2767da9ff00d5a248d5378e2c5967d3a08f\r\ne79e5592ae69f6c9af4d6bff003e491acd71ff004da5ad39893374fd2eff005bf9e0fdc5aff7ff\r\n00bf5ad0f83367f1d75e88889b1169d53cc071d3785e5fee23d615f6972db7df47d9fdff00ee57\r\na754535ba4d1ec75a3980f29f9d1fc99ff0076ff00c0ff00dfa6ba576bac78692646f22b90f265\r\n86696ceebf773a5691912e256a2a7d946caa02344ab37573e4e9ef07fcf66a62554be7df3fc9fe\r\ne2256750a89d1781adbf797575ff006c52bacaa5a3d8ff0066e9d6f6dff037ff007aaccf37928f\r\n5828f3cac7354972dca3a8cdbe4d9fc0955a8a2bdca31e58a478f525ccd8514515a99051451400\r\n514514005145140051451400514514009452d14009452d14009452d14009452d14009452d14009\r\n452d14009452d14009452d14009452d140094b45140181e28b64fdd5cffc01eb0ad7fd66c4aeda\r\nf6dbed9632c0ff00c6b5c641be1ba4ff00c7ebcfc442ccf630752eac757f0ea6892eaf21fe3995\r\n5d6bbfaf34f0a4cb6daf5aff00b6cd0d7a5d6313b828a28a0028a28a0028a28a00cad7b544d2b4\r\nb96e7fe00895e771ebfab349bdf519aba7f891ff001eb63ff5d5ab87f9fcc4fefd4b76089ddf86\r\nfc4ff69996ceff00fd7ff04b5d6d78bc8eff00f03fbe8f5eabe1ed446a7a441727effdc7ff0078\r\n511900d82dbc9f104b75ff003f302eefc2b5eb1357b9fb36afa463ee4d23435b75401451450070\r\n7f127fd7e9ff00f02ac5f0bd8c5a96b514337dc45677ae9fe215bb49a7dacdff003c66ae4fc377\r\ndfd9dad4131eff0023d481b1e35d0e2b0d97f66a890bfc8e95cd5adcbd9dd45730fdf85b7a57a8\r\n78a122fec1ba47feed796ec953efa3d4951573d8a0992e208a64fb92aabfe7562b9df03ccd3787\r\n2dc77859a2fcaba2ad11214514500145145001451450015cbf8fff00e41100fefdcad7515cbf89\r\nd12ff58d274aff00a69f687fc28901bf0db4488bb21851f6ff0072a7a28ae701bb3de9d4514141\r\n4da751400da29d4500369d451401c878e37ff6a686e89f3f9f5d3da59c1631ecb75089b99ff3ac\r\ned52dda7d6b489917fd4c926ff00fbe6b6682428a28a0a0a28a2801b5cd78d74bfb4e9ff006c81\r\n3fd26dba574f4dfbfba803cc7e49a18a74fe35a6d5b82d12d350d4b4d1d216de94d786b68c892b\r\n49fb94ff00816c4a93c37a77db358deff72d5b7bd433dcf9324bfdf4fdcc3fef1aeb341d3bfb37\r\n4fd8ff00ebdfe77ac6a48996869566dd4de749fec255bbd7d907fbed5995d984a3f68f271557a0\r\n514b457a47089452d14009452d14009452d14009452d14009452d14009452d1400514514005145\r\n140051451400514514005145140051451400514514005145140051451400514514005735e22b6f\r\n26e92e7f826ae96a3ba852e6d65866acea53e6474e1ea723472be73db409749f7d245747fa57ac\r\n5b4a9736b14e9f71d15ebcda1b67482eb46d9e7ceecbb1ff00d9aea3c077de768ef6cedf3db36c\r\naf35ab3b1ed465cc933a8a28a282c28a28a0028a28a00e43e2327fc4aed5ff00b93560782511fc\r\n436ffec46d5d9f8bacfed9a0dc27f1a2ef5af3ff000bde259eb76737f07f8d4c83a1ade38d2e2b\r\n0ba8af614d8973f7ff00dead0f87371fb9bcb6fee32bd69f8d6ddef34278e14defb95eb9cf026e\r\n875d96191191de13521caed7367c7fba1d3ace78fefc372ae95d0e9f70979656f749f726457ac8\r\nf1adbf9fa4451ff7ee63aa9e0dbbfb37da34497fd7db336cabb81d6d14514c0a7a8d8a5fd95c5a\r\n49f7265af278ed1e19a586e7e49e1f91ff000af62ae3fc55e1fb8b8b91a9582e64e934559d42a9\r\nb5cdef14ad6fb51b88235bcba8fc9ab5750c57304a8ffddac98751b5f2f63fee1d3efa3d4d0dbd\r\ne6ba3ecd6cb3476bfc772ff2d73479db3d097b38c343a3f0226cf0dc0ffdf667ae8aaada5b4567\r\n6b15b423e4855512ad576c4f3428a28a0028a28a0028a28a002b96474b8f1f4bb7fe5ced3f9d6d\r\nea378961a7cf7937dc85735ce780ede4737fa94e7f79349b6a64c0ebe8a28ac4a0a28a2800a28a\r\n2800a28a2800a28a2800a28a2800a6d3ab1bc4faba68fa7ef4ff005eff0024494016b50d52d6c0\r\n20b9946f7fb917de67ab4b32b8e2b97d234efb07fa4dcfcfa8cdfeba67ad78e67a9b971a66a8a5\r\na8207df53d5112d0e1fc51fe81ac5bdfff0003ee85ea958a5c4c8f3cc9e5ef6de895bbe35851e3\r\nb574fbe926fae7bc45a8ec91ecacbf78eff7dd2a968493785ec7ed9a8dc6a73fdc8646f27fdb6a\r\neb6a0b2b64b3b2b7b6fee46a94dbe7748ea22bda4d2392b54b2654ba9b7cd5151457b94e3ca923\r\nc69cb9a41451455921451450014514500145145001451450014514500145145002514514005145\r\n14005145140051451400514514005145140051451400514514005145140052d251400b45251414\r\n8c8d6ee65b6ba89e17d8ef1b43bfeb5752d97c31e21b3d8db2cae62d92bbd54d7b67976bff005d\r\nd6babd56ca2d5f4c6b47ff007a27fee30af2abe933dcc2eb046d53ab9df0a6aff6fb5fb34cfbee\r\na18d77d745491d0145145001451450031d37fc8fca3d7976afa77f65ea97166e9fb87f9e1af54a\r\ncad6f488b54b6d9f7264ff00552ff72a648a84acf5398d3de5853c89ae6792ad68d179be2e69fb\r\n5b5a62aa3daeaa932c3fd932c8ff00dfcfeeaba2f0ee90fa724f35cba3dd4cdf3ba561084afa9d\r\n356a41c2d119e321bf4394ff007248deb1bc588da74d6baac3f7e165df5b9e2c1bf4b487fbf3c6\r\n95a53db45730b43345bd2b5671c58b6b7315e5b4773036f495729562b98d1d5b42bd3a64cec6ca\r\n57dd64f9e9fecd74f57163414da7514f702a4da759ccfbdeda177ab2836d3a8a394350a28a2800\r\na28a2800a28a2800a6d3ab96f10ea3717b76da26947fd25ffe3e26ff009e2b40106a7712ebba89\r\nb0b0f2de1b3f9e597fe9a5747a758a69d65059c7f7215a8b44d2edf4ab25b687fe06ff00df6ad0\r\nac64c10514515250514514005145140051451400514514005145140114f325b40d3ccdb111773d\r\n7236962fac4edacea49f23fc96f0ff00716bb19115d363d56bd44a023b9cce95732dbdd4ba55d3\r\nef78537c32ff007d6b513bd6278893c9bdd2ef13eff9fb3fe026b6ff00bd52755cd0b6ab82aad9\r\n27c956ea8e693394f1adcadb1b37fefac89587e0db17b9bafed09d3e487ee56b78f13ed336976d\r\nfdf92b5ad6ce2b3812da04f2d12a672d0ca52b13d66ea2fbe7ff00716af4efb137d6457560a8dd\r\nf31e5e2aa740a4a5a2bd63cf128a5a280128a5a280128a5a280128a5a280128a5a280128a5a280\r\n128a5a2800a28a288cae6d568ce93d505145141885145140051451400514514005145140051451\r\n4005145140051451400514514005145140197e21877e9fe67fcf1657aeab4c9927b7826fefaabd\r\n606a88efa75c7c9fc3573c2173e7697127fcf193657978bf88f77012f70e6e17bad2b54babc4ff\r\n00516776c937fbaf5e9a8e93223a7dc75df58b63636f7367743f82e66937d41e1ebcfecdba7d0e\r\nf1fee7fc7bbff7d6b1848e9674d45369d5a0051451400514514005145413ccb0c32c937dc45df4\r\n019777baef5ab587a259fef9eb66b17c370cbe4cf7f37faebc937e3fb8b5b558c81104f6d15cc3\r\nb264492b16eefaf743b95fb67eff004c7ff978fe286ba1a6ba24c8c8ebbd1e852062432a4d1abc\r\n2eae9eb52d71b368ba8e85235ce8771e641fc568f57b4ff15413bf91a82369f75fdc7ad1480e92\r\n8a62e1fe74a7d50051451400514514000a2b3f51d52cf4d1fe933203fdcfe26ac6297fe20fbe24\r\nd3f4cfee7fcb59a93905c8b51d62f357ba6d3741edf24f77fddadcd274bb7d2ad7c887fe06ff00\r\nc4f566c6ce0b3b64b6b68961813f82a7aca5200a28a2a4a0a28a2800a28a2800a28a2800a28a28\r\n00a28a2800a28a2800aa77b572a29937ae28089c8cc9fda9e228913fe3db4cf9dffeba9ae8634a\r\n747629087f215137b6eab30c3b0549af3683e3f912a4a6d666bdaa268fa7bdce3e7fb8895462d9\r\n8373ff00135f196cff00961a7ad6ed66f876cdecf4ff00df7fc7d5d379d3559beb944f911fe7a5\r\n1a4e6ce3ad5394ad7b379d27fb95051457b5469f24523c8a92e761451456a66145145001451450\r\n01451450014514500145145001451450014514500252d14571c65ca7d4d4a6aa2d50514515d11a\r\n973c6c460dc2ee214514568705adb85145140828a28a0028a28a0028a28a0028a28a0028a28a00\r\n28a28a0028a28a004ae7ed7519744fed2861ae86b9ef12fc93c5b2dfcbff006ffbf5c38d8dd5cf\r\n4b0152cf94f40d06dfecda459c1e90ad41af68716b091fcef0dd43feaa6ad487e48e34ff006569\r\nf5e7c4f50e5b48d7e7b7b9fecdd713c9bafb8937f03d757baa95ed8dbea503c1749bd2b9429adf\r\n859dde1ff898699fdcee95a464077145739a778c34bbbc79cff659ff00b8f5bd0cc9326f85d5d2\r\nb4025a6d3aa09ee62b685a69d95113bd0067eafaafd89e1b6b78bcebdb9ff5517a7fb4d552e746\r\nd47508ff00d275a93fdc8635db55bc37729797b79a9bfdf9a4f261ff0062315d4d67290588add2\r\n548544d2f9cffdfd9b6a5a28acc1051451414159faa69165aac7e5de43e656851401cb47a2eada\r\n2aff00c4aae7ed501ff976ba356a1f122a111ea5617960fee8d2a7fdf4b5bf4569cd626c50b7d5\r\nec668b79b9d89eae8d17fe854c9b5dd2e1ff00597d0d695353e4a9e70b19f0eab2cc8ef1e9d79c\r\n7ddde9b77d413dbea9799dd71f6287fb90fcd2d6cd155cc16336c745b0b0ff00536ff3ff007dfe\r\n66ad2a28acc028a28a0a0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a\r\n6d3a8a006d14ea2815c2b8eb9ff8a87c42ff00f40bd33ff1f96adeb5abcb73e6d8692dfec5c5e7\r\nf043552044b6b18ace0ff5095b53a2e67256c4281a1757dbe47482a8d1457a74e8a823c8a955cd\r\n8514515a9905145140051451400514514005145140051451400514514005145140051451400514\r\n525709f602d1451544b8a61451456d4ea1e5e2b057d621451456c791384a2f541452514102d149\r\n45002d14945002d14945002d14945002d14945002d14945001595aa224dac6970bff001c8b5ad5\r\n8badccf0ea1673ff00cf1dafff008f572e2fe13bb03f19e93453637df4eaf2e27b414514550193\r\n7be1dd2ef3e79ed12b3a3f07a5bbefb0d46f2d6ba7a28e66498b1e97a94322bff6ccd37fb0e953\r\nff0066f9d3acd7f2898af29163e44ad3a6d1ccc0e6e3b396c1e5ff00ae8d323fd6ba1b57f32047\r\na7c888f426c415254a571d45145001451450014514500145145001451450014514500145145001\r\n4514500145145001451450014514500145145001451450014514500145433a4af0b2412f92ff00\r\nc2fb37572fab6b9ade908a2e6ded24dff72686826e75d4579d7fc26da97f72daa95d78a356bcff\r\n00978d89fdc8680d8f42d5356b2d3537dd4bff0000ae727d52ff005efefe9da7ff00e3f3567e9d\r\na16cd975ab3f993bfdcb6ffe2ab51dddebaa8d1bee70d7c472ec3634892048215f2e04fe0a7514\r\n57a718a89e5ca6e4c28a4a29998b45251400b45251400b45251400b45251400b45251400b45251\r\n400b45251400b45251400b45251400b4514573ca99ef61f1aa5a4828a28ac4f422d4b60a28a2a8\r\na0a28a2b48d4b1c788c2aa8828a28ada32e63c4ad41d27b0514515473051451400514514005145\r\n14005145140051451400958de244fdddbbff00bc95b55435a87ceb177fe385b7d73e2a3781d984\r\n95a68eb3c352f9da0d849ff4c56b4ab9ef03beff000f449fdc9192ba1af2627b41451450505145\r\n140051451400514514005145140051451400514514005145140051451400514514005145140051\r\n451400514514005145140051451400514514005145140051451400daf3cf1dcdbf5a487f8218ab\r\nb3d7b548b47d39ee9faff027f7dab85d3f459f55b5babfbafbf337c945c9e6b1971bcb790dbdaa\r\n43bdf737dc4f9ebabd17404d37fd32f3fd7ff027f72ade97a741a25aff00cf49dff8e89e6799f7\r\nbd6f469b9d8e2c4626d71b23ef777fefb6fa651457ad18f2d8f2673e60a28a2990145145001451\r\n450014514500145145001451450014514500145145001451450014514500145145001451451b96\r\n145145672a677e1716e1eec828a28ae59be5dd9ed53a8aa6c1451b1e9fb1ab2f6f4fb9af2cbb0c\r\na29fb1a8d8d4a38a847a99d4c373ad50ca29f22532bae9e2a12ea78b8ac0ca1ac5051452574a69\r\nec79ed35b8b45145040514514005145140051451400537623c6e8ffc6bb29d45294799345425cb\r\n24c8fc0971f669ef34d7fbfbb7a57667a579e6a3bec2fadf5687f81be7aefa1992685274fb8ebb\r\nebc5a91e49347bf467cf14c968a6d3aa0dc28a28a0028a28a0028a28a0028a28a0028a28a0028a\r\n28a0028a28a0028a29b400ea2b0ef75fb786fa2b083e7b999ba56e500145145001451450014514\r\n500145145001451450014514500145145001515d5c456d6b2cf3379688bbdde891d1119ddfcb44\r\nfbef5c06a77b75e29d412cecf7258237268258c8127f166aef7373ff001e30d75f23a431fdcf91\r\n17e44a8ad6da2b3b54820f9112aa5d5cf9cffec55d1a6ea3387115adb11ccef33ef7a651457b10\r\n828a3ca9cf9828a28ab2028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a002\r\n8a28a0028a28a0028a28a0028a28a0028a28a4da8ee5a57d84a9111ddea686cddff78f56d3627d\r\ncaf3711984617e53b68e11cacd95d2cd3f8de9cf6dff003c6acd15e2d6c54ea9ec61e2a919f413\r\n56e6851ffdfaad20657e6b8db9773d3a75131b453a8a9bbee6a347d28a751551ab28f522508cb4\r\n686ec57a6bdb3a53aa48e674f92bd0c3e633a76e63cdc465d09fc254a2adbdb4537dcaaf223a57\r\nbd87c6c2a9f3f5b0b3a57d06514515da72051451520145145001451450047326f8193f82acf82b\r\n514f2e5d31dbe785be4a8ab2754b67b69e2d4ed5f66c6f9eb87134efa9e9612b25ee9e874eaad6\r\n3729756b14c92a3ef5fbe9566bcfd8f513b851451414145145001451450014514500145368a007\r\n514df9698f32226f775d94012d15952eb76ec316eb35e38ff9f64dd8aa260f115f9613ddc3a7c3\r\nfdc806e96a89b9ada86a967a5c6d25edc2475ca5d6b9aa6bcff66d26dde083f8e6adab2f0a69d6\r\n8fe7bc4f7573fdfba7dd5b89b112a41189e1ef0ec1a4a6f7fdfdd3fdf96b768a282828a28a0028\r\na28a0028a28a0028a28a0028a28a0028a28a0029aee889bde891f626fae035dd52ebc477a9a6e9\r\nbff1edde824b3ab6a32f89eebfb334cff8f24ff8f8b9ad9b1b3b5d2ad764294db5b6b7d2b4f8ad\r\n60fb89ff008fd569e6699eb5a345cd9c35ebf2dd5c74d72f348ffdca828a2bd6a7494363cc94f9\r\n828a28ab320a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28\r\na2800a28a2800a28a2800a28a2800abd0db227dffbf45ac3e4ff00bf566bc1c66379bdd833dac3\r\n60f97590514515e436dee7a095b60a28a291414c7daf4fa2a4719729464474a6d685569e1fee54\r\nca275d3ab722a29b4ea9374ee145145031a9f2559de9347b1d2a0a68ad69d59536ac7356a0aaa7\r\na11cf0ba3d32adfc8e9b1eab3a6c7afa6c1631545cacf9ac6e09d2774368a28af44f344a2968a0\r\n04a2968a004a2968a4e3cc5465cacc5b2bbb8f0dea0f027cf6aedfea7fbf5e8705ca5c409342c1\r\ne375dc1eb8bd52c7edf6bb3ee4e9f3c4f50786fc432d8deb586a40244dd2bccaf4accf670d594d\r\n1e8345353bd3ab94ed0a28a2800a28a2802a4f7d6b6dfebae112b3e7f12e9a9f225ca3bd4b3687\r\n6b732379e9bd29d0e81a5c29f25a2500534f10c53fc90a48effdc44dd4be76b372709631c09fdf\r\n9e4ffe26b6a1b68ad93643122254b405cc25d335697fd7ea889ff5c61ab11e8163bf7cde65d3ff\r\n00d3d3f9b5ab45048d08a89b29d451414145145001451450014514500145145001451450014514\r\n50014514da007556bdbcb7b081e6b97d89581ad78b6decdde0b2ff004abaff00c712b85bdbbbcd\r\n466dd732bcd33b7c895449bbaa6bb75af4df62b65f91ff0082ba4d2f4e834db5f2604ffaecff00\r\ndfa8341d2ffb36d537c49f6a7fbf5a558735e46352466deffaef2ffb95054b75f3cd2d455ee61e\r\n36823c4afb89452d15b9909452d14009452d14009452d14009452d14009452d14009452d140094\r\n52d14009452d14009452d14009452d14009452d14009452d14009452d1401af451457c49f58145\r\n1450014514500145145001451450044f16faa9223a568531f63fdfa9e536a75ac52a7539e174ff\r\n00729a6a0eb8cf9828a28a458da6bfce952536b7a159d29230ad455556657a2a493fbf51d7d561\r\nf10aac533e67158274dbb2168a28aeb3ccb35b85145140051451400552d534e4bf87f83cff00e0\r\n7abb4544e1cc6b0a8e1b193e1fd7eeb449bec57eaef6dff8fa57a0413457302cd0ca9340ff0071\r\nd2b8ad434e82f13e7fbffdf4ac7d9a8f871d66b6b8fddbd79f52835a9eb51c429f53d4a8ae674a\r\nf1859ddec8eebfd167ff00c72ba4ae7b1d69dc7514515050514514005145140051451400514514\r\n0051451400514514005145140051451400514514005159daa6ad6ba543bee65ff713f89eb82d5f\r\nc51a8ea523a412fd960aa05a9da6b1e22b1d2b11b9f3ee7f86de1ae4354bebfbcff90cddfd860f\r\ne0b383e696b2f4eb6bc9a47fb1efdeff007e6adfb2d02dedbe79bf7f3d4971a662488ff6596ead\r\n6dbecb649fc6ff0034af56fc230c536b7f3a7fa98d9eacf8ae6d9636f07f7e4a3c0d0efbaba9bf\r\nb8bb2a7989ad1e53b1a6d3a8ac2f695ce2665dd5b793f3ff007daa0ad4ba4df03d65d7b984a9cf\r\n1b1e6e22366145145759ca14514500145145001451450014514500145145001451450014514500\r\n1451450014514500145145001451450014514500145145006bd14515f127d60514514005145140\r\n0514514005145140051451400da8a4b6fe34a9e8a96546a3899f4eab32428f55a44647a9b1db4e\r\na7305369d4549a8d93e74a82acd5693fd657af9756b7ba73568290514515eed3a87898ac0df588\r\n514515d17b9e44a9b87c41452514190b45251400b4d7daf4b4516b95193898da8e869327996bff\r\n007c556d335cd47457f2f9783fe78cd5d1d56beb3b7bf8f64eb5cb530d7d51dd47176f88dbd2fc\r\n57a5df6d477fb2cffdc7adbaf2dbad0a787ee7efd28d3f5ad5347fb92becfee4f5c12a5289e8d3\r\na8a7b33d528ae6f4ff001869b730ff00a4cbf627fee3d6fc0eb347bd1d1d1ff8d2b23525a28a28\r\n2828a28a0028a28a0028a28a0028a28a0028a6d364744a00929b583aa78af4eb0dc9bfce9bfb89\r\n5cb5ef8a356d49f659ef813fe98d01cb23bcd4357b3d37fe3e6e511ffb95c96b7e336ff57a6a22\r\n3ff7eb2ec7c35757323cfa83f97ff8f4af5bf6ba45859ffa9b64dffdf7a398d2347b9c679379a9\r\n4fbf64d3bff1bd6ee97a06c911ef614ae929b53cc6d1a76228f6247f226c4a753e99526a8e47c5\r\n1323ea3e4ff723a7697a8de6956b14c9b3ecb7373f7ffdca9134e4d63c51710ffcb046df33d5ef\r\n195b450c16a896e8903b356dcbee9c55b56759f2d1593e1abefb7e9117f7e1f91eb5ab8e51b1c7\r\n288563cc9b2674ad8acbd43fe3e9ebd0c0cb538f14b420a2928af60f345a2928a005a2928a005a\r\n2928a005a2928a005a2928a005a2928a005a2928a005a2928a005a2928a005a2928a005a2928a0\r\n05a2928a005a2928a00d8a28a2be24fac0a28a2800a28a2800a28a2800a28a2800a28a2800a28a\r\n2800a63ec78e9f4548e32e528bc5b29b5a150496dfdca9e53ae9d6e856a8e6a929b3fdcaeac1ca\r\nd346953e121a5a28afa24718514515a4656392b615540a28a2ba232b9e1d7c3ca93d828a28aa39\r\n828a28a0028a28a002aa5ed8dbdcfcee9e5bff007d2add14a518cba1ac6a4a3b339cbed0a54f9e\r\n0747aa965777fa24dfb996687fd8fe07aebaa3786278f63c49b2b9aa6153d8eda78dfe61748f1b\r\n4537c9a945e47fb69f72bad86e62987ee65492bcfef742826ff8f57f21eb1e4b7bfd29f7a6f4ff\r\n006e1ae2961e48eda78884fa9eb74eaf2887c4bacc43e4be692b493c67ab42ea24860ac796c6fb\r\nec7a2d15c3a78dafe6d89069b0bbbffd34aa975e2ad79ed5a6f261860ddb37a53b06a7a1d44ee8\r\n9feb1d2bcd2f6f35e9a74826be7777fe081e9d068175729fbfb87df537348d3677975aee9b671e\r\nf9eee1ac2bef1cd9a7c96d0bcf542d7c2f610ec79dde7ad6b5d3acedbfd45b254f31a46898926a\r\nfe23d4bfe3cadbeca943e81a95e7fc7e6a95d2514731a46999b6ba169b6c9b3ecc927fb6f5a5f2\r\n226c4448e8a2a4a8c48e8a73fc94da0a1c94ea8e9d52086d27f769f489feb1282a472be1bb9787\r\nc4b2c1fc172cc8f5d47896c5a6d06ebfd8f9eb97f0dc2efe2877fee333d7a2df45f68b19e1fefc\r\n6d5d91f84e1a9b9e7fe07b9ff4ab883f8268f7d7635c2f837e4d6fcbfee46c95de57155396a6e1\r\n59f7d0bffafad0a6d5e1ea72339eac79918d454b750f933eca8abdfa52e689e5ce3ca145145599\r\n851451400514514005145140051451400514514005145140051451400514514005145140051451\r\n4005145140051451401af451457c49f58145145001451450014514500145145001451450014514\r\n50014514500368a75140114f0a3ffbf5527de91d685417dfea2b7c2c6f51152c47227733e8a28a\r\nfa3e5e544d3ad19ec1451450681451451197299d4a51a8b50a28a2ba2352e78d89c1726b10a28a\r\n2b43ceb5b70a28a282428a28a0028a28a0028a2928d0b4fb19faa7d8ed9229eeacfcf4dcdf227c\r\nbbea8e8ba2beabfe9574ef1daeef912a3f145cbf9eb6dfdc5aeced61486d6dd13ee246b5e7d48a\r\n7267b787bf22b989ac59d9db489324305aec859d1d3fbd5cf6970cb73be147f91e457992b5bc51\r\n0cb73aa59daa3ffaeaade17de9adca9ff4cdb7d72d53b299d15ad8a27f079695768a2b9cec0a28\r\na282828a28a0028a28a001e9bb1e9d4500368a753a8246d393bd11a559b6b7661413391caf86f6\r\n27887547fee7ff00155df579b5ef9ba3ebd7f0c7ff002f4d0fcffdcccb5e975d51d8e191e6baeb\r\ncba178ae5ba853e47aeb6c6e6def2049ed9f7a3d59d7b4e4d4b4fb885d3e7dbf23d703e13d45ec\r\n350fb2cfff001eb72db3fdc6ac2ad3ea44a373baa75369d5cbb1915af61f3a0ff6d2b36b6ea93d\r\n8fef1dd1ebd3c1e26da499c388a37d8a3453e44747d8f4caf56328cb638651710a28a299214514\r\n500145145001451450014514500145145001451450014514500145145001451450014514500145\r\n145006bd14515f127d605145140051451400514514005145140051451400514514005145140051\r\n451400556beff5689566b3ef9ff7f5e865f4ef34ce3c6cad020a28a2be8dc6e7914710e9b0a28a\r\n2b0953b1ed61f14aa05145256676851451409a4f7168a28ada353b9e6e23049de510a28a7ec67f\r\ne07ad7dac3b9e3ca94a3d0651528b69dff00829df619ff00b9532af05d43d9cbb105157a3b1fef\r\nbd4896d127f05652c641171c3c999b58f37882287f837bd6df8a2e12c345b8f93e79be44a8b45d\r\n020b0b189eea149ee9fe7acbeb3cfb1db470897c460683692eabaa25cce9e641f7ddebb591ff00\r\n76f2509b123d8888894b48ed4ada1ccc36df6cf10bdcbbfee268ff00d1dea9e9692d878a120b94\r\nff005db92b7757d2de693ed960fb2f51b7ecfe07ac5bad47edfabd94cfb207b69151e1fe345358\r\n5489b523aa4a28a2b90ee41451450505145140053a8a282428a7d3b63d04f30da7468ef53436fb\r\neaec76ea9daaa31339542bc36dfdfab74ec515473ca57383f1145f68f1c5ac3d9fcbaef8d707a5\r\n5c25c7c42b89bfde44aeeab681215e79e32f0eb59c92dfdb7fc7b3ff00adff0062bd01d5cba7cd\r\n4c9e149a07866f9d1d4a3a7ae69cb5039df0f6a3fda5a5a3bffaf4f926ad4ae066fb5785b57ba8\r\n616ea9ff007dad6a683e288a68d2db537f2e7ff9ed5c552363374efb1d5514dfe04fb9f3d1508c\r\nda09111fe47acf9acdd3f7895a5456f4f11287539ea51523128ad49ad966ff007ea84d6cf0d7ab\r\n4714aa1c3528b81151494574f347b9972bec2d1453fecd2ff71e97b58770e490ca28a2ad49488b\r\n5828a29280168a4a280168a4a280168a4a280168a4a280168a4a280168a4a280168a4a2803628a\r\n28af893eb028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a0028a28a448564\r\n49f3c8ef57ae9f62551afa1cb28d9731e4e36a740a28a2bd63cb0a28a28b1709ca1f0b0a28a2b9\r\ne70b6a7af85c6f35a2c292a682cde6ff0072a479b4eb0ff5f730a3ff00b6f5c352ba81ea11a5b4\r\naffc156d2ce24fbff3d527f12e909fbbfb7a3d569fc5d610ff0004f257154c449ec06eec4a92b9\r\n393c7367ff003e73d40fe22d6ef3fe41fa5563ed67dcca54e32e87634d79a087efcd047ff03ae1\r\n7508b5b7fde6abaac16bfec3bffecab5853a44f26c82579deaaecce38747a4cdad6970fdfbe82b\r\n2eebc67610fc96d14d3bd7390e852ecf3ef3658daff7deb7f48d391ffe41f6df6583fe7e66f9a5\r\n7ff769c752fd8a8989ac6bb79a96cfb55b24088dbd12bafd061fb36976fbee3cf79be77fc6b1bc\r\n6496b0fd82dadbf81db7d4fe17ff00467bab0ba4d9750ffe835d94741337e9f4515d4e422c58c3\r\nbdf7d51f17686ba9593cf0affa6c2bf23d6e5ac3e4c7b2a6ac65ef01c0d8ebb2c33a596ab0ecfe\r\ne4dfdfaddad2d474bb5d4ad7c8ba85244ae2fed971e1ebd6b0bdf31ed7fe58cd5cf2a763a29d43\r\na2a29b1ccaf1ef47de8ff71ea4acce84ee368a28a00751f3bfc8945ac3f699bfd84ad8485528e5\r\n319542a4368dfc75663b644fe1a9c515a7298b936369d4514121514f32430bccff00c0acf52d61\r\nf8c6e7ec9e1eba3fdff92a9099cd781ede4bcd7ae350fe08777fdf4f5e87589e11d3bfb3745b78\r\n7f8dfe77adbad50828a28a60727e3cd2def34e4ba87fd7db579afdf8debdd1ebce2e740b0ff849\r\ne7d34ee81268b7c4f5cf5a25c256dca3a0dc6af6d0bbe9bfe956a8df3db575ba46bb67a97c88fe\r\n45d27df867ae75fc2bace9b75f69d36e51dd2a86a97974ff003eb3a5fefd3ee5ca26d7ae50953e\r\n63d168ae1f48f15bdb6c86f26f3e0fefff001a57691ba4d0a4f03ef81fee3d1639a54da1d43ec7\r\n8dd1ea092f2d53efde43ff007dd4126b5a5c3f7f52b6aa8371d89e4e6e84f1db5ba7f054fb17fb\r\n8958d278af484ff96b3ffdf156ec75ad36ff00fe3daf137ff71fe5ad255a6fa93f57f22f7dca75\r\n14547b47dc3912e840f0a4df7d2aa4d62e9f72b4a8ada9e29c2da994e8c5f431363ff71e8ad99f\r\n7f97f23796f597379be67eff00efd7a94714a67154a3c84545145759ca14514500145145001451\r\n45001451450014514500145145006bd14c8fe78f7a53ebe2651944faa0a28a282828a28a0028a2\r\n8a0028a28a0028a28a0028a28a0028a28a0029b4eaa37536ff00912ba70b45d59ad0e5c456e444\r\n333f9d26fa651457d5528a84523c2a93e66d8514515664145159daa6af0587c9febe7fee544aa4\r\n61bb35a74a53d91a3552eb5ad374dfe3fb54ff00dc82b9cfb75e6ab3ecf2a6baff00a7687e54ae\r\n9ed7c2b14d22cd736cf1a7f737aaecff00be6bc8c4e3ba44f570f8251b499cf5ef89754bff0092\r\n0fdc23ff0004351c30dac29be6fecf8e7ff9f9d467dcff00f01896bba87c2fa3429b3ec31d584d\r\n16c22ff57a7da0ff00b675e5cab5cf48f3d36da3cd3fcf7d7f76ff00dcb2b2db5a6343b5b94c5b\r\n68daaa27f7e69962aee122648f626c4a3ecd53ed0673965669a5ef820d33ed4ffdf74554ff00be\r\naa6ba8f59b98ff00e3fa1b24fee429bab6feccf47d9aa7da08e4d3c2f61bf7cef733bff7ddeb5a\r\nd6c6decd3fd1a2482b5beccffdfa3ec955ed0ab992f636b34c9753c28f3a7dc77ab69deadfd93f\r\ndba6bc3b2aa3500e67c789fe856aff00dc9da8d53fd1a7d235f4fb8f1aa4d4ef1aff00c8222ffa\r\nef5a5650a5ff0087aded67fb93415e9d1d4c645b4f9ffd5d695b5a6c3bdfad617851d9627b6b9e\r\n6e6ce4f26ba7ad442d14514082b3b58d26d755b5fb3dca7fbaff00dcad1a28dc0f3474d4bc2b75\r\nb2e53cfb27ae8ecafa0bf83ceb67df5d1c88932323aaba7f71eb95bdf0a3dbcef79a3dc3c137fc\r\nf1fe0ac654cda9d4b17a9af546c751777fb35e45f65bdfee7f7ffddabd27fabacb94dfda5cd1d2\r\n21d96b5a1505affa95a9eae2724b70a28a2800a28a2800ae3357b9ff008487c45068f07fc7b5b3\r\n6fb8ad8f15ea9fd95a5bba7faf9be48aa9f81f4bfb1e9ff6c9bfd7dcd54493a7a751456c014514\r\n50015c778e08b4bbd2f52fee4b5d8d6078cadbed1e1ebaff0063e7a8a91ba0343e574574a49115\r\nd363aef4ac7f085dfdb34183fbf0fc95b66bcda9ee9bc7630353f0a69779f3a27d967fefc35c86\r\nb5a36ada5c3e5cd33cfa77f7d2bd3a9df7d2b2f6823cbedbc2b757f0fda74db9b3ba80d0fa2eb7\r\n67f7f4849ffe00b2d7616fe1f7d3b57fb6e95288609bfe3e2ddeba1a3db091e3f35cff00cf6d2e\r\nda0ff803455041e55cce89e6c3027f7debd9234444d8889b2a8dee85a5de0d93da43446a8ee703\r\n0eb57fa249b21d461d460ff7f7574d6be2ed226851e797ecaffc68f542fbc19756d279da55c7fc\r\n01eb9dd4ed25b6ff008fcb77b5baff00c71eb68c932654d33beb2d6b4dbf9f65adf4323ff72b42\r\nb85d22fb49bf9e24d4ecd2d6f7f82e60f977d77154734a361d4d78526f91e8a2aa9c9c5ee73ce3\r\ncc64cd0bc32532acc9f23bc137dca8644d926caf7e8d4e68a3cca91e56c6514515b98851451400\r\n514514005145140051451400514514012c1379357d1f7fcf59752c133c3fee57978bc0a9abc4f4\r\nf0d8cb69234a8a623ef8f7a53ebc09d39537667ab19a9ec14514541a0514514005145140051451\r\n4121451450505369d54e6b9fbf1c15bd1c3caab5a1cd5ab28750bab944f912aa5252d7d261f0ea\r\n9247895ab3a8c28a28aeb39c28a6c8ea88eeff00bb445ae5f54d765bcff46b5478d1ff00f1fac2\r\nb6215347551c3baa59d635d95e6fb1e99f7ffbff00dfff0076afe91e0977fdf6aaff00f004ad4f\r\n08f87574a83ed3729fe9afff008e574d5f3b8ac5b9bdcf668d154d15ecad2d6ca0d96d0ac29562\r\n8a2b85bb9d0828a28a818514514005145140051451400546fdaa4a6bd5c40e57c729ff001288bf\r\nebbd5fd1ff00e41165ff005cd6aa78f3fe40917fd775ab7a27fc81ecbfeb9ad7b38597ba6731ba\r\n88fb0dd41aaa0f93fe3deed3fd9adcb69bfe59eecfcbbd1ffbeb4ffb3a496be43ff1ad60224ba2\r\ndd476bb81b27e2dffe98d741275145416b73f688fd1ea54a007514514005145140152f6c6d6fe0\r\nd9729beb9ed526b3d1f625e4d36f75fdd4c895d6571baedf4573e24b3d376c32245bb7effef1a9\r\n9046e50b6f18258f950daa3cf6c8bf397aed34ebe82fed62b9b6fb8f581369d6733c5bed93e4fe\r\nb47839d6d7ed9a53ff00af864dff00efa9ac4a944eaa8a28a0029923a2465ddb627dedf4fae57c\r\n71aa7d9acbec1b7fe3ea36f9e824cffb3cfe2abbb8d493fe3d91becf6fff00b3357710a2242889\r\nf72b37c2ff00f22f69df2ecfdcad6a56d1880ea28a2a8028a28a002aadec7e75b4b0ff007e364a\r\nb54d4a00f3cf01dcecbabdb37feeef4aee12b83d17fd1bc6ce9fed4895dd579b888ea6d125a5a8\r\nd3bd495c3200a28a2a40292968a004a8e7b68ae5364d123a54b4534ec0703e27f0ac16d6af7961\r\nbb627df86ab786bc44f66e96579ff1ebfc1357a2bff73a2579ff00f65c16daa5c6817bff001eb3\r\n7cf6937f718d74d2a97224ae7674eae6741b9b8d37517d02ff00fdfb79bfbeb5d3568734a3620b\r\nab64992a87fae8767f1a56a566dd27933fc95ea60eadf43cfc4532bd2d1457ac70f28514514121\r\n45145001451450014514500145145001494b45500f8ddd1f7a55b8ef11fefd51a2b8b11838553a\r\na8e2a54cd7a2b2d1dd3ee3d4d1de3ff1a5791532e92f84f469e393dcbd45564bc8aa4fb4c4ff00\r\nc75c92c1d48f43a238883ea4b45337aff7d28debfdf4acfd84fb15ed63dc7d1507da624fe3a81e\r\nf13f812b6a783a92e84cb154d752e531ee624fe3aa125ccaff00c74caf468e59fcc7155c77f292\r\ncf72f37fb095151457ab4e84292d11e754a929f50a28a2b5320a28aced6b544d360ff9e93bafc8\r\n95152a2a69b66d4a9b9bb2337c4ba8ef7fecf83fe069fdf6ad9f077869ece47bfbf8b13ffcb28a\r\nad7853408aded62bfbc4df7aff003d7515f338ac473b7a9efd1a7c91b0514515c06e1451454805\r\n1451400514514005145140051451400535e9d51bf6aa8844e7bc73ff002017ff00ae8b4784ee5e\r\ne7488bfd86d94ff17a6ff0fdc7fb0caf543c15ff001e5710ff00b4b357ad85d82476c9f3a566ea\r\n888f37fbeb576cbee517b6fe7c791f7d2bb118b32e37747de95b6877a6fac9fb3dc7f72b5205d9\r\n0ad00494514500145145004723f968effc08b5e79a0c315e5d5eead3247f3cedb2bb3f12bcb168\r\nb78f0fdff2eb97f0ea793a25aa7f7d77d67519a5389a8fdab2754b9fecad5ec353fe0ff53356b5\r\n64f8a13fe2512d626d289dd46eae894e3d6b96f026a7f6ad1d6176f9ed9b65753444e7b582b8df\r\n890abf62b37ffa6856bb2ae3be233ffa2d943fdf9aaa203ac7c61616d0416d3c5343b1561dff00\r\n4ae8ad754b5b98f7c1323a572fa3d9c4fa26cb9851fce669bf3acbbad0a5b391e7d3267ff72b48\r\nc8394f478dd1ea4af3ad3bc57716cfb35087fe0695d8e99abdadfc7982657ad221ca6a51451412\r\n14da751401e71ac7fa278ed1ff00e9b46ff9d76e7efd713f1055e2d76de74fe38c576eff007ebc\r\nfc49b531c95254629f5e7c8a614514b524894b451400547bfda9cf59f7573e4c96bff4da6d9551\r\n8817ab03c6da5bdfe97e743ff1f56df3a56fa77a77dfa232b30385b5497c49e1e49fceff0089bd\r\n9c9bd26ae8b47befed5d3edef766c775f9ff00eba8ae5207ff008463c56f6cff00f1eb755d3476\r\n32d9eaf2cd6c736b72dbe687fb8dfde5aed8ec73d489a5505d43e742f53d15a51972c91c9523cd\r\n73128a96e9364ef5157d153973451e54a3cad85145156661451450014514500145145001451450\r\n014514500145145001451455005145151cb17d0a5261451454fb28762f9e5dc28a28aa508a26e1\r\n4514532028a28a0028a28aa2915350bc4b0b57ba7f9dff00812b0b45d2db58d7764e59d21f9ee2\r\nadebd33db4e972e9f71765a27f7e535d5785f4bfecad31237ff8f99be794d78398d6d794f67054\r\necae6d52d2515e1dcf445a2ab5d5ca5b26f77aad0ea2cf26ca39581a545377d2d480b451450014\r\n514500145145500514514001a8de9cf4d35512914758557d2ef11ffe78b5731e097fde4a9ff4c5\r\n6baeba8bed36b3c3fdf564ae2bc128f0ea97b07f1a475e96108677564f898a7f7eafd65c7f2495\r\na95dc641451450014514500145155af6f20b385e6b9951234a00c4f1c4dff12936a9f7ee5b60aa\r\n1a5ffc82ed7feb9551bcbe97c4da87fa36f86cad95b2f5af0222408889f222ec4ae5a923a29966\r\nd537bd17b6315e432db4df71d6a78136254958f31a1c2f874cba2f8a1ac2e7fe5b2ecaf43826fe\r\n07ae17c790ba7d8f5087efa36caeb2c6f22bfb582ea1fb932efad2267289b35c2f8fbe7d5f4d87\r\nfbeb5d9c2f5c678d7fe464d0eab98c7a9b73ff001d54fb95b525b23d42f628f53ed2c69130b50b\r\n1b5bc4fdf45ff034ae66eb4ebcd29fcfb67f313fbe95dadd5a3a554ad2332b948fc3de2d47d96d\r\na9feedff00825aecebce354d0126f9ed5363ff007299e1ef125d68aff65bddef6bfdcfe386b48c\r\n8c6513d2a8a8ad668ae6149a17de8ebf2bd4f5a1270df12173fd9cfe95d49fbf5c7f8926f3a689\r\n1dbfe3db54ff00c74d762ff7ebcfc51ad31d4514579e58e4a753529d524851451400d7ac2d7dbe\r\n7d27febfe3adb7fb95cef887fd6691ff005feb5a446740952d44952d4f511c47c49b7cfd826f4d\r\nc95a1e14d47edfa226f7fdfc3f23d37e2145bf4849ff00e78cd5cf7826fbecdabbc2ff0072e976\r\n57653d8ce71ba3bea28a29a396c54d453f77bf6567d6bcdf3c32d6457b78295d1e5e2a36614514\r\n5771ca145145001451450014514500145145001451450014514500145145001451450014514500\r\n1451450014514500145145001494b5435bb9fb1e9770fbf63baec4a8a92e58b66f463cd348ada4\r\n27f6df8ade7fbf6b675de5737e10d3bfb374b8b7ff00af9be77adfaf93c554e79b3e8a9d3e58a4\r\n4b45369d5c86a737e327ff00895cb543c2f72f73a745bdfcc74dc95bbaf58fdbf4eba83fbeb585\r\ne10b6d9a5acdbffd7333d75c5ae428ec53fd5a54b55e0fb8952d73123e945474fa042d2514b408\r\n28a2a3a0076fa37d329282ac3a9b4515455812b8cd07e4f166a5ff0002aed05727629b3c6ba96c\r\nfee57a18496a6733a44ad0b5f9e1acdad2b5f9204af49989351451520029b59fabeb367a3c1e65\r\nd4db3fb89fc4f5c9bdc6b3e29fb9fe85a7d44a6a2095cdad4fc576b0c9f66b046bebafee2563be\r\n9779aacc93eb337fb96c9f712b674ed22df4d836409ff03fe3abbe525734f106d1a666c36c90c7\r\nb214d8953a5b3d5bd9ef4fae7954b9a446253e8a2a62518de28b3fb4e85750e7e7dbbd3f0aa9e0\r\na74fec14ff00ae8d5d0489bd193fbeacb5ca780dff00d06f2dbfe78cf5b440eba1b9ae67c458b8\r\nf18e8695bd589f7fc789fec5a5548ce513aadf45368ac640385549ecd26ab3454467628cb7b374\r\nacfd63454d4a1fee5d27dc7ae933513c2be95ac6b0ac70be1ed6ae342bd7b5b947f2377ce9fdca\r\nf498264b8856485d6447fe315ce6b5a141aac1fdcbafe09ab03c37aa5c683a9be9b7ff00242ed5\r\nd74ea5cc6511de274dbe2e487b5ccb0bd76a7efd735e25f97c6ba2bd74d5c98a9174c28a28ae13\r\n41d4edf51d1524f2926ea5a653e8018ff72b99f127fc7d68a9ff004f75d34df72b92d6df7f8a34\r\n586b4801d5a7dfa96aac1f7ead54c80c8f14db7da7c3d7e9ff004cf77e55e6ce8f0d9585fc1fc6\r\ncdff007d257ad5d429716b2c3fdf8d93f3af29f9ff00e11e96d9fefd9ddff3ada93251e936b73f\r\n6cb1b7baff009ed1abfe752d64f84e649b41b5ff00637256c56c71cb71b58dff002d1d2b6eb364\r\n8657ba7d895e8612af26e716229f310c70b3ff00723a63a3ac95a096317fcb4a74d6d14d5d9f5d\r\n57b183c33b1994b4f991e17d8f4caed8cb9a299cb28f28514514c90a28a2800a28a2800a28a280\r\n0a28a2800a28a2800a28a2800a28a2800a28a2800a28a2800a28a29dca481137c9b2b1e387fb6f\r\nc4a89feb2cac1bff001eab7addf369ba736cff008fab9f912aff0086f4bfecad2d11ff00d7bfcf\r\n357898eafbc533dac161f691b352277a8d2a4af0647acc7d14ca7d49223fdcae4fc35fe8d75aa6\r\n9fff003c67de9fee9aea27ff00515c9dd3ad878bad66fe0bf8f63d7453d80eba1ff56b4fa647f7\r\n129f59f700a28a750025145152014514548094528a4aa880514515403a3ae5ec3e6f1aea5fee57\r\n4d5ca689736e9abeaf7f753797fbfd895dd84dccea1d2256946ff22d73b75a8dc6c79adad3627f\r\ncf6bd7f292b97bdb8bcd6a7f260b89ef7fdc4db6e95df2a8631573afd4fc51a5d87c9e6f9d3ff7\r\n21ae7bfe125d6f579becda6dbc70536cbc1eff00f2fb71ff00004aea2d6dadece1f26d51234ae6\r\na988b1a46999ba7f876085fed37f33ea175fdf7adaa4a2b8e559c8da31b0b4525159f314145145\r\n00329f55eeae12d609667fe0567ac0d3354f106a16a9750da59bc2ff00c1e656d1885ce9be44ae\r\n6748b76b0f176a90bfdcb98fed0952ea37d2de69f716775637964f32ff00ae48f7252c9793cd74\r\nb7361a2cd25cedf256e67f96ba2266e46f469fedd62d8a07f18ea337f05bdbc70d4653c55703ef\r\nd9d954fa568b75637af7336a6f3bbffad4a241b9b74514572ca450514515980514514003f6ac9f\r\n10e8c9aac1fdcba4fb8f5ad495a46a58394e274c9a7b8d5f48b0bd4fdfd948d5dbd66ea3a725d5\r\ncdadcfdc9ada457ad2a2acb9ac4c6214fa65158943e8a6515203e8a6514004ff0072b8fba7f3bc\r\n796a9fdc5aec1fb5711a11fb778baf6ebfb8ad5a53881dac356aaac353d672dc990faf37d42cf6\r\n78875cd3ff00e7ea06992bd16b94f13c296de22d2f52fe099becf2d5d391255f87f73bed6ead7f\r\nb8caf5b13eb5146ef0d9c335ecff00dc86b93f0d5e5be8375a84379fee51a86bf7f731ff00a2ba\r\n69d65fc089f7debacce54f999d669bac0bdb96b4b8b56b3bc5e90b9eb5a95e571bde7eeae77cdf\r\neb7c9499debacf0eea97f0ea2fa36a7f3cff00c0f4ee67528d8ea28a6d1beaa11e69239672b266\r\n5dd3ef9dea2a28afa2a51b411e44a576c28a28ab2028a28a0028a28a0028a28a0028a28a0028a2\r\n8a0028a28a0028a28a0028a28a0029bfdfdef4eacbf12dcbdb696e89f7e6f92b3a92e58366f469\r\nf34d22943abea97f752ff6658a4f025393c51ff3dec668ebaad22cd2cf4eb78113cbf955ff00e0\r\n5593e32b7d9a5b4907c9be65fb45788f1b2bbd4f7238285914b42b76d635797529d7f716dfea52\r\nbb115534b4b7874e823b3ff51b7e4ab75c156a39b677538a8ab21c952546952572c8720a28a2a4\r\n91b3fdcae47c729bf4849ff8e19ebb0ac5d7adbed3a3dec09ff3cd9d3f0ae8a606ad95c7daacad\r\ne7fefa86ab15cef81ee3ced0624fe385992b7ea64161f45145480ea4a4a2a5c405a28a2a400525\r\n28a4aa8805145154032674851a47fb88bbab90f0fcd79f6494d859a7daa6919def26ff00555d6c\r\ne89346c8e9bd1ea3d890a2a22a22256d4eb7213cb73206856f70e936a57336a137fb7f73fef9ad\r\n6444863548552344a7d144ab39752e30482a4a4a2a2f718b494b4520128a5a4a0028a2994018fe\r\n2ef93c3d7553785367f60d97fbb4788a2f3b41bc8ffe99d56f03cde768317fb0d5d119684c8e8a\r\n9dfefd51d46e67b5b526da1f3a6dcaaa9f5ac89ed3c471c666875649a51ff2cbc8e2b4f69a1274\r\n0ef4562e83aeaea4ef6b729e45ec3f7e1adaace522828a292b10168df4945050b451454922514b\r\n49414145145002d1451412145145001451450041a8cdf66b2b89bfb91b35723f0fd3e4bf9ff8dd\r\nab63c6b71f66d065ff006d952b3bc149e4c3749fecc6f5a2d80eb12a7ef5043538ac6401595e24\r\nb45bcd22e909fb8bbd1ffb8c2ad492d664f37f696a29609f72db6cd77ffb2ad118d896709f66ba\r\n9b54d975bfed4ff3bec4dcfcd747a7f8537fcf79fbb4fee6fdd2bffbcd46f487e22b6f7fbf1576\r\n35b4a5b01c078ddca5edbd84384b68635748aad783617bfd52eb56baff00712b2fc652eff10dc7\r\nfb0b1a5749e06474d11dff00bf3d6d1d88aaec8dfa82f9f64153d67ea2fbe4d9fdcaecc1c2f33c\r\nac44ac8ad451457bcbb1e485145140051451400514514005145140051451400514514005145140\r\n05145140051451400552d4367dbb4d47fe39eaed63f891fc94b29ffb93d73e2ff86cedc0cbf788\r\nebd3bd41a8c315cd94b05cfdc75a6d95cc5731a4f03ef826ab2e88f5f2d2f88fa6472de1a9a5d2\r\nf509f44b97ff006e1aeaeb235dd153558d2685bcbbb87fd54b562d2e5ffd45dffc7d246aefb3f8\r\ne9319a29525434eacc0928a28a9330aa93fdfab750dd7cf1d694c0e4bc1aff0063d5352d3dff00\r\nbdbd2bb3ae23517fecdf1759deff0005caec7aed52aaa44a1d4514566891f45328a2403e8a6515\r\n98125145140094514569101943f6a7d3280128a5a2a4a12968a4aa0168a4a2a805a2928a90194d\r\na7536a8a1248bce86547fe3564ae5bc00fb1efecbfb8d5d72571da3ffa278eef21ff009edbab45\r\nb19c8edab9ed235465babcd37529916e6190ec77f977c66b7ab3754d0ac358dbf6d87e74fe3a98\r\nc896737abdc5acde2ed366d35e379f77efabb6aced2f45b0d2b8b3b6d9fedd68d1295ca4149451\r\n525051452d0014514504851451400514514005145140051451400fa28a754f301c87c467ff0089\r\n75ac3fc6f2559d11366a9a943fdc5853ff001daa3af6cbef18e9b67fc10d6868fcf8935c4ff6a3\r\nadba126cdadcef9eea0ff9e2cbfaaeea75d4db2b3b4f957edbaccdff004f3b3f28a96eae62b68d\r\ne799f62256718ea112a6afa8bd8596f44f32ea66d96e9fed56868b63fd9b6488ff003ceff3caff\r\n00df63587e1e865d5f536d6665d96b0ee4b48ababaa901c9df597dafc65750ff00d3956ee8376d\r\n7fa744f27faf4f926ff78551b1ff0048f13dd5e2237930c2b0efac9d79af34ed467b6d3473aaaf\r\nfdf0d551d6c0626a7b752d5efee93e783ccd88ff005f96bd0ec6d92c2c6decd3fe58ad70de1dd3\r\na2ff00849521826f3ed6d7e777fefe2bd03efd6c73d7636a8df5b3ff00af4ff81d68536b7a15b9\r\n2470d4a7cc8c6a29f3a79336ca657d0425cd14cf2671e5614514559214514500145145002514b4\r\n5002514b45002514b45002514b45002514b45002514b45002573fe2eb94f22283fd64ff7eb7d09\r\nce33d16b9ed2218f50d5af5ee543b6dae2c6d4b46c7a380a7795c9b41bcfecabdb7b5dfe6595fa\r\nef85ff00b8d5db57974ced6e6648cfcb693e62cff0d7a7c3f3c6bbb9af9ea87d12d87567eab6cd\r\n3c7ba1f92e62f9e27ff6ab428aca2c666e9d7c9730ef4f91f76c787fb8d5a08e8f5cf5d1367e27\r\nb748784b88f7c8a7a135b119c363b1ab9203429375468c69c9585843ea37e8d52515486725e32b\r\n7dfa5a4ffc76d256f69737da6c6293fbf1ad67ebca1acaf54f4dad49e1362744b2ff0075ab797c\r\n20743452515ce48b451454c890a28a2a407d14ca2801f45328aa00a28a4a005a2928a0a16928a2\r\na8028a28a0a0a28a28019453e8a0044ae5f574fb1f8cb4db9fe0b9f92ba9ae73c703669d652af0\r\nf1dd2953e957166723a4a29b93b33dceda7520414520008663d473499dd1a9c004f3c5002d14b4\r\n941414b4514005145141214514500145145001451450014fa70a2b3b80da294566f892e64b0d2a\r\n5960c07f5233412ce7f4adb7fe2796fcff001ccc917fba957744ff0091b35cff00b674cd121486\r\nef4b890614593b8fa96aa10c8d1ebbe2865382b0715d315702de8f796e9a44b7f74fe5a4d7334d\r\nff008f55286daebc5574934ff26970b7c89fdfac6d23fe2617fa669f73f3dac71711f6af48b445\r\n546c0fb9d286ec51242890c6a889b11169d4532438e959ee02c8e89f7eb0bc496c9a8dacb1c7ff\r\n001f50af9d0bd5bb991a312c83048ec7a52787d7ccb1fb4392657fbcc7bd5ad00f3bd2351974eb\r\nd8af21af4ad3b51b7d4ac92ead7ee3d79df882de2b7d6af6189709bba56d780e790dc5dc3bbf76\r\ndd456f1d4c2b46e8ed68a28a4721535187f77bff00b959d5b4fca62b1c8c6f15ede0a6dc6c7998\r\n98ea368a296bbce4128a5a280128a5a2803fffd9\r\n}\\par\r\n}\r\n",
+        "mark": 1.0
+      }
+    ]
+  },
+  {
+    "ID": 61,
+    "Name": "Multiple-languages",
+    "CategoryID": 8,
+    "Content": "{\\rtf1\\fbidis\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset178 Segoe UI;}{\\f1\\fnil\\fcharset0 Segoe UI;}{\\f2\\fswiss\\fcharset134 Microsoft YaHei;}{\\f3\\fnil\\fcharset128 Yu Gothic;}{\\f4\\fswiss\\fcharset129 Malgun Gothic;}{\\f5\\fnil\\fcharset163 Segoe UI;}{\\f6\\fswiss\\fcharset1 SimSun-ExtB;}{\\f7\\fnil\\fcharset204 Segoe UI;}{\\f8\\fnil Segoe UI;}{\\f9\\fnil\\fcharset1 Segoe UI Symbol;}{\\f10\\fnil\\fcharset1 Cambria Math;}}\r\n{\\*\\generator Riched20 10.0.19041}{\\*\\mmathPr\\mmathFont10\\mwrapIndent1440 }\\viewkind4\\uc1 \r\n\\pard\\ltrpar\\f0\\rtlch\\fs24\\lang1025\\'8d\\u1740?\\'e4 \\u1740?\\'c7\\'d2\\u1740?\\'d3\\u1740?\\f1\\ltrch\\lang1033  (\\f0\\rtlch\\lang1025\\'c7\\u1740?\\'e4\\'90\\u1740?\\'e1\\u1740?\\'d3\\'cc\\'e5\\f1\\ltrch\\lang1033 : Chinese characters) \\f0\\rtlch\\lang1025\\u1779?\\u1776?\\u1776?\\u1776?\\f1\\ltrch\\lang1033  \\f0\\rtlch\\lang1025\\'c7\\u1740?\\'e1 \\'c7\\'c4\\'e4\\'cc\\'e5 \\'cf\\'e4 \\'c8\\'e6 \\u1740?\\'c7\\'d2\\u1740? \\'d3\\u1740?\\'d3\\'ca\\'e3\\u1740? \\'e6\\'c7\\'d1\\'e3\\u1740?\\'d4 \\'8d\\u1740?\\'e4 \\'cf\\'e5 \\'e5\\'c7\\'e4\\'d2\\u1740? \\'cf\\'c6\\u1740?\\'e1\\u1740?\\'d1\\f1\\ltrch\\lang1033  (\\f2\\'ba\\'ba\\'d7\\'d6\\f1 /\\f2\\'9d\\'68\\'d7\\'d6\\f1 ) \\f0\\rtlch\\lang1025\\'8e\\'c7\\'81\\'e6\\'e4 \\'cf\\'c7 \\'98\\'c7\\'e4\\'cc\\u1740? \\'e6 \\'98\\'e6\\'d1\\'e5 \\'cf\\'e5 \\'e5\\'c7\\'e4\\'cc\\'c7 \\'e6 \\'e6\\u1740?\\'c6\\'ca\\'e4\\'c7\\'e3 \\'cf\\'c7 \\'8d\\'e6 \\'e5\\'c7\\'e4. \\'8d\\u1740?\\'e4 \\u1740?\\'c7\\'d2\\u1740? \\'d3\\u1740?\\'d3\\'ca\\'e3\\u1740?\\'e4\\'cf\\'e5 \\'e5\\'d1 \\'e4\\'e6\\'e3\\'c7\\'cf \\'c8\\u1740?\\'d1 \\'98\\'e1\\'e3\\'e5 \\u1740?\\'e6\\'ce\\'d3\\'c7 \\'d3\\'c4\\'d2\\'cc\\u1734? \\'e4\\'e6 \\'90\\'c4\\'d3\\'ca\\'d1\\u1740?\\'d1 \\'c2\\'e3\\'c7 \\'c7\\'e1\\u1740?\\'dd\\'c8\\'c7 \\'cf\\'c7 \\'e5\\'d1 \\'e4\\'e6\\'e3\\'c7\\'cf \\'c8\\u1740?\\'d1 \\'d3\\'d3 \\'cf\\u1740?\\'d1\\f1\\ltrch\\lang1033 .\\f0\\rtlch\\lang1025\\par\r\n\\par\r\n\\f3\\ltrch\\lang1033\\'8a\\'bf\\'8e\\'9a\\f2\\'a3\\'a8\\'c8\\'d5\\'d3\\'ef\\'a3\\'ba\\'9d\\'68\\'d7\\'d6\\'a3\\'af\\f3\\'82\\'a9\\'82\\'f1\\'82\\'b6\\f1  Kanji */?\\f2\\'a3\\'ac\\'b3\\'af\\'f5\\'72\\'d5\\'5a\\'a3\\'ba\\f4\\'c7\\'d1\\'c0\\'da\\f2\\'a3\\'af\\'9d\\'68\\'d7\\'d6\\f1  hanja\\f2\\'a3\\'bb\\'d4\\'bd\\'c4\\'cf\\'d3\\'ef\\'a3\\'ba\\f1 h\\'e1n t\\f5\\lang1066\\u7921?/ch\\u7919? h\\f1\\lang1033\\'e1n\\f2\\'a3\\'af\\'9d\\'68\\'d7\\'d6\\f1 /\\f6\\u-10170?\\u-8648?\\f2\\'9d\\'68\\'a3\\'a9\\'a3\\'ac\\'d3\\'d6\\'b7\\'51\\'d6\\'d0\\'ce\\'c4\\'d7\\'d6\\'a1\\'a2\\'c8\\'41\\'ce\\'c4\\'d7\\'d6\\'a1\\'a2\\'c8\\'41\\'d5\\'5a\\'d7\\'d6\\'a1\\'a2\\'cc\\'c6\\'d4\\'92\\'d7\\'d6\\'a1\\'a2\\'cc\\'c6\\'c8\\'cb\\'d7\\'d6\\'a3\\'ac\\'9e\\'e9\\'d3\\'9b\\'e4\\'9b\\'9d\\'68\\'d5\\'5a\\'b6\\'f8\\'b7\\'a2\\'c3\\'f7\\'b5\\'c4\\'d5\\'5a\\'cb\\'d8\\'ce\\'c4\\'d7\\'d6\\f1 [13][14]\\f2\\'a3\\'ac\\'ca\\'dc\\'b5\\'bd\\'9d\\'68\\'d7\\'d6\\'ce\\'c4\\'bb\\'af\\'c8\\'a6\\'8f\\'56\\'b7\\'ba\\'ca\\'b9\\'d3\\'c3\\'a3\\'ac\\'9e\\'e9\\'ca\\'c0\\'bd\\'e7\\'ce\\'a8\\'d2\\'bb\\'c8\\'d4\\'8f\\'56\\'b7\\'ba\\'ca\\'b9\\'d3\\'c3\\'81\\'4b\\'b8\\'df\\'b6\\'c8\\'b0\\'6c\\'d5\\'b9\\'b5\\'c4\\'d5\\'5a\\'cb\\'d8\\'ce\\'c4\\'d7\\'d6\\f1 [15][c]\\f2\\'a3\\'ac\\'d2\\'b2\\'ca\\'c7\\'b6\\'c0\\'d3\\'d0\\'b5\\'c4\\'d6\\'b8\\'ca\\'be\\'bb\\'e1\\'d2\\'e2\\'ce\\'c4\\'d7\\'d6\\'cc\\'e5\\'cf\\'b5\\'a1\\'a3\\'d7\\'ee\\'b3\\'f5\\'a3\\'ac\\'d3\\'c9\\'d6\\'d0\\'87\\'f8\\'c9\\'cf\\'b9\\'c5\\'95\\'72\\'b4\\'fa\\'b5\\'c4\\'bb\\'c6\\'ba\\'d3\\'ce\\'c4\\'c3\\'f7\\'c8\\'41\\'cf\\'c4\\'d7\\'e5\\'cf\\'c8\\'c3\\'f1\\'cb\\'f9\\'b0\\'6c\\'c3\\'f7\\'84\\'93\\'d1\\'75\\'a3\\'ac\\'c6\\'e4\\'d7\\'d6\\'f3\\'77\\'9a\\'76\\'bd\\'9b\\'e9\\'4c\\'be\\'c3\\'b8\\'c4\\'df\\'4d\\'bc\\'b0\\'d1\\'dd\\'d7\\'83\\'a1\\'a3\\'c4\\'bf\\'c7\\'b0\\'c8\\'b7\\'c7\\'d0\\'b3\\'f6\\'ac\\'46\\'b5\\'c4\\'9a\\'76\\'ca\\'b7\\'c9\\'d0\\'d3\\'d0\\'d3\\'91\\'d5\\'93\\'bf\\'d5\\'e9\\'67\\'a3\\'ac\\'d7\\'ee\\'d4\\'e7\\'bf\\'c9\\'d7\\'b7\\'cb\\'dd\\'d6\\'c1\\'cc\\'d5\\'ce\\'c4\\'a3\\'ac\\'bc\\'73\\'b9\\'ab\\'d4\\'aa\\'c7\\'b0\\f1 1300\\f2\\'c4\\'ea\\'c9\\'cc\\'b3\\'af\\'b5\\'c4\\'bc\\'d7\\'b9\\'c7\\'ce\\'c4\\'a1\\'a2\\'f4\\'a6\\'ce\\'c4\\'a1\\'a2\\'bd\\'f0\\'ce\\'c4\\'d2\\'d1\\'bd\\'9b\\'c6\\'c6\\'d7\\'67\\'a3\\'ac\\'d4\\'d9\\'b5\\'bd\\'b4\\'ba\\'c7\\'ef\\'91\\'f0\\'87\\'f8\\'c5\\'63\\'c7\\'d8\\'b3\\'af\\'b5\\'c4\\'f4\\'a6\\'ce\\'c4\\'a1\\'a2\\'d0\\'a1\\'d7\\'ad\\'a3\\'ac\\'b0\\'6c\\'d5\\'b9\\'d6\\'c1\\'9d\\'68\\'b3\\'af\\'eb\\'60\\'d7\\'83\\'a3\\'ac\\'ae\\'61\\'c9\\'fa\\'c1\\'a5\\'ca\\'e9\\'a1\\'a2\\'b2\\'dd\\'ca\\'e9\\'d2\\'d4\\'bc\\'b0\\'bf\\'ac\\'ca\\'e9\\'a3\\'a8\\'d2\\'d4\\'bc\\'b0\\'d1\\'dc\\'c9\\'fa\\'b5\\'c4\\'d0\\'d0\\'ca\\'e9\\'a3\\'a9\\'a3\\'ac\\'d6\\'c1\\'cc\\'c6\\'b4\\'fa\\'bf\\'ac\\'bb\\'af\\'9e\\'e9\\'bd\\'f1\\'c8\\'d5\\'cb\\'f9\\'d3\\'c3\\'b5\\'c4\\'ca\\'d6\\'8c\\'91\\'d7\\'d6\\'f3\\'77\\'98\\'cb\\'9c\\'ca\\emdash\\emdash\\'d5\\'fd\\'bf\\'ac\\'a3\\'ac\\'d2\\'b2\\'ca\\'c7\\'bd\\'f1\\'c8\\'d5\\'c6\\'d5\\'b1\\'e9\\'ca\\'b9\\'d3\\'c3\\'b5\\'c4\\'ac\\'46\\'b4\\'fa\\'9d\\'68\\'d7\\'d6\\'a1\\'a3\\par\r\n\\par\r\n\\f7\\lang1049\\'ca\\'e8\\'f2\\'e0\\f1\\lang1033\\u769?\\f7\\lang1049\\'e9\\'f1\\'ea\\'ee\\'e5 \\'ef\\'e8\\'f1\\'fc\\'ec\\'ee\\f1\\lang1033\\u769? (\\f7\\lang1049\\'ea\\'e8\\'f2. \\'f2\\'f0\\'e0\\'e4. \\f2\\'9d\\'68\\'d7\\'d6\\f1\\lang1033 , \\f7\\lang1049\\'f3\\'ef\\'f0. \\f2\\'ba\\'ba\\'d7\\'d6\\f1\\lang1033 , \\f7\\lang1049\\'ef\\'e8\\'ed\\'fc\\'e8\\'ed\\'fc h\\f1\\lang1033\\'e0nz\\'ec, \\f7\\lang1049\\'ef\\'e0\\'eb\\'eb. \\'f5\\'e0\\'ed\\'fc\\'f6\\'e7\\'fb) \\f8\\emdash  \\f7\\'e8\\'e5\\'f0\\'ee\\'e3\\'eb\\'e8\\'f4\\'e8\\'f7\\'e5\\'f1\\'ea\\'e0\\'ff \\'e8\\'eb\\'e8 \\'e8\\'e4\\'e5\\'ee\\'e3\\'f0\\'e0\\'f4\\'e8\\'f7\\'e5\\'f1\\'ea\\'e0\\'ff \\'f1\\'e8\\'f1\\'f2\\'e5\\'ec\\'e0 \\'e7\\'e0\\'ef\\'e8\\'f1\\'e8, \\'e2\\'ee\\'e7\\'ed\\'e8\\'ea\\'f8\\'e0\\'ff \\'ed\\'e0 \\'f2\\'e5\\'f0\\'f0\\'e8\\'f2\\'ee\\'f0\\'e8\\'e8 \\'ca\\'e8\\'f2\\'e0\\'ff. \\'ce\\'f2\\'eb\\'e8\\'f7\\'e0\\'e5\\'f2\\'f1\\'ff \\'ee\\'f2 \\'e0\\'eb\\'f4\\'e0\\'e2\\'e8\\'f2\\'ed\\'ee\\'e9 \\'f2\\'e5\\'ec, \\'f7\\'f2\\'ee \\'ea\\'e0\\'e6\\'e4\\'ee\\'ec\\'f3 \\'e7\\'ed\\'e0\\'ea\\'f3 \\'ef\\'f0\\'e8\\'ef\\'e8\\'f1\\'e0\\'ed\\'ee \\'ea\\'e0\\'ea\\'ee\\'e5-\\'f2\\'ee \\'e7\\'ed\\'e0\\'f7\\'e5\\'ed\\'e8\\'e5 (\\'ed\\'e5 \\'f2\\'ee\\'eb\\'fc\\'ea\\'ee \\'f4\\'ee\\'ed\\'e5\\'f2\\'e8\\'f7\\'e5\\'f1\\'ea\\'ee\\'e5), \\'e8 \\'f7\\'e8\\'f1\\'eb\\'ee \\'e7\\'ed\\'e0\\'ea\\'ee\\'e2 \\'ee\\'f7\\'e5\\'ed\\'fc \\'e2\\'e5\\'eb\\'e8\\'ea\\'ee (\\'e4\\'e5\\'f1\\'ff\\'f2\\'ea\\'e8 \\'f2\\'fb\\'f1\\'ff\\'f7).\\par\r\n\\par\r\n\\f9\\u8512?\\u8516?\\f10\\u8592?\\u8658?\\u8713?\\u8749?\\u8750?\\u8921?\\u10766?\\b\\i\\u-10187?\\u-8279?\\b0\\i0\\f8\\lang1033\\par\r\n}\r\n",
+    "DefaultMark": 1.0,
+    "Choice": [
+      {
+        "choice": "{\\rtf1\\ansi\\ansicpg1252\\deff0\\nouicompat\\deflang1033{\\fonttbl{\\f0\\fnil\\fcharset0 Segoe UI;}{\\f1\\fnil Segoe UI;}}\r\n{\\*\\generator Riched20 10.0.19041}\\viewkind4\\uc1 \r\n\\pard\\f0\\fs24 12\\f1\\par\r\n}\r\n",
+        "mark": 1.0
+      }
+    ]
+  }
+]
